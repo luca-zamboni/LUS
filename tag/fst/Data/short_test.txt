@@ -1,0 +1,10 @@
+
+tell	VV	tell
+me	PP	me
+the	DT	the
+producer	NN	producer
+for	IN	for
+the	DT	the
+godfather	NN	godfather
+
+
