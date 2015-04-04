@@ -9,7 +9,6 @@ FLAG_SYM=--symbols=learn_utils/lex2.lex
 
 UNK_SYMB='<unk>'
 
-DRAW="-d"
 
 INPUT_WORD=learn_utils/input-word
 FST_PROB=learned/fst-prob
@@ -17,6 +16,7 @@ LMTAG=learned/lmtag
 FINAL_TAGGER=Output/tagger
 
 ARGS=$@
+DRAW="-d"
 
 compilefst (){
 	fstcompile $FLAGS_ISYMB $FLAG_OSYMB $1.txt > $1.fst
