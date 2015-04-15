@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {0.1}Data Analysis}{1}
+\contentsline {section}{\numberline {0.2}Evaluation}{1}
+\contentsline {section}{\numberline {0.3}Comparison of different}{1}
+\contentsline {section}{\numberline {0.4}Feature sets}{1}
+\contentsline {section}{\numberline {0.5}Tool configuration}{1}
+\contentsline {section}{\numberline {0.6}Conclusion}{1}

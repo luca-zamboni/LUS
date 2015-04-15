@@ -24,5 +24,5 @@ with open('learn_utils/tok-tag.count','r') as f:
 
 	tags = getTags()
 	for tag in tags:
-		print("0 0 <unk> " + tag + " " + str(1.0/len(tags)))
+		print("0 0 <unk> " + tag + " " + str(- math.log(1.0/len(tags))))
 	print("0")
