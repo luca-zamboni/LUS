@@ -61,6 +61,7 @@ do
                 fi
         	done < learn_utils/temp.txt
             
+            echo "" >> $FILE_OUT2
         	rm -f learn_utils/temp.txt
 
         	sent=""

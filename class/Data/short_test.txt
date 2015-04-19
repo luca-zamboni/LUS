@@ -1,0 +1,114 @@
+star	NN	star
+of	IN	of
+thor	NN	thor
+
+who	WP	who
+is	VBZ	be
+in	IN	in
+the	DT	the
+movie	NN	movie
+the	DT	the
+campaign	NN	campaign
+
+list	VV	list
+the	DT	the
+cast	NN	cast
+of	IN	of
+the	DT	the
+movie	NN	movie
+the	DT	the
+campaign	NN	campaign
+
+who	WP	who
+was	VBD	be
+in	IN	in
+twilight	NN	twilight
+
+who	WP	who
+is	VBZ	be
+in	IN	in
+vulguria	NN	vulguria
+
+actor	NN	actor
+from	IN	from
+lost	VVN	lose
+
+who	WP	who
+played	VVD	play
+in	IN	in
+the	DT	the
+movie	NN	movie
+rocky	JJ	rocky
+
+who	WP	who
+played	VVD	play
+in	IN	in
+the	DT	the
+movie	NN	movie
+captain	NN	captain
+america	NN	america
+
+cast	NN	cast
+and	CC	and
+crew	NN	crew
+for	IN	for
+in	IN	in
+july	NN	July
+
+who	WP	who
+is	VBZ	be
+in	IN	in
+movie	NN	movie
+in	IN	in
+july	RB	july
+
+who	WP	who
+'s	VBZ	be
+in	IN	in
+star	NN	star
+wars	NNS	war
+episode	NN	episode
+four	CD	four
+
+who	WP	who
+was	VBD	be
+in	IN	in
+apollo	NN	apollo
+thirteen	CD	thirteen
+
+who	WP	who
+was	VBD	be
+apollo	NN	apollo
+thirteen	CD	thirteen
+'s	VBZ	be
+cast	VVN	cast
+
+search	NN	search
+for	IN	for
+information	NN	information
+about	IN	about
+the	DT	the
+cast	NN	cast
+and	CC	and
+crew	NN	crew
+of	IN	of
+appolo	NP	appolo
+thirteen	CD	thirteen
+
+i	NP	i
+would	MD	would
+like	VV	like
+to	TO	to
+know	VV	know
+more	JJR	more
+about	IN	about
+the	DT	the
+cast	NN	cast
+and	CC	and
+crew	NN	crew
+of	IN	of
+the	DT	the
+movie	NN	movie
+apollo	NN	apollo
+thirteen	CD	thirteen
+

@@ -7,12 +7,12 @@ MODEL_WORD_LABEL = "model/word.model"
 MODEL_TOTAL= "model/total.model"
 
 UNK = '<unk>'
-
-TRAIN = "NLSPARQL.train.tok"
-TEST = "NLSPARQL.test.tok"
-SHORT_TEST = "short-test.txt"
-LABEL = "NLSPARQL.train.utt.labels.txt"
-LABEL_TEST = "NLSPARQL.test.utt.labels.txt"
+LEMMA_TRAIN = "Data/lemmedTrain.txt"
+LEMMA_TEST = "Data/lemmedTest.txt"
+TRAIN = "Data/NLSPARQL.train.tok"
+TEST = "Data/NLSPARQL.test.tok"
+LABEL = "Data/NLSPARQL.train.utt.labels.txt"
+LABEL_TEST = "Data/NLSPARQL.test.utt.labels.txt"
 TAG_TRAIN = "Tag-train.txt"
 TAG_TEST =  "Tag-test.txt"
 STOP_WORD = "english.stop.txt"
@@ -134,9 +134,9 @@ def nGramList(words):
   		ret = ret + [w + "_" +x]
 
 
-  	#word = zip(words,words[1:],words[2:])
-  	#for w,x,z in word:
-  	#	ret = ret + [w + "_" +x+ "_"+z]
+  	word = zip(words,words[1:],words[2:])
+  	for w,x,z in word:
+  		ret = ret + [w + "_" +x+ "_"+z]
   	
   	return ret
 
@@ -149,8 +149,9 @@ def mergeList(l1,l2):
 
 #Given text and tags retrun unigram of combined features
 def featurExtract(text,tags):
-	#text,tags = removeStopTags(text,tags)
-	ret = text.split()
+	text,tags = removeStopTags(text,tags)
+	ret = []
+	ret += text.split()
 	nG = text.split()
 	#Ngramm of text
 	ret += nGramList(nG)
@@ -162,12 +163,13 @@ def featurExtract(text,tags):
 	#tagBigram = zip(tags.split(), tags.split()[1:])
   	#for w,x in tagBigram:
   	#	tagBi = tagBi + [w + "_" +x]
+  	#ret += tagBi
 
   	#Unigram Text with relative Tag
 
   	#ret += mergeList(text.split()[1:],tagBi)
 
-	#ret += mergeList(text.split(),tags.split())
+	ret += mergeList(text.split(),tags.split())
 
   	#print(ret)
 

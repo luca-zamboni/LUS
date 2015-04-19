@@ -1,3 +1,23 @@
+a 	L-actor	L-producer
+
+a 	L-actor	L-movie
+
+a 	L-actor	L-actor
+
+a 	L-actor	L-actor
+
+a 	L-actor	L-movie
+
+a 	L-actor	L-actor
+
+a 	L-actor	L-actor
+
+a 	L-actor	L-actor
+
+a 	L-actor	L-actor
+
+a 	L-actor	L-movie
+
 a 	L-actor	L-movie
 
 a 	L-actor	L-actor
@@ -18,17 +38,15 @@ a 	L-actor	L-actor
 
 a 	L-actor	L-actor
 
-a 	L-actor	L-movie
+a 	L-actor	L-actor
+
+a 	L-actor	L-actor
+
+a 	L-actor	L-actor
 
 a 	L-actor	L-actor_name
 
-a 	L-actor	L-actor
-
-a 	L-actor	L-actor
-
 a 	L-actor	L-movie
-
-a 	L-actor	L-actor
 
 a 	L-actor	L-actor
 
@@ -45,30 +63,12 @@ a 	L-actor	L-actor
 a 	L-actor	L-actor
 
 a 	L-actor	L-actor_name
-
-a 	L-actor	L-movie
-
-a 	L-actor	L-movie
-
-a 	L-actor	L-person
-
-a 	L-actor	L-actor
-
-a 	L-actor	L-actor
-
-a 	L-actor	L-movie
-
-a 	L-actor	L-actor
-
-a 	L-actor	L-actor
-
-a 	L-actor	L-actor
 
 a 	L-actor_name	L-actor
 
 a 	L-actor_name	L-actor_name
 
-a 	L-budget	L-rating
+a 	L-budget	L-director
 
 a 	L-budget	L-budget
 
@@ -88,55 +88,55 @@ a 	L-budget	L-budget
 
 a 	L-budget	L-budget
 
+a 	L-budget	L-budget
+
+a 	L-budget	L-budget
+
+a 	L-budget	L-budget
+
+a 	L-budget	L-budget
+
+a 	L-budget	L-budget
+
+a 	L-budget	L-budget
+
+a 	L-budget	L-budget
+
+a 	L-budget	L-budget
+
+a 	L-budget	L-budget
+
 a 	L-budget	L-revenue
 
-a 	L-budget	L-budget
-
-a 	L-budget	L-budget
-
-a 	L-budget	L-budget
-
-a 	L-budget	L-budget
-
-a 	L-budget	L-budget
-
-a 	L-budget	L-budget
-
-a 	L-budget	L-budget
-
-a 	L-budget	L-budget
-
-a 	L-budget	L-revenue
-
-a 	L-budget	L-budget
-
-a 	L-movie_count	L-movie_count
-
-a 	L-movie_count	L-movie_count
+a 	L-budget	L-producer
 
 a 	L-movie_count	L-movie
 
 a 	L-movie_count	L-movie_count
 
-a 	L-movie_count	L-movie_count
+a 	L-movie_count	L-movie
 
-a 	L-movie_count	L-movie_count
+a 	L-movie_count	L-movie
 
-a 	L-movie_count	L-movie_count
+a 	L-movie_count	L-movie
 
-a 	L-movie_count	L-movie_count
+a 	L-movie_count	L-movie
+
+a 	L-movie_count	L-movie
+
+a 	L-movie_count	L-movie
+
+a 	L-country	L-country
+
+a 	L-country	L-language
+
+a 	L-country	L-movie
 
 a 	L-country	L-country
 
 a 	L-country	L-country
 
-a 	L-country	L-country
-
-a 	L-country	L-country
-
-a 	L-country	L-country
-
-a 	L-country	L-country
+a 	L-country	L-movie
 
 a 	L-country	L-country
 
@@ -154,7 +154,27 @@ a 	L-release_date	L-release_date
 
 a 	L-release_date	L-release_date
 
+a 	L-release_date	L-movie
+
+a 	L-release_date	L-director
+
+a 	L-release_date	L-movie
+
 a 	L-release_date	L-release_date
+
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-producer
+
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-revenue
+
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-movie_other
 
 a 	L-release_date	L-release_date
 
@@ -166,7 +186,7 @@ a 	L-release_date	L-release_date
 
 a 	L-release_date	L-release_date
 
-a 	L-release_date	L-release_date
+a 	L-release_date	L-budget
 
 a 	L-release_date	L-release_date
 
@@ -176,7 +196,11 @@ a 	L-release_date	L-release_date
 
 a 	L-release_date	L-release_date
 
-a 	L-release_date	L-release_date
+a 	L-release_date	L-movie
+
+a 	L-release_date	L-actor
+
+a 	L-release_date	L-actor
 
 a 	L-release_date	L-release_date
 
@@ -184,41 +208,17 @@ a 	L-release_date	L-release_date
 
 a 	L-release_date	L-release_date
 
-a 	L-release_date	L-release_date
+a 	L-release_date	L-revenue
 
 a 	L-release_date	L-release_date
 
-a 	L-release_date	L-release_date
+a 	L-release_date	L-movie
 
-a 	L-release_date	L-release_date
+a 	L-release_date	L-movie
 
-a 	L-release_date	L-release_date
+a 	L-release_date	L-movie_other
 
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
+a 	L-release_date	L-movie
 
 a 	L-release_date	L-release_date
 
@@ -242,7 +242,7 @@ a 	L-director	L-director
 
 a 	L-director	L-director
 
-a 	L-director	L-rating
+a 	L-director	L-revenue
 
 a 	L-director	L-director
 
@@ -252,43 +252,7 @@ a 	L-director	L-release_date
 
 a 	L-director	L-movie
 
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-actor
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
 a 	L-director	L-movie
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-actor
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-director
-
-a 	L-director	L-director
 
 a 	L-director	L-director
 
@@ -308,15 +272,51 @@ a 	L-director	L-director
 
 a 	L-director	L-director
 
-a 	L-director_name	L-director_name
+a 	L-director	L-director
 
-a 	L-director_name	L-rating
+a 	L-director	L-movie
 
-a 	L-director_name	L-director_name
+a 	L-director	L-movie
 
-a 	L-genre	L-rating
+a 	L-director	L-actor
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-movie
+
+a 	L-director	L-movie
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director	L-director
+
+a 	L-director_name	L-director
+
+a 	L-director_name	L-director
+
+a 	L-director_name	L-director
 
 a 	L-genre	L-genre
+
+a 	L-genre	L-revenue
 
 a 	L-genre	L-genre
 
@@ -328,49 +328,47 @@ a 	L-genre	L-genre
 
 a 	L-genre	L-genre
 
-a 	L-genre	L-budget
+a 	L-genre	L-release_date
 
-a 	L-genre	L-movie_other
+a 	L-genre	L-genre
 
 a 	L-genre	L-genre
 
 a 	L-genre	L-release_date
 
+a 	L-genre	L-director
+
+a 	L-genre	L-budget
+
+a 	L-genre	L-genre
+
+a 	L-genre	L-genre
+
+a 	L-genre	L-genre
+
+a 	L-genre	L-actor
+
+a 	L-genre	L-genre
+
 a 	L-genre	L-movie
 
-a 	L-genre	L-genre
+a 	L-language	L-movie
 
-a 	L-genre	L-genre
-
-a 	L-genre	L-genre
-
-a 	L-genre	L-genre
-
-a 	L-genre	L-genre
-
-a 	L-genre	L-genre
-
-a 	L-genre	L-genre
-
-a 	L-language	L-language
-
-a 	L-language	L-language
-
-a 	L-language	L-language
-
-a 	L-language	L-language
-
-a 	L-language	L-country
-
-a 	L-language	L-language
-
-a 	L-language	L-country
+a 	L-language	L-movie
 
 a 	L-language	L-language
 
 a 	L-language	L-movie
 
-a 	L-movie_name	L-movie
+a 	L-language	L-country
+
+a 	L-language	L-movie
+
+a 	L-language	L-movie
+
+a 	L-language	L-language
+
+a 	L-language	L-language
 
 a 	L-movie_name	L-movie
 
@@ -378,7 +376,7 @@ a 	L-movie_name	L-movie
 
 a 	L-movie_name	L-movie
 
-a 	L-movie	L-movie
+a 	L-movie_name	L-movie
 
 a 	L-movie	L-movie
 
@@ -410,9 +408,11 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
+a 	L-movie	L-director
+
 a 	L-movie	L-movie
 
-a 	L-movie	L-movie_count
+a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
@@ -514,7 +514,7 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-person
 
-a 	L-movie	L-movie_other
+a 	L-movie	L-person
 
 a 	L-movie	L-movie
 
@@ -724,8 +724,6 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
-a 	L-movie	L-budget
-
 a 	L-movie	L-movie
 
 a 	L-movie	L-movie
@@ -743,6 +741,8 @@ a 	L-movie	L-movie
 a 	L-movie	L-movie
 
 a 	L-movie	L-movie
+
+a 	L-movie	L-movie_other
 
 a 	L-movie	L-movie
 
@@ -806,7 +806,7 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-actor
 
-a 	L-movie	L-movie
+a 	L-movie	L-movie_count
 
 a 	L-movie	L-movie
 
@@ -832,7 +832,7 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
-a 	L-movie	L-movie
+a 	L-movie	L-actor
 
 a 	L-movie	L-movie
 
@@ -980,9 +980,9 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
-a 	L-movie	L-movie_other
+a 	L-movie	L-director
 
-a 	L-movie	L-movie_other
+a 	L-movie	L-director
 
 a 	L-movie	L-movie
 
@@ -1016,63 +1016,63 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-revenue
 
+a 	L-movie	L-genre
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
 a 	L-movie	L-movie_other
 
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-organization	L-producer
+a 	L-organization	L-movie
 
 a 	L-organization	L-producer
 
@@ -1080,12 +1080,6 @@ a 	L-organization	L-producer
 
 a 	L-person	L-movie
 
-a 	L-person	L-movie
-
-a 	L-person	L-movie
-
-a 	L-person	L-movie
-
 a 	L-person	L-person
 
 a 	L-person	L-person
@@ -1096,11 +1090,13 @@ a 	L-person	L-person
 
 a 	L-person	L-person
 
-a 	L-person	L-movie
+a 	L-person	L-person
+
+a 	L-person	L-person
+
+a 	L-person	L-person
 
 a 	L-person	L-movie
-
-a 	L-person	L-person
 
 a 	L-person	L-movie
 
@@ -1112,13 +1108,17 @@ a 	L-person	L-person
 
 a 	L-person	L-movie
 
+a 	L-person	L-movie
+
+a 	L-person	L-person
+
 a 	L-person	L-person
 
 a 	L-person	L-movie
 
 a 	L-person	L-person
 
-a 	L-person	L-person
+a 	L-person	L-movie
 
 a 	L-person_name	L-producer
 
@@ -1128,11 +1128,11 @@ a 	L-producer	L-producer
 
 a 	L-producer	L-producer
 
-a 	L-producer	L-producer
+a 	L-producer	L-movie
 
 a 	L-producer	L-producer
 
-a 	L-producer	L-producer
+a 	L-producer	L-movie
 
 a 	L-producer	L-producer
 
@@ -1162,7 +1162,31 @@ a 	L-producer	L-producer
 
 a 	L-producer	L-budget
 
-a 	L-producer	L-director
+a 	L-producer	L-revenue
+
+a 	L-producer	L-producer
+
+a 	L-producer	L-producer
+
+a 	L-producer	L-producer
+
+a 	L-producer	L-producer
+
+a 	L-producer	L-movie
+
+a 	L-producer	L-movie
+
+a 	L-producer	L-person_name
+
+a 	L-producer	L-person_name
+
+a 	L-producer	L-producer
+
+a 	L-producer	L-producer
+
+a 	L-producer	L-person_name
+
+a 	L-producer	L-producer
 
 a 	L-producer	L-producer
 
@@ -1172,33 +1196,9 @@ a 	L-producer	L-producer
 
 a 	L-producer	L-producer
 
-a 	L-producer	L-rating
-
-a 	L-producer	L-movie
-
-a 	L-producer	L-person_name
-
 a 	L-producer	L-producer
 
-a 	L-producer	L-producer
-
-a 	L-producer	L-producer
-
-a 	L-producer	L-person_name
-
-a 	L-producer	L-producer
-
-a 	L-producer	L-producer
-
-a 	L-producer	L-producer
-
-a 	L-producer	L-producer
-
-a 	L-producer	L-producer
-
-a 	L-producer	L-producer
-
-a 	L-rating	L-movie
+a 	L-rating	L-rating
 
 a 	L-revenue	L-revenue
 
@@ -1210,7 +1210,7 @@ a 	L-revenue	L-revenue
 
 a 	L-revenue	L-revenue
 
-a 	L-revenue	L-revenue
+a 	L-revenue	L-budget
 
 a 	L-revenue	L-revenue
 
@@ -1218,7 +1218,7 @@ a 	L-revenue	L-revenue
 
 a 	L-revenue	L-revenue
 
-a 	L-revenue	L-revenue
+a 	L-revenue	L-movie
 
 a 	L-subjects	L-movie
 
@@ -1236,7 +1236,7 @@ a 	L-actor	L-actor
 
 a 	L-actor	L-actor
 
-a 	L-actor	L-actor
+a 	L-actor	L-director
 
 a 	L-actor	L-actor
 
@@ -1248,7 +1248,7 @@ a 	L-actor	L-movie
 
 a 	L-actor	L-actor
 
-a 	L-actor	L-director
+a 	L-actor	L-actor
 
 a 	L-actor_name	L-actor
 
@@ -1256,7 +1256,7 @@ a 	L-actor_name	L-actor
 
 a 	L-actor_name	L-actor
 
-a 	L-actor_name	L-actor
+a 	L-actor_name	L-movie
 
 a 	L-actor_name	L-actor_name
 
@@ -1276,7 +1276,9 @@ a 	L-budget	L-budget
 
 a 	L-budget	L-budget
 
-a 	L-budget	L-budget
+a 	L-budget	L-director
+
+a 	L-budget	L-release_date
 
 a 	L-budget	L-budget
 
@@ -1284,9 +1286,7 @@ a 	L-budget	L-budget
 
 a 	L-budget	L-budget
 
-a 	L-budget	L-budget
-
-a 	L-budget	L-revenue
+a 	L-budget	L-director
 
 a 	L-budget	L-budget
 
@@ -1302,13 +1302,7 @@ a 	L-budget	L-budget
 
 a 	L-company	L-movie
 
-a 	L-country	L-country
-
-a 	L-country	L-country
-
-a 	L-country	L-country
-
-a 	L-country	L-country
+a 	L-country	L-movie
 
 a 	L-country	L-country
 
@@ -1316,41 +1310,47 @@ a 	L-country	L-country
 
 a 	L-country	L-movie
 
+a 	L-country	L-movie
+
+a 	L-country	L-country
+
+a 	L-country	L-release_date
+
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-release_date
+
 a 	L-release_date	L-release_date
 
 a 	L-release_date	L-movie
 
+a 	L-release_date	L-release_date
+
+a 	L-release_date	L-revenue
+
+a 	L-release_date	L-release_date
+
 a 	L-release_date	L-movie
 
 a 	L-release_date	L-release_date
 
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
 a 	L-release_date	L-movie
 
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-release_date	L-release_date
-
-a 	L-director	L-director
-
-a 	L-director	L-director
+a 	L-release_date	L-budget
 
 a 	L-director	L-movie
 
-a 	L-director	L-actor
+a 	L-director	L-movie_other
+
+a 	L-director	L-movie
+
+a 	L-director	L-director
 
 a 	L-director	L-director
 
@@ -1358,7 +1358,7 @@ a 	L-language	L-language
 
 a 	L-language	L-language
 
-a 	L-language	L-language
+a 	L-language	L-movie
 
 a 	L-language	L-language
 
@@ -1506,7 +1506,7 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
-a 	L-movie	L-movie
+a 	L-movie	L-movie_other
 
 a 	L-movie	L-movie
 
@@ -1562,7 +1562,11 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
+a 	L-movie	L-movie_name
+
 a 	L-movie	L-movie
+
+a 	L-movie	L-movie_other
 
 a 	L-movie	L-movie
 
@@ -1590,11 +1594,7 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
+a 	L-movie	L-rating
 
 a 	L-movie	L-movie
 
@@ -1642,13 +1642,13 @@ a 	L-organization	L-producer
 
 a 	L-organization	L-producer
 
-a 	L-person	L-movie
+a 	L-person	L-person
+
+a 	L-person	L-person
 
 a 	L-person	L-movie
 
-a 	L-person	L-movie
-
-a 	L-person	L-movie
+a 	L-person	L-person
 
 a 	L-producer	L-producer
 
@@ -1656,7 +1656,7 @@ a 	L-producer	L-producer
 
 a 	L-producer	L-producer
 
-a 	L-producer	L-actor
+a 	L-producer	L-producer
 
 a 	L-producer	L-producer
 
@@ -1695,26 +1695,26 @@ a 	L-revenue	L-revenue
 a 	L-revenue	L-revenue
 
 a 	L-revenue	L-revenue
+
+a 	L-revenue	L-movie
+
+a 	L-revenue	L-director
+
+a 	L-revenue	L-movie
+
+a 	L-revenue	L-revenue
+
+a 	L-revenue	L-movie
+
+a 	L-revenue	L-movie
 
 a 	L-revenue	L-budget
 
-a 	L-revenue	L-revenue
-
-a 	L-revenue	L-revenue
-
-a 	L-revenue	L-revenue
-
-a 	L-revenue	L-revenue
-
-a 	L-revenue	L-revenue
-
-a 	L-revenue	L-revenue
-
-a 	L-revenue	L-revenue
+a 	L-revenue	L-movie
 
 a 	L-subjects	L-movie
 
-a 	L-producer	L-movie
+a 	L-producer	L-movie_other
 
 a 	L-movie_other	L-other
 
@@ -1724,7 +1724,7 @@ a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-movie_other
 
-a 	L-movie_other	L-person
+a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-movie
 
@@ -1734,65 +1734,11 @@ a 	L-movie_other	L-movie_other
 
 a 	L-movie_other	L-movie
 
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-movie_other
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-country
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-movie
-
 a 	L-movie_other	L-movie_other
 
 a 	L-movie_other	L-movie_other
 
-a 	L-movie_other	L-budget
-
 a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-actor
-
-a 	L-movie_other	L-movie_other
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-movie_other
-
-a 	L-movie_other	L-movie_other
 
 a 	L-movie_other	L-release_date
 
@@ -1800,37 +1746,91 @@ a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-movie
 
+a 	L-movie_other	L-movie_other
+
+a 	L-movie_other	L-movie
+
 a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-movie
 
-a 	L-movie_other	L-director
+a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-other
 
-a 	L-movie_other	L-movie_other
+a 	L-movie_other	L-other
+
+a 	L-movie_other	L-actor
+
+a 	L-movie_other	L-other
+
+a 	L-movie_other	L-other
 
 a 	L-movie_other	L-movie
 
-a 	L-movie_other	L-movie_other
+a 	L-movie_other	L-other
+
+a 	L-movie_other	L-other
 
 a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-movie
 
-a 	L-movie_other	L-movie
-
-a 	L-movie_other	L-movie_other
-
-a 	L-movie_other	L-movie_other
-
-a 	L-movie_other	L-movie
+a 	L-movie_other	L-rating
 
 a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-producer
 
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-actor
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-other
+
 a 	L-movie_other	L-movie_other
+
+a 	L-movie_other	L-movie_other
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-other
+
+a 	L-movie_other	L-other
+
+a 	L-movie_other	L-movie_other
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-review
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-movie_other
+
+a 	L-movie_other	L-movie_other
+
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-producer
+
+a 	L-movie_other	L-rating
 
 a 	L-movie_other	L-other
 
@@ -1844,19 +1844,19 @@ a 	L-movie_other	L-release_date
 
 a 	L-movie_other	L-movie
 
-a 	L-movie_other	L-movie_other
+a 	L-movie_other	L-movie
 
-a 	L-movie_other	L-movie_other
+a 	L-movie_other	L-movie
 
-a 	L-movie_other	L-movie_other
-
-a 	L-movie_other	L-other
-
-a 	L-movie_other	L-movie_other
+a 	L-movie_other	L-movie_name
 
 a 	L-movie_other	L-other
 
-a 	L-movie_other	L-movie_other
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-other
+
+a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-movie
 
@@ -1864,7 +1864,9 @@ a 	L-movie_other	L-movie_other
 
 a 	L-movie_other	L-movie_other
 
-a 	L-movie_other	L-movie_other
+a 	L-movie_other	L-movie
+
+a 	L-movie_other	L-other
 
 a 	L-movie_other	L-movie
 
@@ -1872,17 +1874,15 @@ a 	L-movie_other	L-movie
 
 a 	L-movie_other	L-revenue
 
-a 	L-movie_other	L-movie_other
-
 a 	L-movie_other	L-movie
 
 a 	L-other	L-movie
 
 a 	L-other	L-movie
 
-a 	L-other	L-person
-
 a 	L-other	L-movie
+
+a 	L-other	L-other
 
 a 	L-other	L-actor
 
@@ -1890,31 +1890,23 @@ a 	L-other	L-movie
 
 a 	L-other	L-movie
 
-a 	L-other	L-other
-
-a 	L-other	L-movie
-
-a 	L-other	L-movie
-
-a 	L-other	L-movie
-
-a 	L-other	L-movie
-
-a 	L-other	L-release_date
-
-a 	L-other	L-movie
-
-a 	L-other	L-movie
-
 a 	L-other	L-movie
 
 a 	L-other	L-movie_other
 
+a 	L-other	L-movie
+
+a 	L-other	L-movie
+
+a 	L-other	L-movie
+
 a 	L-other	L-other
 
-a 	L-other	L-movie_other
+a 	L-other	L-country
 
-a 	L-other	L-other
+a 	L-other	L-movie
+
+a 	L-other	L-movie
 
 a 	L-other	L-movie
 
@@ -1922,7 +1914,13 @@ a 	L-other	L-other
 
 a 	L-other	L-movie
 
-a 	L-actor	L-actor
+a 	L-other	L-other
+
+a 	L-other	L-movie
+
+a 	L-other	L-other
+
+a 	L-other	L-director
 
 a 	L-actor	L-actor
 
@@ -1932,13 +1930,15 @@ a 	L-actor	L-actor
 
 a 	L-actor	L-actor
 
-a 	L-birth_date	L-birth_date
+a 	L-actor	L-actor
 
 a 	L-birth_date	L-movie
 
-a 	L-country	L-country
+a 	L-birth_date	L-birth_date
 
-a 	L-country	L-country
+a 	L-country	L-director
+
+a 	L-country	L-movie
 
 a 	L-release_date	L-release_date
 
@@ -1946,7 +1946,7 @@ a 	L-description	L-movie
 
 a 	L-director	L-movie
 
-a 	L-director	L-movie
+a 	L-director	L-director
 
 a 	L-director	L-movie
 
@@ -1962,13 +1962,13 @@ a 	L-director	L-producer
 
 a 	L-director	L-director
 
-a 	L-director_name	L-director_name
+a 	L-director_name	L-director
 
 a 	L-director_name	L-movie
 
 a 	L-media	L-rating
 
-a 	L-media	L-rating
+a 	L-media	L-other
 
 a 	L-movie_name	L-movie
 
@@ -1978,7 +1978,45 @@ a 	L-movie	L-actor_name
 
 a 	L-movie	L-movie
 
+a 	L-movie	L-review
+
 a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie
+
+a 	L-movie	L-movie_count
+
+a 	L-movie	L-movie_count
 
 a 	L-movie	L-movie
 
@@ -2016,45 +2054,7 @@ a 	L-movie	L-movie
 
 a 	L-movie	L-movie
 
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-language
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
-
-a 	L-movie	L-movie
+a 	L-movie	L-movie_other
 
 a 	L-movie	L-movie
 
@@ -2064,25 +2064,25 @@ a 	L-movie	L-movie
 
 a 	L-person	L-movie
 
-a 	L-picture	L-movie_other
-
-a 	L-picture	L-other
-
 a 	L-picture	L-movie
 
 a 	L-picture	L-movie
 
 a 	L-picture	L-movie
 
-a 	L-producer	L-movie
+a 	L-picture	L-picture
+
+a 	L-picture	L-movie
+
+a 	L-producer	L-movie_other
 
 a 	L-producer	L-movie
 
 a 	L-rating	L-rating
 
-a 	L-rating	L-rating
+a 	L-rating	L-release_date
 
-a 	L-rating	L-movie_other
+a 	L-rating	L-movie
 
 a 	L-rating	L-rating
 
@@ -2096,27 +2096,27 @@ a 	L-rating	L-revenue
 
 a 	L-rating	L-rating
 
+a 	L-rating	L-release_date
+
+a 	L-rating	L-rating
+
+a 	L-rating	L-rating
+
+a 	L-rating	L-movie
+
+a 	L-rating	L-rating
+
+a 	L-rating	L-movie
+
+a 	L-rating	L-rating
+
 a 	L-rating	L-budget
 
-a 	L-rating	L-rating
-
-a 	L-rating	L-rating
-
-a 	L-rating	L-rating
-
-a 	L-rating	L-rating
-
-a 	L-rating	L-rating
-
-a 	L-rating	L-rating
-
-a 	L-rating	L-budget
-
 a 	L-revenue	L-revenue
 
-a 	L-revenue	L-revenue
+a 	L-revenue	L-actor
 
-a 	L-revenue	L-revenue
+a 	L-revenue	L-movie_other
 
 a 	L-revenue	L-revenue
 
@@ -2156,7 +2156,7 @@ a 	L-trailer	L-trailer
 
 a 	L-trailer	L-movie
 
-a 	L-trailer	L-movie
+a 	L-trailer	L-actor
 
 a 	L-trailer	L-release_date
 

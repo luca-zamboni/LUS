@@ -46,7 +46,7 @@ isSet() {
 }
 
 #GENERATE TXT FOR FST
-#python python_utils/fst-prob.py > $FST_PROB.txt
+python python_utils/fst-prob.py > $FST_PROB.txt
 python python_utils/genfsa.py $1 > $INPUT_WORD.txt
 
 #SIMPLE TAGGER
