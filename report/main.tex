@@ -22,7 +22,6 @@
 
 \input{title_page}
 
-\tableofcontents
 \newpage
 \section{Sequence lebeling}
 
@@ -45,34 +44,37 @@
 				\item OpenGrm used to automatically train models with n-grams
 			\end{itemize}
 		\subsubsection{Training}
-			First of all i created a file with the following structure
+			First of all I created a file with the following structure
 			\begin{equation}
 				word \qquad tag \qquad -log(P(w_i|t_i)))
 			\end{equation}
-			Where $P(w_i|t_i)$ is the probability of a word given a tag and is computed with the following formula $\frac{C(w_i,t_i)}{C(t_i)}$. $C(w_i,t_i)$ is the count of the word with a particular tag and $C(t_i)$ is the numer of appearance of a tag in the training test. I used minus log of the probability because in this way higer probability take a lower number than minus log of a  a low probability and this will be needed later. Then i created the transducer for the model in the following way:
+			Where $P(w_i|t_i)$ is the probability of a word given a tag and is computed with the following formula $\frac{C(w_i,t_i)}{C(t_i)}$. $C(w_i,t_i)$ is the count of the word with a particular tag and $C(t_i)$ is the numer of appearance of a tag in the training test. I used minus log of the probability because in this way higer probability take a lower number than minus log of a  a low probability and this will be needed later. For each tag is added a line that take in consideration unknown.\\ \\ 
+			\begin{equation}
+				<unk> \qquad tag \qquad \frac{1}{|tag|}
+			\end{equation}
+			Where $|tag| = 49$. Then I created the transducer for the model in the following way:
 			\begin{gather*}
 					0 \qquad 0 \qquad word \qquad tag \qquad -log(P(w_i|t_i)) \\
 					... \\
 					0 \qquad 0 \qquad word \qquad tag \qquad -log(P(w_i|t_i)) \\
-			\end{gather*}
-			At the end it has been added also the probability of an unknown word is present. This probability is equal for every tag. This transducer is our model based on unigrams. Now we want consider also the probability of a tag given the predecessor. To do this i used the Open-grm tool that automatically creates the model of n-grams of token. The command that i used are the following:\\ \\
+			\end{gather*} This transducer is our model based on unigrams. Now we want consider also the probability of a tag given the predecessor. To do this I used the Open-grm tool that automatically creates the model of n-grams of token. The command that I used are the following:\\ \\
 
-			\textbf{farcompilestrings} --unknown\_symbol='$<$unk$>$' input.txt $>$ far.far \\
+			\noindent\textbf{farcompilestrings} --unknown\_symbol='$<$unk$>$' input.txt $>$ far.far \\
 			\textbf{ngramcount} --order=N --require\_symbols=false far.far $>$ input.cnt \\
 			\textbf{ngrammake} --method=witten\_bell input.cnt $>$ ngrammodel.lm \\ \\
 
-			The final output is a fst that rappresent out model of 3-gram POS-tag.
-			Now that i trained my model i can test it.
+			The final output is a fst that rappresent out model of n-gram POS-tag.
+			Now that I trained my model I can test it.
 
 		\subsubsection{How to test}
-		    To test a sentence i created a fst for each sentence in this way:
+		    To test a sentence I created a fst for each sentence in this way:
 			\begin{gather*}
 					0 \quad 1 \quad word1 \quad word1 \\
 					1 \quad 2 \quad word2 \quad word2 \\
 					... \\
 					(N-1) \quad N \quad wordN \quad wordN	
 			\end{gather*}
-			If a word is not present in the train file it is substituted with '<unk>'.
+			If a word is not present in the train file it is substituted with '$<$unk$>$'.
 			Now this fst is composed with the fst that represent our unigram-tag model. \\ \\
 			\textbf{fstcompose} input-sentence.fst unigram-model.fst $>$ word-tagged-unigram.fst \\ \\
 			Now we have a simple tagger based on unigrams. To use also the model based on n-gram of tags we just compose the previous tagger with this. \\ \\
@@ -90,19 +92,21 @@
 			  \label{tagger-final}
 			\end{figure}
 		\subsubsection{Results of testing}
-			The test set is structured in the same way of the training set. This set has 7117 words each with the expected POS-tag. First i runned the test set with a simple tagger without n-grams of tag and after with. I also runned a train and test with lemmas. To evaluate the test was used a script in perl conneval.pl.
+			The test set is structured in the same way of the training set. This set has 7117 words each with the expected POS-tag. First I runned the test set with a simple tagger without n-grams of tag and after with. I also runned a train and test with lemmas. To evaluate the test was used a script in perl conlleval.pl.
 			\begin{table}[h]
 				\begin{tabular}{ccccc}
-					& \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} & \textbf{F1 Score} \\
+					& \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} & \textbf{FB1 Score} \\
 					\textbf{Unigram word POS-tag} & 84.91\%           & 83.20\%            & 84.61\%         & 83.90 \\
-					\textbf{2-gram POS-tag}       & 93.37\%           & 91.98\%            & 92.45\%         & 92.77 \\
+					\textbf{2-gram POS-tag}       & 93.37\%           & 91.98\%            & 92.45\%         & 92.21 \\
 					\textbf{3-gram POS-tag}       & 93.80\%           & 92.51\%            & 93.04\%         & 92.77 \\
-					\textbf{3-gram POS-tag with lemma}       & 78.22\%           & 75.80\%            & 74.09\%         & 74.94 \\
+					\cellcolor[HTML]{34FF34}\textbf{4-gram POS-tag}       & \cellcolor[HTML]{34FF34}94.13\%           & \cellcolor[HTML]{34FF34}92.87\%            & \cellcolor[HTML]{34FF34}93.29\%         & \cellcolor[HTML]{34FF34}93.08 \\
+					\textbf{5-gram POS-tag}       & 93.97\%           & 92.65\%            & 93.07\%         & 92.86 \\
+					\textbf{3-gram with lemma}       & 78.22\%           & 75.80\%            & 74.09\%         & 74.94 \\
 				\end{tabular}
 				\caption{Result of test}
 			\end{table}
 
-			The best result is in the model based on 3-gram. As we can see in the table, the simple POS-tagger is less precise of the tagger based on n-gram. This because using we do not consider only probability as word but also the previous word and the previous tag. As we can se from the table if we train our model considering also the lemma accuracy goes down a lot this because maybe in enghlish lemma doesn't count too much.Perhaps they can be useful in other language like Italian where the grammar is more complex. We can conclude that the model based on 3-gram is the best for accuracy. The model based on 4-gram is too complex and it risk to fit also the rumor and i decided to do not consider that.
+			The best result is in the model based on 4-gram. As we can see in the table, the simple POS-tagger is less precise of the tagger based on n-gram. This because using we do not consider only probability as word but also the previous word and the previous tag. As we can se from the table if we train our model considering also the lemma accuracy goes down a lot this because maybe in enghlish lemma doesn't count too much. Perhaps they can be useful in other language like Italian where the grammar is more complex. We conclude that models based on 4-grams are the best in term of accuracy but they require much more computational power than the simpler ones. If we want more accuracy we can use models based on 4-grams if we want performance we can use models based on 2-grams because the difference of accuracy is lower than 1\%.
 
 	\subsection{CRF}
 		\subsubsection{Data analysis}
@@ -121,18 +125,18 @@
 			U01:\%x[-1,0] \\
 			U02:\%x[0,0] \\
 			U03:\%x[1,0] \\ \\
-			Whit this template you consider 3 words at time as feature. \\
+			With this template you consider 3 words at time as feature. \\
 			The command to train is \\\\
 			\textbf{crf\_learn} template\_file train\_file model\_file\\\\
 			The model\_file is our trained model in output.
 		\subsubsection{Testing}
 			To test we must simply run the command \\ \\
 			\textbf{crf\_test} -m model\_file test\_files \\ \\
-			It outputs a file with token, expected tag and tag predicted by the model. After that to calculate statistics i used a perl file conneval.pl that calculate automatically: accuracy, precision, recall and F1 score. I runned different train with different template file and result are described in the following table with relative template below.
+			It outputs a file with token, expected tag and tag predicted by the model. After that to calculate statistics I used a perl file conneval.pl that calculate automatically: accuracy, precision, recall and FB1 score. I runned different train with different template file and result are described in the following table with relative template below.
 			\begin{table}[h]
 				\centering
 				\begin{tabular}{ccccc}
-					& \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall}  & \textbf{F1 Score} \\
+					& \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall}  & \textbf{FB1 Score} \\
 					\textbf{Template 1} & 87.59\%  & 44.99\%   & 60.49\% & 51.60    \\
 					\textbf{Template 2} & 93.59\%  & 74.74\%   & 73.24\% & 73.98     \\
 					\textbf{Template 3} & 93.76\%  & 76.97\%   & 74.43\% & 75.68    \\
@@ -147,7 +151,7 @@
 				\end{tabular}
 			\end{table}
 			As we can see from the tables template 4 is the one with higher performance.
-			Template 1 and 2 are very semple and they have a very little window. Template 3 and 4 have a template more complex and they have a similar accuracy but Template 4 have a greater F1 Score. In conclusion i can say that template 4 is the one with best performance because it is more complex because it consider also bigrams.
+			Template 1 and 2 are very semple and they have a very little window. Template 3 and 4 have a template more complex and they have a similar accuracy but Template 4 have a greater FB1 Score. In conclusion I can say that template 4 is the one with best performance because it is more complex because it consider also bigrams.
 \section{Text classification}
 	\subsection{Naive Bayes}
 		\subsubsection{Goal}
@@ -172,11 +176,11 @@
 			\end{gather*}
 			Where $P(w_i | tag)$ is the probability that the $word_i$ have that particular tag. To compute this probability we use the following formula $\frac{C(w_i | tag)}{C(w_i)}$. Where $C(w_i | tag)$ is the count of the word that appers with a particular tag and $C(w_i)$ is the count of that word in the dataset.
 		\subsubsection{Testing}
-			I did some test. First one with a simple naive classifier. After considering also bigrams of words as unigrams like $word_i\_word_i+1$. In this way the phrase "star of thor" becomes the set $\{star,of,thor,start\_of,of_thor\}$. This way also for the trigrams. It has been considered also POS-tag and removing english stop word. For the smoothing for a unknown word i used simple +1 on every count.
+			I did some test. First one with a simple naive classifier. After considering also bigrams of words as unigrams like $word_i\_word_i+1$. In this way the phrase "star of thor" becomes the set $\{star,of,thor,start\_of,of_thor\}$. This way also for the trigrams. It has been considered also POS-tag and removing english stop word. For the smoothing for a unknown word I used simple +1 on every count. I have done some test also not considering the prior. 
 			The result are described in the table \ref{bayes}.
 			\begin{table}[h]
 			\begin{tabular}{lcccccc}
-			                              & \textbf{Stop word} & \textbf{POS-Tag} & \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} & \textbf{F1} \\
+			                              & \textbf{Stop word} & \textbf{POS-Tag} & \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} & \textbf{FB1} \\
 			\textbf{S}               & Yes                & No               & 66.51\%           & 66.51\%            & 66.51\%         & 66.51             \\
 			\cellcolor[HTML]{34FF34}\textbf{S B}  & \cellcolor[HTML]{34FF34}Yes                & \cellcolor[HTML]{34FF34}No               & \cellcolor[HTML]{34FF34}79.52\%           & \cellcolor[HTML]{34FF34}79.52\%            & \cellcolor[HTML]{34FF34}79.52\%         & \cellcolor[HTML]{34FF34}79.52             \\
 			\textbf{S T} & Yes                & No               & 78.69\%           & 79.13\%            & 78.69\%         & 78.91             \\
@@ -188,11 +192,13 @@
 			\textbf{S T} & Yes                & Yes              & 77.86\%           & 78.37\%            & 77.86\%         & 78.11             \\
 			\textbf{S}               & No                 & Yes              & 68.54\%           & 68.54\%            & 68.54\%         & 68.54             \\
 			\textbf{S B}  & No                 & Yes              & 72.88\%           & 72.88\%            & 72.88\%         & 72.88             \\
-			\textbf{S T} & No                 & Yes              & 72.97\%           & 72.97\%            & 72.97\%         & 72.97            
+			\textbf{S T} & No                 & Yes              & 72.97\%           & 72.97\%            & 72.97\%         & 72.97 \\
+			\textbf{S NP} & 	Yes & 	No              & 69.10\%           & 69.10\%            & 69.10\%         & 69.10  \\
+			\textbf{S B NP} & Yes  & No              & 79.43\%           & 79.43\%            & 79.43\%         & 79.43             
 			\end{tabular}
-			\caption{ S = Simple , B = Bigrams , T = Tringrams }
+			\caption{ S = Simple , B = Bigrams , T = Tringrams , NP = No Prior }
 			\label{bayes}
 			\end{table}
-			As we can see the best model is based on Simple naive bayes classifier considering also bigrams of 2 word of the sentence. The results shows that if we remove stop word Accuracy gows down and if we consider also pos tag as feature the result doesn't change a lot. Instead unigrams and trigrams gives a lot of help to get the real tag. In fact accuracy grow by a $\sim 10\% $.
+			As we can see the best model is based on Simple naive bayes classifier considering also bigrams of 2 word of the sentence. The results shows that if we remove stop word Accuracy gows down and if we consider also pos tag as feature the result doesn't change a lot. Instead bigrams and trigrams gives a lot of help to get the real tag, in fact accuracy grow by a $\sim 10\% $. Not considering the prior does'n change a lot.
 
 \end{document}

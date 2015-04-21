@@ -53,7 +53,7 @@ and T-CC T-CC
 crew T-NN T-NN
 for T-IN T-IN
 in T-IN T-IN
-july T-NN T-NN
+july T-NN T-RB
 
 who T-WP T-WP
 is T-VBZ T-VBZ
@@ -127,7 +127,7 @@ actor T-NN T-NN
 from T-IN T-IN
 <unk> T-NN T-NN
 
-list T-NN T-VV
+list T-NN T-NN
 actors T-NNS T-NNS
 in T-IN T-IN
 the T-DT T-DT
@@ -138,4 +138,8064 @@ movie T-NN T-NN
 dirty T-JJ T-JJ
 dancing T-NN T-NN
 actors T-NNS T-NNS
+
+who T-WP T-WP
+are T-VBP T-VBP
+cast T-VVN T-NN
+and T-CC T-CC
+crew T-NN T-NN
+of T-IN T-IN
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+who T-WP T-WP
+was T-VBD T-VBD
+in T-IN T-IN
+hitch T-NN T-NN
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+in T-IN T-IN
+the T-DT T-DT
+cast T-NN T-NN
+of T-IN T-IN
+hitch T-NN T-NN
+
+star T-NN T-NN
+of T-IN T-IN
+facts T-NNS T-NNS
+of T-IN T-IN
+life T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movie T-NN T-NN
+credits T-NNS T-NNS
+
+who T-WP T-WP
+does T-VVZ T-VVZ
+the T-DT T-DT
+voices T-NNS T-NNS
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+
+find T-VV T-VV
+movie T-NN T-NN
+actors T-NNS T-NNS
+
+show T-NN T-VV
+credits T-NNS T-NNS
+- T-: T-:
+forager T-NN T-NN
+
+star T-NN T-NN
+of T-IN T-IN
+modern T-JJ T-JJ
+family T-NN T-NN
+
+look T-VV T-VV
+up T-RP T-RP
+information T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+cast T-NN T-NN
+crew T-NN T-NN
+of T-IN T-IN
+go T-NN T-NN
+
+find T-VV T-VV
+information T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+cast T-NN T-NN
+and T-CC T-CC
+crew T-NN T-NN
+of T-IN T-IN
+go T-NN T-NN
+
+who T-WP T-WP
+was T-VBD T-VBD
+in T-IN T-IN
+the T-DT T-DT
+cast T-NN T-NN
+of T-IN T-IN
+go T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+find T-VV T-VV
+the T-DT T-DT
+lead T-JJ T-JJ
+actor T-NN T-NN
+in T-IN T-IN
+pretty T-JJ T-JJ
+women T-NNS T-NNS
+
+what T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+actors T-NNS T-NNS
+names T-NNS T-NNS
+and T-CC T-CC
+<unk> T-NNS T-NN
+in T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+searching T-VVG T-VVG
+for T-IN T-IN
+names T-NNS T-NNS
+of T-IN T-IN
+crew T-NN T-NN
+members T-NNS T-NNS
+of T-IN T-IN
+<unk> T-NP T-NN
+thirteen T-CD T-CD
+
+budget T-NN T-NN
+for T-IN T-IN
+dark T-JJ T-JJ
+knight T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+godfather T-NN T-NN
+
+budget T-NN T-NN
+for T-IN T-IN
+twilight T-NN T-NN
+
+please T-UH T-UH
+look T-VV T-VV
+up T-RP T-RP
+the T-DT T-DT
+budget T-NN T-NN
+of T-IN T-IN
+step T-NN T-NN
+up T-RB T-RB
+
+budget T-NN T-NN
+for T-IN T-IN
+titanic T-JJ T-JJ
+the T-DT T-DT
+movie T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+titanic T-JJ T-JJ
+
+budget T-NN T-NN
+for T-IN T-IN
+iron T-NN T-NN
+man T-NN T-NN
+2 T-CD T-CD
+
+please T-VV T-UH
+tell T-VV T-VV
+me T-PP T-PP
+how T-WRB T-WRB
+much T-JJ T-RB
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+avatar T-NN T-NN
+
+how T-WRB T-WRB
+much T-JJ T-JJ
+money T-NN T-NN
+did T-VVD T-VVD
+they T-PP T-PP
+spend T-VVP T-VVP
+to T-TO T-TO
+make T-VV T-VV
+avatar T-NN T-NN
+
+avatar T-NN T-NN
+'s T-POS T-POS
+budget T-NN T-NN
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+avatar T-NN T-NN
+take T-VV T-VVP
+in T-IN T-IN
+
+please T-UH T-UH
+show T-VV T-VV
+me T-PP T-PP
+what T-WP T-WP
+the T-DT T-DT
+budget T-NN T-NN
+was T-VBD T-VBD
+for T-IN T-IN
+avatar T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+avatar T-NN T-NN
+movie T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+tell T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+budget T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+total T-JJ T-JJ
+budget T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+batman T-NN T-NN
+begins T-VVZ T-VVZ
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+avengers T-NNS T-NNS
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+gone T-VVN T-VVN
+with T-IN T-IN
+the T-DT T-DT
+wind T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+spent T-VVN T-VVN
+on T-IN T-IN
+my T-PP$ T-PP$
+big T-JJ T-JJ
+fat T-JJ T-JJ
+greek T-NN T-NN
+wedding T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+pretty T-RB T-JJ
+woman T-NN T-NN
+'s T-POS T-POS
+budget T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+spaceballs T-NNS T-NNS
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+kevin T-NN T-NN
+bacon T-NN T-NN
+been T-VBN T-VBN
+the T-DT T-DT
+lead T-JJ T-JJ
+actor T-NN T-NN
+in T-IN T-IN
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+star T-NN T-NN
+wars T-NNS T-NNS
+movies T-NNS T-NNS
+are T-VBP T-VBP
+there T-RB T-RB
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+movies T-NNS T-NNS
+are T-VBP T-VBP
+rated T-VVN T-VVN
+g T-NN T-NN
+
+spain T-NN T-NN
+has T-VHZ T-VHZ
+how T-WRB T-WRB
+many T-JJ T-JJ
+movies T-NNS T-NNS
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+kristen T-NN T-NP
+stewart T-NN T-NP
+starred T-VVN T-VVD
+in T-IN T-IN
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+robert T-JJ T-JJ
+wise T-NN T-NN
+directed T-VVD T-VVD
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+movies T-NNS T-NNS
+did T-VVD T-VVD
+alfred T-NN T-NN
+hitchcock T-NN T-NN
+direct T-JJ T-JJ
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+paramount T-JJ T-NN
+done T-VVN T-VVN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+country T-NN T-NN
+from T-IN T-IN
+where T-WRB T-WRB
+the T-DT T-DT
+movie T-NN T-NN
+kati T-NN T-NN
+patang T-NN T-NN
+comes T-VVZ T-VVZ
+
+what T-WP T-WP
+country T-NN T-NN
+is T-VBZ T-VBZ
+bullhead T-NN T-NN
+
+what T-WP T-WP
+country T-NN T-NN
+made T-VVD T-VVD
+black T-JJ T-JJ
+swan T-NN T-NN
+
+what T-WP T-WP
+country T-NN T-NN
+was T-VBD T-VBD
+black T-JJ T-JJ
+swan T-NN T-NN
+from T-IN T-IN
+
+what T-WP T-WP
+country T-NN T-NN
+was T-VBD T-VBD
+the T-DT T-DT
+movie T-NN T-NN
+made T-VVD T-VVN
+
+what T-WP T-WP
+country T-NN T-NN
+did T-VVD T-VVD
+<unk> T-JJ T-DT
+<unk> T-JJ T-NN
+<unk> T-NN T-NNS
+come T-VVN T-VVN
+from T-IN T-IN
+
+origin T-NN T-NN
+of T-IN T-IN
+titanic T-JJ T-JJ
+
+origin T-NN T-NN
+of T-IN T-IN
+king T-NN T-NN
+<unk> T-NN T-NN
+
+when T-WRB T-WRB
+will T-MD T-MD
+top T-JJ T-JJ
+gun T-NN T-NN
+be T-VB T-VB
+released T-VVN T-VVN
+
+release T-NN T-NN
+year T-NN T-NN
+and T-CC T-CC
+date T-NN T-NN
+for T-IN T-IN
+casino T-NN T-NN
+
+when T-WRB T-WRB
+did T-VVD T-VVD
+will T-MD T-NN
+ferrell T-RB T-NN
+<unk> T-VV T-IN
+acting T-VVG T-VVG
+
+show T-VV T-VV
+me T-PP T-PP
+when T-WRB T-WRB
+24 T-CD T-RB
+will T-MD T-MD
+be T-VB T-VB
+released T-VVN T-VVN
+
+can T-MD T-MD
+i T-NP T-NP
+have T-VHP T-VHP
+release T-NN T-NN
+date T-NN T-NN
+of T-IN T-IN
+movie T-NN T-NN
+
+movie T-NN T-NN
+'s T-POS T-POS
+release T-NN T-NN
+date T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+when T-WRB T-WRB
+the T-DT T-DT
+movie T-NN T-NN
+was T-VBD T-VBD
+made T-VVN T-VVN
+
+when T-WRB T-WRB
+the T-DT T-DT
+movie T-NN T-NN
+titanic T-JJ T-JJ
+was T-VBD T-VBD
+released T-VVN T-VVN
+
+what T-WP T-WP
+year T-NN T-NN
+did T-VVD T-VVD
+the T-DT T-DT
+italian T-JJ T-JJ
+movie T-NN T-NN
+<unk> T-NN T-IN
+<unk> T-NN T-NNS
+come T-VVN T-VVN
+out T-RP T-RP
+
+can T-MD T-MD
+you T-PP T-PP
+please T-VV T-VV
+search T-NN T-NN
+for T-IN T-IN
+release T-NN T-NN
+date T-NN T-NN
+for T-IN T-IN
+karate T-NN T-NN
+kid T-NN T-NN
+
+karate T-NN T-NN
+kid T-NN T-NN
+release T-NN T-NN
+date T-NN T-NN
+please T-RB T-RB
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+spaceballs T-NNS T-NNS
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+batman T-NN T-NN
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+pretty T-RB T-JJ
+woman T-NN T-NN
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+men T-NNS T-NNS
+in T-IN T-IN
+black T-JJ T-JJ
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+did T-VVD T-VVD
+kristen T-NP T-NP
+stewart T-NP T-NP
+start T-NN T-VV
+acting T-NN T-VVG
+
+when T-WRB T-WRB
+is T-VBZ T-VBZ
+possessed T-VVN T-VVN
+going T-VVG T-VVG
+to T-TO T-TO
+be T-VB T-VB
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+resident T-JJ T-JJ
+evil T-NN T-NN
+released T-VVN T-VVN
+
+release T-NN T-NN
+date T-NN T-NN
+for T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+finding T-VVG T-VVG
+nemo T-NN T-NN
+released T-VVN T-VVN
+
+release T-NN T-NN
+date T-NN T-NN
+of T-IN T-IN
+hum T-NN T-NN
+tum T-NN T-NN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+freedom T-NN T-NN
+writers T-NNS T-NNS
+released T-VVD T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+avatar T-NN T-NN
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+did T-VVD T-VVD
+avatar T-NN T-NN
+released T-VVD T-VVN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+the T-DT T-DT
+release T-NN T-NN
+date T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+tell T-VV T-VV
+me T-PP T-PP
+when T-WRB T-WRB
+was T-VBD T-VBD
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+released T-VVD T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+date T-NN T-NN
+night T-NN T-NN
+released T-VVD T-VVN
+
+when T-WRB T-WRB
+did T-VVD T-VVD
+black T-JJ T-JJ
+swan T-NN T-NN
+come T-VVN T-VVN
+out T-RP T-RP
+
+when T-WRB T-WRB
+did T-VVD T-VVD
+avergers T-NNS T-NNS
+come T-VV T-VVN
+out T-RP T-RP
+
+what T-WP T-WP
+date T-NN T-NN
+did T-VVD T-VVD
+the T-DT T-DT
+amazing T-JJ T-JJ
+spiderman T-NN T-NN
+show T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+1st T-JJ T-JJ
+time T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+release T-NN T-NN
+date T-NN T-NN
+of T-IN T-IN
+vulgaria T-NN T-NN
+
+when T-WRB T-WRB
+the T-DT T-DT
+movie T-NN T-NN
+the T-DT T-DT
+godfather T-NN T-NN
+was T-VBD T-VBD
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+does T-VVZ T-VVZ
+looper T-NN T-NN
+come T-VV T-VVN
+out T-RP T-RP
+
+can T-MD T-MD
+you T-PP T-PP
+tell T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+release T-NN T-NN
+date T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+barfi T-NN T-NNS
+
+what T-WP T-WP
+date T-NN T-NN
+did T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+heroine T-NN T-NN
+come T-VVN T-VVN
+out T-RP T-RP
+
+when T-WRB T-WRB
+did T-VVD T-VVD
+the T-DT T-DT
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+<unk> T-NN T-IN
+theaters T-NNS T-NNS
+
+what T-WP T-WP
+day T-NN T-NN
+is T-VBZ T-VBZ
+fun T-NN T-NN
+size T-NN T-NN
+coming T-VVG T-VVG
+out T-RP T-RP
+
+what T-WP T-WP
+day T-NN T-NN
+will T-NN T-MD
+<unk> T-NN T-PP
+<unk> T-VVD T-NNS
+come T-VV T-VVN
+out T-RP T-RP
+
+when T-WRB T-WRB
+will T-MD T-MD
+i T-NP T-NP
+be T-VB T-VB
+<unk> T-JJ T-VVN
+to T-TO T-TO
+view T-VV T-VV
+iron T-NN T-NN
+man T-NN T-NN
+3 T-CD T-CD
+
+on T-IN T-IN
+what T-WP T-WP
+date T-NN T-NN
+will T-MD T-NN
+iron T-VV T-NN
+man T-NN T-NN
+3 T-LS T-LS
+be T-VB T-VB
+released T-VVN T-VVN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+gone T-VVN T-VVN
+with T-IN T-IN
+the T-DT T-DT
+wind T-NN T-NN
+
+who T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+director T-NN T-NN
+for T-IN T-IN
+black T-JJ T-JJ
+swan T-NN T-NN
+
+tell T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+directed T-VVD T-VVN
+of T-IN T-IN
+black T-JJ T-JJ
+swan T-NN T-NN
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+sleepless T-JJ T-JJ
+in T-IN T-IN
+seattle T-NN T-NN
+
+find T-VV T-VV
+who T-WP T-WP
+the T-DT T-DT
+director T-NN T-NN
+was T-VBD T-VBD
+in T-IN T-IN
+men T-NNS T-NNS
+in T-IN T-IN
+black T-JJ T-JJ
+3 T-CD T-CD
+
+locate T-VV T-VV
+the T-DT T-DT
+director T-NN T-NN
+who T-WP T-WP
+created T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+men T-NNS T-NNS
+in T-IN T-IN
+black T-JJ T-JJ
+3 T-CD T-CD
+
+director T-NN T-NN
+of T-IN T-IN
+titanic T-JJ T-JJ
+
+titanic T-JJ T-JJ
+director T-NN T-NN
+
+avengers T-NNS T-NNS
+movie T-NN T-NN
+director T-NN T-NN
+
+<unk> T-NN T-NN
+of T-IN T-IN
+movie T-NN T-NN
+avengers T-NNS T-NNS
+
+who T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+director T-NN T-NN
+for T-IN T-IN
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+
+director T-NN T-NN
+for T-IN T-IN
+big T-JJ T-JJ
+
+who T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+welcome T-NN T-JJ
+to T-TO T-TO
+the T-DT T-DT
+dollhouse T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+at T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+who T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+toy T-NN T-JJ
+story T-NN T-NN
+
+list T-NN T-NN
+director T-NN T-NN
+gilda T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+field T-NN T-NN
+of T-IN T-IN
+dreams T-NNS T-NNS
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+second T-JJ T-JJ
+director T-NN T-NN
+on T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+find T-VV T-VV
+director T-NN T-NN
+of T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+finding T-VVG T-VVG
+nemo T-NN T-NN
+directed T-VVN T-VVN
+by T-IN T-IN
+who T-WP T-WP
+
+director T-NN T-NN
+of T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+hitch T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+know T-VV T-VV
+who T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+batman T-NN T-NN
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+director T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+words T-NNS T-NNS
+
+who T-WP T-WP
+directed T-VVD T-VVD
+million T-CD T-CD
+<unk> T-NN T-NN
+<unk> T-NN T-NN
+
+who T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+guy T-NN T-NN
+that T-WDT T-WDT
+directed T-VVD T-VVD
+<unk> T-NN T-NN
+
+who T-WP T-WP
+did T-VVD T-VVD
+twilight T-NN T-NN
+
+twilight T-NN T-NN
+director T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+twilight T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+twilight T-NN T-NN
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+hum T-NN T-NN
+tum T-NN T-NN
+
+look T-VV T-VV
+for T-IN T-IN
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+step T-NN T-NN
+up T-RB T-RB
+
+please T-UH T-UH
+find T-VV T-VV
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+freedom T-NN T-NN
+writers T-NNS T-NNS
+
+find T-VV T-VV
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+freedom T-NN T-NN
+writers T-NNS T-NNS
+
+look T-VV T-VV
+up T-RP T-RP
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+freedom T-NN T-NN
+writers T-NNS T-NNS
+
+find T-VV T-VV
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+freedom T-NN T-NN
+writers T-NNS T-NNS
+
+who T-WP T-WP
+directed T-VVD T-VVD
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+
+godfather T-NN T-NN
+director T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+who T-WP T-WP
+directed T-VVD T-VVD
+the T-DT T-DT
+sound T-NN T-NN
+of T-IN T-IN
+music T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+the T-DT T-DT
+sound T-NN T-NN
+of T-IN T-IN
+music T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+the T-DT T-DT
+sound T-NN T-NN
+of T-IN T-IN
+music T-NN T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+return T-NN T-NN
+
+show T-NN T-VV
+movie T-NN T-NN
+avengers T-NNS T-NNS
+director T-NN T-NN
+name T-NN T-NN
+
+name T-VV T-VV
+the T-DT T-DT
+director T-NN T-NN
+in T-IN T-IN
+sleepless T-JJ T-JJ
+in T-IN T-IN
+seattle T-NN T-NN
+
+what T-WP T-WP
+'s T-VBZ T-VBZ
+the T-DT T-DT
+genre T-NN T-NN
+for T-IN T-IN
+black T-JJ T-JJ
+swan T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+black T-JJ T-JJ
+swan T-NN T-NN
+'s T-POS T-POS
+genre T-NN T-NN
+
+what T-WP T-WP
+genre T-NN T-NN
+is T-VBZ T-VBZ
+parenthood T-NN T-NN
+
+what T-WP T-WP
+kind T-NN T-NN
+of T-IN T-IN
+movie T-NN T-NN
+is T-VBZ T-VBZ
+parenthood T-NN T-NN
+
+genre T-NN T-NN
+for T-IN T-IN
+pride T-NN T-NN
+and T-CC T-CC
+prejudice T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+tell T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+genre T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+lawless T-JJ T-JJ
+
+show T-VV T-VV
+me T-PP T-PP
+what T-WP T-WP
+genre T-NN T-NN
+does T-VVZ T-VVZ
+movie T-NN T-NN
+lawless T-JJ T-JJ
+belongs T-VVZ T-VVZ
+to T-TO T-TO
+
+genre T-NN T-NN
+for T-IN T-IN
+snow T-NN T-NN
+white T-NN T-NN
+and T-CC T-CC
+the T-DT T-DT
+huntsman T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+movie T-NN T-NN
+type T-NN T-NN
+
+what T-WP T-WP
+'s T-VBZ T-VBZ
+the T-DT T-DT
+genre T-NN T-NN
+of T-IN T-IN
+<unk> T-NN T-NN
+
+get T-VV T-VV
+the T-DT T-DT
+genre T-NN T-NN
+of T-IN T-IN
+welcome T-NN T-JJ
+to T-TO T-TO
+the T-DT T-DT
+dollhouse T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+find T-VV T-VV
+the T-DT T-DT
+genre T-NN T-NN
+freedom T-NN T-NN
+writers T-NNS T-NNS
+is T-VBZ T-VBZ
+in T-IN T-IN
+
+what T-WP T-WP
+genre T-NN T-NN
+is T-VBZ T-VBZ
+freedom T-NN T-NN
+writers T-NNS T-NNS
+in T-IN T-IN
+
+genre T-NN T-NN
+for T-IN T-IN
+batman T-NN T-NN
+
+give T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+genre T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+the T-DT T-DT
+genre T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+genre T-NN T-NN
+for T-IN T-IN
+bad T-JJ T-JJ
+teacher T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+tell T-VV T-VV
+me T-PP T-PP
+pretty T-JJ T-JJ
+girl T-NN T-NN
+the T-DT T-DT
+movie T-NN T-NN
+'s T-POS T-POS
+genre T-NN T-NN
+
+what T-WP T-WP
+genre T-NN T-NN
+is T-VBZ T-VBZ
+the T-DT T-DT
+movie T-NN T-NN
+pitch T-NN T-NN
+perfect T-JJ T-JJ
+
+in T-IN T-IN
+what T-WP T-WP
+language T-NN T-NN
+is T-VBZ T-VBZ
+this T-DT T-DT
+movie T-NN T-NN
+
+what T-WP T-WP
+language T-NN T-NN
+is T-VBZ T-VBZ
+this T-DT T-DT
+movie T-NN T-NN
+
+what T-WP T-WP
+language T-NN T-NN
+is T-VBZ T-VBZ
+the T-DT T-DT
+movie T-NN T-NN
+hero T-NN T-NN
+in T-IN T-IN
+
+language T-NN T-NN
+of T-IN T-IN
+king T-NN T-NN
+<unk> T-NN T-NN
+
+language T-NN T-NN
+of T-IN T-IN
+casa T-NN T-NN
+blanca T-NN T-NN
+
+what T-WP T-WP
+language T-NN T-NN
+is T-VBZ T-VBZ
+<unk> T-NN T-NN
+on T-IN T-IN
+in T-IN T-IN
+
+language T-NN T-NN
+of T-IN T-IN
+spanglish T-NN T-NN
+
+find T-VV T-VV
+out T-RP T-RP
+what T-WP T-WP
+language T-NN T-NN
+the T-DT T-DT
+father T-NN T-NN
+of T-IN T-IN
+my T-PP$ T-PP$
+children T-NNS T-NNS
+is T-VBZ T-VBZ
+in T-IN T-IN
+
+i T-NNS T-NNS
+am T-VBP T-VBP
+<unk> T-VVN T-VVN
+in T-IN T-IN
+<unk> T-VVG T-DT
+belle T-NN T-NN
+what T-WP T-WP
+foreign T-JJ T-JJ
+language T-NN T-NN
+is T-VBZ T-VBZ
+the T-DT T-DT
+movie T-NN T-NN
+available T-JJ T-JJ
+in T-IN T-IN
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+to T-TO T-TO
+find T-VV T-VV
+out T-RP T-RP
+about T-IN T-IN
+names T-NNS T-NNS
+of T-IN T-IN
+some T-DT T-DT
+japanese T-JJ T-JJ
+movies T-NNS T-NNS
+
+can T-MD T-MD
+you T-PP T-PP
+tell T-VV T-VV
+me T-PP T-PP
+names T-NNS T-NNS
+of T-IN T-IN
+some T-DT T-DT
+japanese T-JJ T-JJ
+movies T-NNS T-NNS
+
+ron T-NNS T-JJ
+howard T-RB T-NN
+name T-VVP T-NN
+some T-DT T-DT
+of T-IN T-IN
+the T-DT T-DT
+movies T-NNS T-NNS
+he T-PP T-PP
+produce T-VVP T-VV
+
+tell T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+names T-NNS T-NNS
+of T-IN T-IN
+the T-DT T-DT
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+william T-NP T-NP
+packer T-NN T-NN
+
+about T-IN T-IN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+show T-VV T-VV
+me T-PP T-PP
+info T-NN T-NN
+on T-IN T-IN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+find T-VV T-VV
+old T-JJ T-JJ
+movies T-NNS T-NNS
+
+find T-VV T-VV
+movie T-NN T-NN
+ratings T-NNS T-NNS
+
+find T-VV T-VV
+<unk> T-RB T-NNS
+released T-VVN T-VVN
+movies T-NNS T-NNS
+in T-IN T-IN
+spanish T-NN T-NN
+
+was T-VBD T-VBD
+bill T-NN T-NN
+paxton T-NN T-NN
+in T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+apollo T-NN T-NN
+thirteen T-CD T-CD
+
+was T-VBD T-VBD
+kevin T-NN T-NN
+bacon T-NN T-NN
+in T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+apollo T-NN T-NN
+thirteen T-CD T-CD
+
+find T-VV T-VV
+movies T-NNS T-NNS
+about T-IN T-IN
+dancing T-NN T-NN
+
+search T-NN T-NN
+for T-IN T-IN
+movies T-NNS T-NNS
+about T-IN T-IN
+dancing T-NN T-NN
+
+show T-NN T-VV
+will T-MD T-NN
+ferrell T-VV T-NN
+films T-NNS T-NNS
+
+will T-MD T-MD
+ferrell T-NP T-VV
+movies T-NNS T-NNS
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+will T-NN T-NN
+ferrell T-NN T-NN
+appeared T-VVD T-VVD
+in T-IN T-IN
+
+find T-VV T-VV
+russian T-JJ T-JJ
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+movie T-NN T-NN
+pretty T-JJ T-JJ
+women T-NNS T-NNS
+<unk> T-IN T-IN
+i T-NP T-NP
+can T-MD T-MD
+see T-VV T-VV
+who T-WP T-WP
+starred T-VVD T-VVD
+in T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+
+<unk> T-JJ T-NN
+
+the T-DT T-DT
+movie T-NN T-NN
+is T-VBZ T-VBZ
+called T-VVN T-VVN
+big T-JJ T-JJ
+
+will T-MD T-NN
+smith T-NN T-NN
+acting T-VVG T-VVG
+<unk> T-NN T-NN
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+movies T-NNS T-NNS
+did T-VVD T-VVD
+<unk> T-NN T-DT
+<unk> T-NNS T-NNS
+do T-VVP T-VVP
+
+movies T-NNS T-NNS
+and T-CC T-CC
+gross T-JJ T-JJ
+<unk> T-NN T-NN
+
+search T-NN T-NN
+for T-IN T-IN
+tim T-NN T-NN
+burton T-NN T-NN
+movies T-NNS T-NNS
+in T-IN T-IN
+french T-NNS T-NN
+
+exhibit T-VV T-VV
+all T-DT T-DT
+details T-NNS T-NNS
+of T-IN T-IN
+original T-JJ T-JJ
+finding T-VVG T-VVG
+nemo T-NN T-NN
+movie T-NN T-NN
+
+finding T-VVG T-VVG
+nemo T-NN T-NN
+movie T-NN T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+movie T-NN T-NN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+i T-NNS T-NNS
+am T-VBP T-VBP
+looking T-VVG T-VVG
+for T-IN T-IN
+information T-NN T-NN
+on T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+details T-NNS T-NNS
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+what T-WP T-WP
+did T-VVD T-VVD
+andrew T-NN T-JJ
+stanton T-NN T-NN
+direct T-JJ T-JJ
+
+show T-VV T-VV
+me T-PP T-PP
+some T-DT T-DT
+other T-JJ T-JJ
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+andrew T-JJ T-JJ
+stanton T-NN T-NN
+
+display T-NN T-VV
+albert T-NN T-NN
+brooks T-VVZ T-NNS
+movie T-NN T-NN
+
+show T-VV T-VV
+a T-DT T-DT
+movie T-NN T-NN
+with T-IN T-IN
+albert T-NN T-NN
+brooks T-NNS T-NNS
+in T-IN T-IN
+the T-DT T-DT
+cast T-NN T-NN
+
+what T-WP T-WP
+other T-JJ T-JJ
+films T-NNS T-NNS
+has T-VHZ T-VHZ
+sergio T-NN T-NN
+leone T-NN T-NN
+directed T-VVD T-VVD
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+george T-NN T-NN
+harrison T-NN T-NN
+produced T-VVD T-VVD
+
+what T-WP T-WP
+has T-VHZ T-VHZ
+charlie T-NN T-NN
+sheen T-NN T-NN
+starred T-VVN T-VVN
+in T-IN T-IN
+
+please T-UH T-UH
+find T-VV T-VV
+the T-DT T-DT
+movies T-NNS T-NNS
+in T-IN T-IN
+which T-WDT T-WDT
+clive T-JJ T-JJ
+owen T-NN T-NN
+has T-VHZ T-VHZ
+appeared T-VVN T-VVD
+
+in T-IN T-IN
+which T-WDT T-WDT
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+clive T-JJ T-JJ
+owen T-NNS T-NN
+appear T-VVP T-VVP
+
+spike T-NN T-NN
+lee T-NN T-NN
+directed T-VVD T-VVD
+what T-WP T-WP
+movie T-NN T-NN
+
+search T-NN T-NN
+for T-IN T-IN
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+spike T-NN T-NN
+lee T-NN T-NN
+
+movie T-NN T-NN
+release T-NN T-NN
+dates T-NNS T-NNS
+
+director T-NN T-NN
+information T-NN T-NN
+for T-IN T-IN
+movies T-NNS T-NNS
+
+movies T-NNS T-NNS
+by T-IN T-IN
+director T-NN T-NN
+
+please T-UH T-UH
+list T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+not T-RB T-RB
+rated T-VVN T-VVN
+pg T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+english T-JJ T-JJ
+speaking T-NN T-NN
+movies T-NNS T-NNS
+
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+movies T-NNS T-NNS
+made T-VVN T-VVN
+in T-IN T-IN
+america T-NN T-NN
+
+are T-VBP T-VBP
+there T-RB T-RB
+any T-DT T-DT
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+in T-IN T-IN
+the T-DT T-DT
+united T-VVN T-JJ
+states T-NNS T-NNS
+
+show T-VV T-VV
+english T-JJ T-JJ
+movies T-NNS T-NNS
+
+search T-NN T-NN
+english T-NN T-NN
+movies T-NNS T-NNS
+
+comedy T-NN T-NN
+
+find T-VV T-VV
+a T-DT T-DT
+comedy T-NN T-NN
+
+watch T-VV T-VV
+comedy T-NN T-NN
+movies T-NNS T-NNS
+
+get T-VV T-VV
+horror T-NN T-NN
+films T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+horror T-NN T-NN
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+a T-DT T-DT
+listing T-NN T-NN
+of T-IN T-IN
+horror T-NN T-NN
+movies T-NNS T-NNS
+
+show T-NN T-VV
+actor T-NN T-NN
+bruce T-NN T-NN
+willis T-NN T-NN
+movies T-NNS T-NNS
+
+which T-WDT T-WDT
+movies T-NNS T-NNS
+did T-VVD T-VVD
+bruce T-NN T-NN
+willis T-NNS T-NN
+star T-JJ T-NN
+in T-IN T-IN
+
+list T-NN T-NN
+movies T-NNS T-NNS
+with T-IN T-IN
+bruce T-NN T-NN
+willis T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+made T-VVN T-VVN
+in T-IN T-IN
+canada T-NP T-NN
+
+can T-MD T-MD
+i T-NNS T-NNS
+watch T-VV T-VV
+a T-DT T-DT
+canadian T-JJ T-JJ
+film T-NN T-NN
+
+see T-VV T-VV
+canadian T-JJ T-JJ
+movies T-NNS T-NNS
+
+search T-NN T-NN
+for T-IN T-IN
+information T-NN T-NN
+about T-IN T-IN
+canadian T-JJ T-JJ
+movies T-NNS T-NNS
+
+I T-PP T-PP
+'d T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+see T-VV T-VV
+some T-DT T-DT
+italian T-JJ T-JJ
+films T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+something T-NN T-NN
+italian T-NN T-NN
+- T-: T-:
+made T-VVN T-VVN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+a T-DT T-DT
+movie T-NN T-NN
+from T-IN T-IN
+spain T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+from T-IN T-IN
+spain T-NN T-NN
+
+spain T-NN T-NN
+country T-NN T-NN
+movies T-NNS T-NNS
+
+display T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+spanish T-JJ T-JJ
+films T-NNS T-NNS
+
+spanish T-JJ T-JJ
+movie T-NN T-NN
+listing T-NN T-NN
+
+spanish T-JJ T-JJ
+movies T-NNS T-NNS
+
+find T-VV T-VV
+actors T-NNS T-NNS
+in T-IN T-IN
+movies T-NNS T-NNS
+
+search T-NN T-NN
+by T-IN T-IN
+actors T-NNS T-NNS
+
+find T-VV T-VV
+some T-DT T-DT
+romantic T-JJ T-JJ
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+a T-DT T-DT
+movie T-NN T-NN
+in T-IN T-IN
+french T-NNS T-NN
+
+<unk> T-NP T-VV
+<unk> T-NP T-PP
+movies T-NNS T-NNS
+
+find T-VV T-VV
+movies T-NNS T-NNS
+with T-IN T-IN
+quentin T-NN T-NN
+<unk> T-NN T-NN
+as T-IN T-IN
+director T-NN T-NN
+
+england T-NN T-NN
+movies T-NNS T-NNS
+
+england T-NN T-NN
+movies T-NNS T-NNS
+please T-VVP T-VVP
+
+find T-VV T-VV
+<unk> T-JJ T-PP
+<unk> T-NN T-DT
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+what T-WP T-WP
+richard T-NN T-NN
+lester T-NN T-NN
+directed T-VVD T-VVD
+
+get T-VV T-VV
+films T-NNS T-NNS
+in T-IN T-IN
+hindi T-NNS T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+from T-IN T-IN
+india T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+a T-DT T-DT
+british T-JJ T-JJ
+horror T-NN T-NN
+movie T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+watch T-VV T-VV
+an T-DT T-DT
+r T-NN T-NN
+rated T-VVN T-VVN
+comedy T-NN T-NN
+
+list T-NN T-NN
+of T-IN T-IN
+french T-JJ T-JJ
+language T-NN T-NN
+comedies T-NNS T-NNS
+
+look T-NN T-VV
+for T-IN T-IN
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+movie T-NN T-NN
+with T-IN T-IN
+jennifer T-NN T-NN
+grey T-NN T-NN
+
+tell T-VV T-VV
+me T-PP T-PP
+in T-IN T-IN
+detail T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+tell T-VV T-VV
+about T-IN T-IN
+movie T-NN T-NN
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+can T-MD T-MD
+i T-NNS T-NNS
+see T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+bette T-NN T-NN
+midler T-NN T-NN
+movies T-NNS T-NNS
+
+list T-NN T-NN
+of T-IN T-IN
+movies T-NNS T-NNS
+starring T-VVG T-VVG
+bette T-NN T-NN
+midler T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+all T-RB T-DT
+of T-IN T-IN
+anne T-NN T-NN
+hathaway T-NN T-NN
+'s T-POS T-POS
+movies T-NNS T-NNS
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+sandra T-NN T-NN
+bullock T-NN T-NN
+produced T-VVD T-VVD
+
+find T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+from T-IN T-IN
+<unk> T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+robert T-VVN T-JJ
+redford T-NNS T-NNS
+been T-VBN T-VBN
+in T-IN T-IN
+
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+info T-NN T-NN
+
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+give T-VV T-VV
+a T-DT T-DT
+short T-JJ T-JJ
+bio T-NN T-NN
+for T-IN T-IN
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+about T-IN T-IN
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+movies T-NNS T-NNS
+from T-IN T-IN
+japan T-NN T-NN
+
+show T-NN T-VV
+movies T-NNS T-NNS
+from T-IN T-IN
+japan T-NN T-NN
+
+list T-NN T-VV
+japanese T-NN T-JJ
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+japanese T-JJ T-JJ
+movies T-NNS T-NNS
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+some T-DT T-DT
+japanese T-JJ T-JJ
+movies T-NNS T-NNS
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+japanese T-JJ T-JJ
+movies T-NNS T-NNS
+
+japanese T-JJ T-JJ
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+japanese T-JJ T-JJ
+language T-NN T-NN
+movies T-NNS T-NNS
+
+which T-WDT T-WDT
+films T-NNS T-NNS
+are T-VBP T-VBP
+spoken T-VVN T-VVN
+in T-IN T-IN
+japanese T-NN T-JJ
+
+miramax T-NN T-NN
+films T-NNS T-NNS
+only T-RB T-RB
+
+show T-NN T-VV
+movies T-NNS T-NNS
+by T-IN T-IN
+miramax T-NN T-NN
+
+search T-NN T-NN
+sandra T-NN T-NN
+bullock T-NN T-NN
+movies T-NNS T-NNS
+
+watch T-NN T-VV
+sandra T-NN T-NN
+bullock T-NN T-NN
+movies T-NNS T-NNS
+
+find T-VV T-VV
+movies T-NNS T-NNS
+about T-IN T-IN
+vampires T-NNS T-NNS
+
+find T-VV T-VV
+movies T-NNS T-NNS
+having T-VHG T-VHG
+vampires T-NNS T-NNS
+
+will T-MD T-NN
+smith T-NN T-NN
+movies T-NNS T-NNS
+
+cars T-NNS T-NNS
+movie T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+did T-VVD T-VVD
+darla T-NN T-NN
+anderson T-NN T-NN
+produce T-NN T-NN
+
+what T-WP T-WP
+films T-NNS T-NNS
+are T-VBP T-VBP
+made T-VVN T-VVN
+by T-IN T-IN
+paramount T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+by T-IN T-IN
+paramount T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+paramount T-JJ T-NN
+released T-VVN T-VVN
+
+show T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+from T-IN T-IN
+turkey T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+bruce T-NN T-NN
+lee T-NN T-NN
+
+is T-VBZ T-VBZ
+parenthood T-NN T-NN
+a T-DT T-DT
+drama T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+an T-DT T-DT
+kevin T-NN T-NN
+james T-VVZ T-NNS
+film T-NN T-NN
+tonight T-NN T-NN
+
+find T-VV T-VV
+films T-NNS T-NNS
+from T-IN T-IN
+china T-NN T-NN
+
+get T-VV T-VV
+films T-NNS T-NNS
+from T-IN T-IN
+china T-NN T-NN
+
+i T-NP T-NP
+'d T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+watch T-VV T-VV
+a T-DT T-DT
+movie T-NN T-NN
+made T-VVN T-VVN
+in T-IN T-IN
+china T-NN T-NN
+
+list T-VV T-VV
+some T-DT T-DT
+movies T-NNS T-NNS
+from T-IN T-IN
+china T-NN T-NN
+
+chinese T-JJ T-JJ
+films T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+other T-JJ T-JJ
+chinese T-JJ T-NN
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+chinese T-JJ T-JJ
+movies T-NNS T-NNS
+
+what T-WP T-WP
+movies T-NNS T-NNS
+have T-VHP T-VHP
+a T-DT T-DT
+pg-13 T-JJ T-NN
+rating T-NN T-NN
+
+please T-VV T-UH
+list T-NN T-VV
+movies T-NNS T-NNS
+that T-WDT T-WDT
+are T-VBP T-VBP
+rated T-VVN T-VVN
+pg-13 T-NN T-NN
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+a T-DT T-DT
+g T-NN T-NN
+rating T-NN T-NN
+<unk> T-IN T-IN
+i T-NP T-NP
+can T-MD T-MD
+take T-VV T-VV
+the T-DT T-DT
+kids T-NNS T-NNS
+
+find T-VV T-VV
+a T-DT T-DT
+g T-NN T-NN
+rated T-VVN T-VVN
+movie T-NN T-NN
+
+find T-VV T-VV
+g T-NN T-NN
+movies T-NNS T-NNS
+
+find T-VV T-VV
+g T-NN T-NN
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+rated T-VVN T-VVN
+g T-NN T-NN
+movies T-NNS T-NNS
+
+look T-VV T-VV
+up T-RP T-RP
+g T-NN T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+am T-VBP T-VBP
+searching T-VVG T-VVG
+for T-IN T-IN
+any T-DT T-DT
+g T-NN T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+for T-IN T-IN
+my T-PP$ T-PP$
+children T-NNS T-NNS
+to T-TO T-TO
+view T-VV T-VV
+
+rated T-VVN T-VVN
+g T-NN T-NN
+movies T-NNS T-NNS
+for T-IN T-IN
+family T-NN T-NN
+watching T-NN T-VVG
+
+find T-VV T-VV
+g T-NN T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+
+are T-VBP T-VBP
+there T-RB T-RB
+any T-DT T-DT
+movies T-NNS T-NNS
+rated T-VVD T-VVN
+g T-NN T-NN
+playing T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+movies T-NNS T-NNS
+rated T-VVN T-VVN
+g T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+rated T-VVN T-VVN
+g T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+with T-IN T-IN
+g T-NN T-NN
+rating T-NN T-NN
+
+did T-VVD T-VVD
+robert T-JJ T-JJ
+wise T-NN T-NN
+direct T-VV T-VV
+any T-DT T-DT
+other T-JJ T-JJ
+musicals T-NNS T-NNS
+
+bruce T-NN T-NN
+lee T-NN T-NN
+produced T-VVD T-VVD
+movie T-NN T-NN
+listing T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+last T-JJ T-JJ
+movie T-NN T-NN
+made T-VVN T-VVN
+by T-IN T-IN
+robert T-NN T-JJ
+wise T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+mgm T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+british T-RB T-JJ
+made T-VVD T-VVN
+movies T-NNS T-NNS
+
+movies T-NNS T-NNS
+from T-IN T-IN
+the T-DT T-DT
+uk T-NN T-NN
+
+find T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+from T-IN T-IN
+the T-DT T-DT
+uk T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+list T-VV T-NN
+ron T-JJ T-VVZ
+howard T-JJ T-JJ
+movie T-NN T-NN
+production T-NN T-NN
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+to T-TO T-TO
+know T-VV T-VV
+the T-DT T-DT
+movies T-NNS T-NNS
+produce T-VVP T-VVP
+by T-IN T-IN
+ron T-NN T-JJ
+howard T-NN T-NN
+
+did T-VVD T-VVD
+clint T-NN T-NN
+eastwood T-NN T-NN
+direct T-VV T-VV
+any T-DT T-DT
+other T-JJ T-JJ
+movies T-NNS T-NNS
+<unk> T-IN T-IN
+million T-CD T-CD
+<unk> T-NN T-NN
+<unk> T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+clint T-NN T-NN
+eastwood T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+have T-VHP T-VHP
+been T-VBN T-VBN
+directed T-VVN T-VVN
+by T-IN T-IN
+clint T-NN T-NN
+eastwood T-NN T-NN
+
+list T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+that T-WDT T-WDT
+were T-VBD T-VBD
+directed T-VVN T-VVN
+by T-IN T-IN
+clint T-NN T-NN
+eastwood T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+clint T-JJ T-NN
+eastwood T-NN T-NN
+directed T-VVD T-VVD
+
+show T-NN T-VV
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+clint T-NN T-NN
+eastwood T-NN T-NN
+
+find T-VV T-VV
+all T-DT T-DT
+films T-NNS T-NNS
+by T-IN T-IN
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+select T-VV T-VV
+the T-DT T-DT
+option T-NN T-NN
+to T-TO T-TO
+search T-VV T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+stephen T-NN T-NN
+spielberg T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+search T-VV T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+stephen T-NN T-NN
+speilberg T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+japanese T-JJ T-JJ
+horror T-NN T-NN
+movies T-NNS T-NNS
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+see T-VV T-VV
+movies T-NNS T-NNS
+ron T-NNS T-VVP
+howard T-RB T-RB
+directed T-VVN T-VVD
+
+movies T-NNS T-NNS
+by T-IN T-IN
+stephen T-NN T-NN
+spielberg T-NN T-NN
+
+movies T-NNS T-NNS
+by T-IN T-IN
+stephen T-NN T-NN
+spielberg T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+did T-VVD T-VVD
+stephen T-NN T-NN
+spielberg T-NNS T-NN
+direct T-JJ T-JJ
+
+list T-NN T-VV
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+movies T-NNS T-NNS
+
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+movie T-NN T-NN
+
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+movies T-NNS T-NNS
+please T-VVP T-VVP
+
+directed T-VVN T-VVN
+by T-IN T-IN
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+movies T-NNS T-NNS
+
+find T-VV T-VV
+movies T-NNS T-NNS
+from T-IN T-IN
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+watch T-VV T-VV
+a T-DT T-DT
+movie T-NN T-NN
+directed T-VVN T-VVN
+by T-IN T-IN
+eddie T-NN T-NN
+murphy T-NN T-NN
+
+the T-DT T-DT
+camp T-NN T-NN
+
+watch T-NN T-VV
+sandra T-NN T-NN
+bullock T-NN T-NN
+the T-DT T-DT
+blind T-JJ T-JJ
+side T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+movies T-NNS T-NNS
+with T-IN T-IN
+hugh T-NN T-NN
+jackman T-NN T-NN
+
+list T-NN T-NN
+movies T-NNS T-NNS
+with T-IN T-IN
+kevin T-NP T-NN
+<unk> T-NP T-NN
+
+look T-NN T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+from T-IN T-IN
+france T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+that T-WDT T-WDT
+were T-VBD T-VBD
+made T-VVN T-VVN
+in T-IN T-IN
+france T-NN T-NN
+
+find T-VV T-VV
+me T-PP T-PP
+any T-DT T-DT
+movies T-NNS T-NNS
+that T-WDT T-WDT
+were T-VBD T-VBD
+made T-VVN T-VVN
+in T-IN T-IN
+france T-NN T-NN
+
+french T-NN T-NN
+movies T-NNS T-NNS
+please T-VVP T-VVP
+
+french T-NN T-NN
+movies T-NNS T-NNS
+
+find T-VV T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+
+movies T-NNS T-NNS
+by T-IN T-IN
+producers T-NNS T-NNS
+
+display T-NN T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+mosfilm T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+kristen T-NP T-NP
+stewart T-NP T-NP
+'s T-POS T-POS
+first T-JJ T-JJ
+movie T-NN T-NN
+
+get T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+<unk> T-NN T-DT
+july T-RB T-NN
+
+tom T-NN T-NN
+hanks T-NNS T-NNS
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+with T-IN T-IN
+tom T-NN T-NN
+hanks T-NNS T-NNS
+
+i T-NNS T-NNS
+am T-VBP T-VBP
+trying T-VVG T-VVG
+to T-TO T-TO
+find T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+movies T-NNS T-NNS
+with T-IN T-IN
+tom T-NN T-NN
+hanks T-NNS T-NNS
+
+provide T-VV T-VV
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+oliver T-JJR T-JJR
+stone T-NN T-NN
+please T-VV T-RB
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+look T-VV T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+albert T-NN T-NN
+ruddy T-JJ T-JJ
+
+what T-WP T-WP
+are T-VBP T-VBP
+all T-RB T-RB
+of T-IN T-IN
+the T-DT T-DT
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+albert T-NN T-NN
+ruddy T-JJ T-JJ
+
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+yash T-NN T-NP
+chopra T-NN T-NP
+
+what T-WP T-WP
+did T-VVD T-VVD
+brad T-NN T-NN
+pitt T-NN T-NN
+<unk> T-NN T-NN
+
+bring T-VV T-VV
+up T-RP T-RP
+all T-DT T-DT
+brad T-NN T-NN
+pitt T-NN T-NN
+produced T-VVD T-VVD
+movies T-NNS T-NNS
+
+show T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+that T-IN/that T-WDT
+<unk> T-NN T-VBP
+<unk> T-NN T-RB
+directed T-VVD T-VVD
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+all T-PDT T-PDT
+the T-DT T-DT
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+james T-NNS T-NNS
+cameron T-NN T-NN
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+all T-PDT T-PDT
+the T-DT T-DT
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+james T-NNS T-NNS
+cameron T-NN T-NN
+
+james T-NNS T-NNS
+cameron T-NN T-NN
+movies T-NNS T-NNS
+produced T-VVD T-VVN
+
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+james T-NNS T-NNS
+cameron T-NN T-NN
+
+what T-WP T-WP
+films T-NNS T-NNS
+have T-VHP T-VHP
+been T-VBN T-VBN
+produced T-VVN T-VVN
+by T-IN T-IN
+warner T-NN T-NN
+bros. T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+warner T-NN T-NN
+bros. T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+have T-VHP T-VHP
+been T-VBN T-VBN
+produced T-VVN T-VVN
+by T-IN T-IN
+warner T-NN T-NN
+bros. T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+by T-IN T-IN
+wb T-NN T-NN
+
+give T-VV T-VV
+me T-PP T-PP
+information T-NN T-NN
+about T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+information T-NN T-NN
+about T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+finding T-VVG T-VVG
+nemo T-NN T-NN
+bing T-NNS T-NNS
+
+search T-NN T-VV
+finding T-NN T-VVG
+nemo T-NN T-NN
+
+show T-NN T-VV
+information T-NN T-NN
+page T-NN T-NN
+for T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+the T-DT T-DT
+campaign T-NN T-NN
+information T-NN T-NN
+
+more T-JJR T-JJR
+information T-NN T-NN
+on T-IN T-IN
+<unk> T-NP T-NN
+thirteen T-CD T-CD
+
+<unk> T-NN T-WP
+apollo T-NN T-NN
+thirteen T-CD T-CD
+
+has T-VHZ T-VHZ
+kristen T-NN T-NP
+stewart T-NN T-NP
+starred T-VVN T-VVD
+in T-IN T-IN
+movies T-NNS T-NNS
+other T-JJ T-JJ
+than T-IN T-IN
+twilight T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+kristen T-NN T-NP
+stewart T-NN T-NP
+movies T-NNS T-NNS
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+kristen T-NN T-NN
+<unk> T-NN T-NNS
+starred T-VVN T-VVN
+in T-IN T-IN
+
+lionsgate T-NN T-NN
+movies T-NNS T-NNS
+
+show T-NN T-VV
+lionsgate T-NN T-JJ
+movies T-NNS T-NNS
+
+show T-NN T-VV
+movies T-NNS T-NNS
+made T-VVN T-VVN
+by T-IN T-IN
+production T-NN T-NN
+lionsgate T-NNS T-NNS
+
+give T-VV T-VV
+me T-PP T-PP
+something T-NN T-NN
+by T-IN T-IN
+charles T-NNS T-NNS
+vidor T-NN T-VVP
+
+show T-NN T-VV
+charles T-NNS T-NNS
+vidor T-NN T-VVP
+movie T-NN T-NN
+
+what T-WP T-WP
+film T-NN T-NN
+did T-VVD T-VVD
+charles T-NNS T-NNS
+vidor T-NN T-VVP
+direct T-JJ T-JJ
+
+which T-WDT T-WDT
+movies T-NNS T-NNS
+have T-VHP T-VHP
+been T-VBN T-VBN
+made T-VVN T-VVN
+outside T-IN T-IN
+the T-DT T-DT
+united T-VVN T-JJ
+states T-NNS T-NNS
+
+find T-VV T-VV
+me T-PP T-PP
+<unk> T-NN T-DT
+movies T-NNS T-NNS
+
+display T-NN T-NN
+7 T-CD T-CD
+arts T-NNS T-NNS
+movies T-NNS T-NNS
+
+korean T-JJ T-JJ
+movie T-NN T-NN
+
+what T-WP T-WP
+other T-JJ T-JJ
+movies T-NNS T-NNS
+did T-VVD T-VVD
+roberto T-NN T-NP
+benigni T-NNS T-NP
+star T-JJ T-NN
+in T-IN T-IN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+movies T-NNS T-NNS
+starring T-VVG T-VVG
+denzel T-NN T-NN
+washington T-NNS T-NN
+please T-VVP T-RB
+
+list T-VV T-VV
+the T-DT T-DT
+kareena T-NN T-NN
+'s T-POS T-POS
+movie T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+watch T-VV T-VV
+a T-DT T-DT
+drama T-NN T-NN
+made T-VVN T-VVN
+in T-IN T-IN
+turkey T-NN T-NN
+
+jennifer T-NP T-NN
+<unk> T-NP T-NNS
+played T-VVD T-VVN
+in T-IN T-IN
+what T-WP T-WP
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+all T-RB T-DT
+of T-IN T-IN
+the T-DT T-DT
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+woody T-JJ T-JJ
+allen T-NN T-NN
+
+show T-NN T-VV
+robert T-NN T-JJ
+wise T-JJ T-NN
+movies T-NNS T-NNS
+
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+robert T-JJ T-JJ
+wise T-JJ T-NN
+movies T-NNS T-NNS
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+robert T-JJ T-JJ
+wise T-NN T-NN
+directed T-VVD T-VVD
+
+what T-WP T-WP
+movies T-NNS T-NNS
+have T-VHP T-VHP
+robert T-JJ T-JJ
+wise T-NN T-NN
+directed T-VVD T-VVD
+
+where T-WRB T-WRB
+can T-MD T-MD
+i T-NNS T-NNS
+find T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+chris T-NN T-NN
+nolan T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+brad T-NN T-NN
+pitt T-NN T-NN
+been T-VBN T-VBN
+in T-IN T-IN
+
+what T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+movies T-NNS T-NNS
+brad T-NN T-NN
+pitt T-NN T-NN
+had T-VHD T-VHD
+been T-VBN T-VBN
+in T-IN T-IN
+
+what T-WP T-WP
+are T-VBP T-VBP
+some T-DT T-DT
+movies T-NNS T-NNS
+with T-IN T-IN
+brad T-NN T-NN
+pitt T-NN T-NN
+
+find T-VV T-VV
+an T-DT T-DT
+r T-NN T-NN
+rated T-VVN T-VVN
+movie T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+r T-NN T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+r T-NN T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+
+look T-VV T-VV
+up T-RB T-RP
+r T-SYM T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+only T-RB T-RB
+r T-SYM T-SYM
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+rated T-VVN T-VVN
+r T-NN T-NN
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+only T-JJ T-JJ
+movies T-NNS T-NNS
+with T-IN T-IN
+a T-DT T-DT
+rating T-NN T-NN
+of T-IN T-IN
+r T-NN T-NN
+
+please T-UH T-UH
+look T-VV T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+with T-IN T-IN
+an T-DT T-DT
+r T-NN T-NN
+rating T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+rated T-VVN T-VVN
+r T-NN T-NN
+
+look T-NN T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+with T-IN T-IN
+an T-DT T-DT
+r T-NN T-NN
+rating T-NN T-NN
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+all T-DT T-DT
+movies T-NNS T-NNS
+that T-WDT T-WDT
+are T-VBP T-VBP
+rated T-VVN T-VVN
+r T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+watch T-VV T-VV
+movies T-NNS T-NNS
+from T-IN T-IN
+norway T-NN T-NN
+
+can T-MD T-MD
+i T-NP T-NP
+have T-VHP T-VHP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+spanish T-JJ T-JJ
+speaking T-NN T-NN
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+made T-VVN T-VVN
+in T-IN T-IN
+mexico T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+movie T-NN T-NN
+<unk> T-NN T-IN
+zombies T-NNS T-NNS
+
+what T-WP T-WP
+movies T-NNS T-NNS
+have T-VHP T-VHP
+zombies T-NNS T-NNS
+in T-IN T-IN
+them T-PP T-PP
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+about T-IN T-IN
+zombies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+about T-IN T-IN
+zombies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+<unk> T-NNS T-NNS
+by T-IN T-IN
+<unk> T-JJ T-DT
+<unk> T-NN T-NN
+
+show T-VV T-VV
+ridley T-NP T-NP
+scott T-NP T-NP
+'s T-POS T-POS
+filmography T-NN T-NN
+
+find T-VV T-VV
+ridley T-NP T-NP
+scott T-NP T-NP
+movies T-NNS T-NNS
+
+can T-MD T-MD
+you T-PP T-PP
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+ridley T-NP T-NP
+scott T-NP T-NP
+
+list T-NN T-VV
+german T-NN T-JJ
+movies T-NNS T-NNS
+
+german T-JJ T-JJ
+movies T-NNS T-NNS
+
+find T-VV T-VV
+action T-NN T-NN
+films T-NNS T-NNS
+
+find T-VV T-VV
+some T-DT T-DT
+action T-NN T-NN
+movies T-NNS T-NNS
+
+list T-NN T-NN
+dredd T-NN T-NN
+movie T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+george T-VV T-NN
+lucas T-NNS T-NNS
+movies T-NNS T-NNS
+
+find T-VV T-VV
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+george T-NN T-NN
+lucas T-NNS T-NNS
+
+produced T-VVN T-VVN
+by T-IN T-IN
+
+please T-UH T-UH
+find T-VV T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+morgan T-NN T-NN
+freeman T-NN T-NN
+
+please T-UH T-UH
+look T-VV T-VV
+up T-RP T-RP
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+morgan T-NN T-NN
+freeman T-NN T-NN
+
+search T-NN T-NN
+for T-IN T-IN
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+morgan T-NN T-NN
+freeman T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+morgan T-NN T-NN
+freeman T-NN T-NN
+
+look T-VV T-VV
+up T-RP T-RP
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+morgan T-NN T-NN
+freeman T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+meryl T-NN T-NN
+streep T-NNS T-NNS
+starred T-VVN T-VVN
+in T-IN T-IN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+this T-DT T-DT
+movie T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+movies T-NNS T-NNS
+made T-VVN T-VVN
+in T-IN T-IN
+russia T-NN T-NN
+
+look T-VVP T-VV
+up T-RB T-RP
+star T-VV T-NN
+wars T-NNS T-NNS
+four T-CD T-CD
+movie T-NN T-NN
+
+display T-VV T-VV
+all T-DT T-DT
+details T-NNS T-NNS
+about T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+- T-: T-:
+a T-DT T-DT
+new T-JJ T-JJ
+hope T-NN T-NN
+movie T-NN T-NN
+
+get T-VV T-VV
+all T-DT T-DT
+details T-NNS T-NNS
+about T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+- T-: T-:
+a T-DT T-DT
+new T-JJ T-JJ
+hope T-NN T-NN
+movie T-NN T-NN
+
+star T-NN T-NN
+wars T-NNS T-NNS
+episode T-NN T-NN
+four T-CD T-CD
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+star T-NN T-NN
+wars T-NNS T-NNS
+four T-CD T-CD
+main T-JJ T-JJ
+page T-NN T-NN
+
+search T-NN T-NN
+star T-NN T-NN
+wars T-NNS T-NNS
+four T-CD T-CD
+
+find T-VV T-VV
+me T-PP T-PP
+<unk> T-NNS T-NNS
+of T-IN T-IN
+info T-NN T-NN
+related T-VVN T-VVN
+to T-TO T-TO
+star T-VV T-VV
+wars T-NNS T-NNS
+four T-CD T-CD
+
+get T-VV T-VV
+details T-NNS T-NNS
+of T-IN T-IN
+in T-IN T-IN
+july T-JJ T-JJ
+movie T-NN T-NN
+
+find T-VV T-VV
+details T-NNS T-NNS
+of T-IN T-IN
+in T-IN T-IN
+july T-JJ T-JJ
+movie T-NN T-NN
+
+show T-NN T-VV
+details T-NNS T-NNS
+of T-IN T-IN
+in T-IN T-IN
+july T-JJ T-JJ
+movie T-NN T-NN
+
+tell T-VV T-VV
+me T-PP T-PP
+about T-RB T-RB
+in T-IN T-IN
+july T-JJ T-JJ
+movie T-NN T-NN
+
+look T-VV T-VV
+up T-RP T-RP
+the T-DT T-DT
+movie T-NN T-NN
+in T-IN T-IN
+july T-RB T-RB
+
+display T-NN T-VV
+information T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+title T-NN T-NN
+in T-IN T-IN
+july T-RB T-RB
+
+movie T-NN T-NN
+in T-IN T-IN
+july T-JJ T-JJ
+data T-NNS T-NNS
+
+where T-WRB T-WRB
+can T-MD T-MD
+i T-NNS T-NNS
+find T-VV T-VV
+the T-DT T-DT
+movie T-NN T-NN
+aankhen T-NN T-NN
+in T-IN T-IN
+hindi T-NN T-NN
+
+display T-NN T-VV
+julia T-NN T-NN
+roberts T-NNS T-NNS
+films T-NNS T-NNS
+
+list T-VV T-VV
+the T-DT T-DT
+movies T-NNS T-NNS
+that T-WDT T-WDT
+have T-VHP T-VHP
+the T-DT T-DT
+actress T-NN T-NN
+angelina T-NN T-NN
+jolie T-NN T-NN
+
+<unk> T-NN T-VV
+<unk> T-NN T-PP
+movies T-NNS T-NNS
+
+what T-WP T-WP
+movies T-NNS T-NNS
+did T-VVD T-VVD
+<unk> T-JJ T-NN
+<unk> T-NN T-IN
+direct T-JJ T-JJ
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+view T-VV T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+clint T-NN T-NN
+eastwood T-NN T-NN
+
+list T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+about T-IN T-IN
+horses T-NNS T-NNS
+
+find T-VV T-VV
+all T-DT T-DT
+johnny T-NN T-NN
+depp T-NN T-NN
+movies T-NNS T-NNS
+
+search T-NN T-NN
+by T-IN T-IN
+director T-NN T-NN
+
+search T-NN T-NN
+by T-IN T-IN
+director T-NN T-NN
+
+is T-VBZ T-VBZ
+there T-RB T-RB
+any T-DT T-DT
+upcoming T-JJ T-JJ
+movies T-NNS T-NNS
+from T-IN T-IN
+warner T-NN T-NN
+brothers T-NNS T-NNS
+
+bring T-VV T-VV
+up T-RP T-RP
+movies T-NNS T-NNS
+with T-IN T-IN
+ice T-NN T-NN
+skating T-VVG T-NN
+in T-IN T-IN
+it T-PP T-PP
+
+find T-VV T-VV
+<unk> T-RB T-NNS
+released T-VVN T-VVN
+comedies T-NNS T-NNS
+from T-IN T-IN
+england T-NN T-NN
+
+i T-NP T-NNS
+need T-NN T-VVP
+info T-NN T-NN
+on T-IN T-IN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+houses T-NNS T-NNS
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+about T-RB T-IN
+
+give T-VV T-VV
+me T-PP T-PP
+more T-JJR T-JJR
+facts T-NNS T-NNS
+about T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+in T-IN T-IN
+detail T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+in T-IN T-IN
+detail T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+display T-NN T-VV
+movie T-NN T-NN
+information T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+film T-NN T-NN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+films T-NNS T-NNS
+with T-IN T-IN
+chinese T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+watch T-VV T-VV
+a T-DT T-DT
+movie T-NN T-NN
+in T-IN T-IN
+chinese T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+and T-CC T-CC
+directed T-VVN T-VVN
+by T-IN T-IN
+tyler T-NN T-NN
+perry T-NN T-NN
+
+tom T-NN T-NN
+cruise T-NN T-NN
+movies T-NNS T-NNS
+please T-VVP T-VVP
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+tom T-NN T-NN
+cruise T-NN T-NN
+movies T-NNS T-NNS
+please T-VVP T-VVP
+
+which T-WDT T-WDT
+movies T-NNS T-NNS
+star T-VVP T-NN
+tom T-NN T-NN
+cruise T-NN T-NN
+
+which T-WDT T-WDT
+movies T-NNS T-NNS
+do T-VVP T-VVP
+tom T-NN T-NN
+cruise T-NN T-NN
+play T-VVP T-NN
+in T-IN T-IN
+
+find T-VV T-VV
+end T-NN T-NN
+of T-IN T-IN
+watch T-NN T-NN
+
+search T-NN T-NN
+by T-IN T-IN
+genre T-NN T-NN
+
+looking T-VVG T-VVG
+for T-IN T-IN
+movies T-NNS T-NNS
+of T-IN T-IN
+yash T-NN T-NP
+chopra T-NN T-NP
+
+find T-VV T-VV
+me T-PP T-PP
+information T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+campaign T-NN T-NN
+movie T-NN T-NN
+
+information T-NN T-NN
+for T-IN T-IN
+movie T-NN T-NN
+the T-DT T-DT
+campaign T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+info T-NN T-NN
+on T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+the T-DT T-DT
+campaign T-NN T-NN
+please T-RB T-RB
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+all T-PDT T-PDT
+the T-DT T-DT
+details T-NNS T-NNS
+about T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+the T-DT T-DT
+campaign T-NN T-NN
+
+sort T-VV T-NN
+all T-DT T-DT
+pg T-NN T-NN
+movies T-NNS T-NNS
+
+pg T-NN T-NN
+rated T-VVD T-VVN
+movies T-NNS T-NNS
+
+<unk> T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+pg T-NN T-NN
+movies T-NNS T-NNS
+please T-VVP T-VVP
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+pg T-NN T-NN
+movies T-NNS T-NNS
+
+can T-MD T-MD
+you T-PP T-PP
+find T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+pg T-NN T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+to T-TO T-TO
+watch T-VV T-VV
+
+show T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+pg T-NN T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+
+find T-VV T-VV
+movies T-NNS T-NNS
+with T-IN T-IN
+a T-DT T-DT
+pg T-NN T-NN
+rating T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+are T-VBP T-VBP
+pg T-JJ T-NN
+
+movies T-NNS T-NNS
+by T-IN T-IN
+alfred T-NN T-NN
+hitchcock T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+did T-VVD T-VVD
+alfred T-NN T-NN
+hitchcock T-NN T-NN
+make T-VV T-NN
+
+watch T-VV T-VV
+<unk> T-NN T-PP
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+any T-DT T-DT
+current T-JJ T-JJ
+movies T-NNS T-NNS
+starring T-VVG T-VVG
+tom T-NN T-NN
+hanks T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+recent T-JJ T-JJ
+movies T-NNS T-NNS
+rated T-VVN T-VVN
+pg T-NN T-NN
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+recent T-JJ T-JJ
+movies T-NNS T-NNS
+rated T-VVN T-VVN
+pg T-NN T-NN
+
+ray T-NN T-NN
+stark T-RB T-RB
+produced T-VVD T-VVD
+what T-WP T-WP
+other T-JJ T-JJ
+movies T-NNS T-NNS
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+spielberg T-NP T-NP
+'s T-POS T-POS
+latest T-JJS T-JJS
+movie T-NN T-NN
+
+please T-UH T-UH
+find T-VV T-VV
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+tom T-NN T-NN
+hanks T-NNS T-NNS
+
+are T-VBP T-VBP
+there T-RB T-RB
+any T-DT T-DT
+recent T-JJ T-JJ
+movies T-NNS T-NNS
+that T-WDT T-WDT
+are T-VBP T-VBP
+polish T-NN T-NN
+speaking T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+tom T-NN T-NN
+cruise T-NN T-NN
+been T-VBN T-VBN
+in T-IN T-IN
+recently T-RB T-RB
+
+search T-NN T-NN
+for T-IN T-IN
+new T-JJ T-JJ
+movies T-NNS T-NNS
+
+search T-NN T-NN
+for T-IN T-IN
+in T-IN T-IN
+july T-NN T-RB
+
+watch T-VV T-VV
+in T-IN T-IN
+july T-RB T-RB
+online T-JJ T-JJ
+
+search T-NN T-NN
+for T-IN T-IN
+information T-NN T-NN
+about T-IN T-IN
+lionsgate T-NNS T-NNS
+
+lionsgate T-JJ T-NN
+info T-NN T-NN
+
+find T-VV T-VV
+information T-NN T-NN
+about T-IN T-IN
+paramount T-JJ T-JJ
+studios T-NNS T-NNS
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+ray T-NN T-NN
+stark T-JJ T-RB
+
+find T-VV T-VV
+information T-NN T-NN
+on T-IN T-IN
+charles T-NNS T-NNS
+vidor T-NN T-VVP
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+look T-VV T-VV
+up T-RP T-RP
+information T-NN T-NN
+about T-IN T-IN
+tom T-NN T-NN
+cruise T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+please T-VV T-VV
+search T-NN T-NN
+details T-NNS T-NNS
+about T-RB T-IN
+will T-MD T-NN
+ferrell T-VV T-NN
+
+will T-MD T-MD
+ferrell T-NP T-NP
+biography T-NN T-NN
+
+show T-NN T-VV
+will T-MD T-NN
+ferrell T-VV T-NN
+biography T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+complete T-JJ T-JJ
+biography T-NN T-NN
+of T-IN T-IN
+will T-NN T-NN
+ferrell T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+information T-NN T-NN
+on T-IN T-IN
+will T-NN T-NN
+ferrell T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+will T-MD T-MD
+ferrell T-NN T-NP
+'s T-POS T-POS
+bio T-NN T-NN
+
+get T-VV T-VV
+info T-NN T-NN
+on T-IN T-IN
+kristen T-NP T-NP
+stewart T-NN T-NP
+
+does T-VVZ T-VVZ
+kristen T-NP T-NP
+stewart T-NP T-NP
+have T-VHP T-VHP
+a T-DT T-DT
+<unk> T-JJ T-NN
+page T-NN T-NN
+
+where T-WRB T-WRB
+can T-MD T-MD
+i T-NNS T-NNS
+find T-VV T-VV
+information T-NN T-NN
+about T-IN T-IN
+kristen T-NP T-NP
+stewart T-NN T-NP
+
+jennifer T-NN T-NN
+aniston T-NN T-NN
+bio T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+spielberg T-NP T-NN
+'s T-POS T-POS
+main T-JJ T-JJ
+page T-NN T-NN
+
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+summary T-NN T-NN
+
+about T-IN T-IN
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+find T-VV T-VV
+me T-PP T-PP
+bio T-NN T-NN
+details T-NNS T-NNS
+for T-IN T-IN
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+bio T-NN T-NN
+for T-IN T-IN
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+alfred T-NN T-NN
+hitchcock T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+more T-JJR T-JJR
+information T-NN T-NN
+about T-IN T-IN
+alfred T-NP T-NP
+<unk> T-NP T-NP
+'s T-POS T-POS
+biography T-NN T-NN
+
+all T-DT T-DT
+info T-NN T-NN
+hitchcock T-NN T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+producer T-NN T-NN
+of T-IN T-IN
+avatar T-NN T-NN
+
+producer T-NN T-NN
+hitch T-NN T-NN
+
+who T-WP T-WP
+produces T-VVZ T-VVZ
+hitch T-NN T-NN
+
+production T-NN T-NN
+company T-NN T-NN
+for T-IN T-IN
+transformers T-NNS T-NNS
+
+what T-WP T-WP
+company T-NN T-NN
+made T-VVD T-VVD
+et T-FW T-FW
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+production T-NN T-NN
+company T-NN T-NN
+for T-IN T-IN
+et T-FW T-NP
+
+who T-WP T-WP
+produces T-VVZ T-VVZ
+cars T-NNS T-NNS
+
+can T-MD T-MD
+you T-PP T-PP
+find T-VV T-VV
+who T-WP T-WP
+produced T-VVD T-VVD
+cars T-NNS T-NNS
+
+production T-NN T-NN
+company T-NN T-NN
+for T-IN T-IN
+devil T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+steel T-NN T-NN
+magnolias T-NNS T-NNS
+
+who T-WP T-WP
+produced T-VVD T-VVD
+avatar T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+know T-VV T-VV
+the T-DT T-DT
+producer T-NN T-NN
+of T-IN T-IN
+avatar T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+avatar T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+avatar T-NN T-NN
+
+avatar T-NN T-NN
+producer T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+who T-WP T-WP
+produced T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+who T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+producers T-NNS T-NNS
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+grease T-NN T-NN
+'s T-POS T-POS
+producer T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+grease T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+my T-PP$ T-PP$
+big T-JJ T-JJ
+fat T-JJ T-JJ
+greek T-NN T-NN
+wedding T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+pretty T-JJ T-JJ
+woman T-NN T-NN
+
+tell T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+producer T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+godfather T-NN T-NN
+
+the T-DT T-DT
+godfather T-NN T-NN
+was T-VBD T-VBD
+produced T-VVN T-VVN
+by T-IN T-IN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+<unk> T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+hotel T-NN T-NN
+rwanda T-NN T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+marley T-NN T-NN
+and T-CC T-CC
+me T-PP T-PP
+
+who T-WP T-WP
+produced T-VVD T-VVD
+despicable T-JJ T-JJ
+me T-PP T-PP
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+company T-NN T-NN
+that T-WDT T-WDT
+produced T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+inception T-NN T-NN
+
+what T-WP T-WP
+company T-NN T-NN
+<unk> T-VVD T-IN
+the T-DT T-DT
+movie T-NN T-NN
+inception T-NN T-NN
+
+find T-VV T-VV
+producer T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+great T-JJ T-JJ
+debaters T-NNS T-NNS
+
+who T-WP T-WP
+produced T-VVD T-VVD
+inception T-NN T-NN
+
+provide T-VV T-VV
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+company T-NN T-NN
+that T-WDT T-WDT
+produced T-VVD T-VVD
+sparkle T-NN T-NN
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+to T-TO T-TO
+know T-VV T-VV
+the T-DT T-DT
+company T-NN T-NN
+that T-WDT T-WDT
+produced T-VVD T-VVD
+sparkle T-NN T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+producer T-NN T-NN
+of T-IN T-IN
+look T-NN T-NN
+who T-WP T-WP
+'s T-VBZ T-VBZ
+<unk> T-VVG T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+<unk> T-NN T-DT
+<unk> T-NNS T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+producer T-NN T-NN
+of T-IN T-IN
+step T-NN T-NN
+up T-RB T-RB
+
+please T-UH T-UH
+find T-VV T-VV
+the T-DT T-DT
+producer T-NN T-NN
+of T-IN T-IN
+freedom T-NN T-NN
+writers T-NNS T-NNS
+
+look T-VV T-VV
+for T-IN T-IN
+the T-DT T-DT
+producer T-NN T-NN
+of T-IN T-IN
+freedom T-NN T-NN
+writers T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+movie T-NN T-NN
+rating T-NN T-NN
+
+how T-WRB T-WRB
+much T-JJ T-JJ
+revenue T-NN T-NN
+did T-VVD T-VVD
+pretty T-RB T-JJ
+woman T-NN T-NN
+make T-VV T-NN
+
+earnings T-NNS T-NNS
+for T-IN T-IN
+pretty T-JJ T-JJ
+woman T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+revenue T-NN T-NN
+of T-IN T-IN
+pretty T-JJ T-JJ
+woman T-NN T-NN
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+pretty T-RB T-JJ
+woman T-NN T-NN
+make T-VV T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+gross T-JJ T-JJ
+revenue T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+avengers T-NNS T-NNS
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+the T-DT T-DT
+avengers T-NNS T-NNS
+make T-VVP T-VVP
+
+revenue T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+avengers T-NNS T-NNS
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+the T-DT T-DT
+dark T-JJ T-JJ
+night T-NN T-NN
+generate T-VV T-VV
+in T-IN T-IN
+revenues T-NNS T-NNS
+
+find T-VV T-VV
+revenue T-NN T-NN
+<unk> T-NNS T-NN
+for T-IN T-IN
+jurassic T-JJ T-JJ
+park T-NN T-NN
+
+revenue T-NN T-NN
+for T-IN T-IN
+<unk> T-NN T-DT
+day T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+new T-JJ T-JJ
+will T-NN T-NN
+ferrell T-NN T-NN
+movie T-NN T-NN
+about T-RB T-IN
+
+who T-WP T-WP
+played T-VVD T-VVD
+the T-DT T-DT
+voice T-NN T-NN
+of T-IN T-IN
+nemo T-NN T-NN
+in T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+who T-WP T-WP
+played T-VVD T-VVD
+richie T-NN T-NP
+<unk> T-NN T-NN
+in T-IN T-IN
+happy T-JJ T-JJ
+days T-NNS T-NNS
+
+who T-WP T-WP
+stars T-VVZ T-VVZ
+in T-IN T-IN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+cast T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+cast T-NN T-NN
+and T-CC T-CC
+crew T-NN T-NN
+of T-IN T-IN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+ethel T-NN T-NN
+actress T-NN T-NN
+from T-IN T-IN
+i T-NP T-NP
+love T-NN T-NN
+lucy T-NN T-NN
+
+actress T-NN T-NN
+who T-WP T-WP
+played T-VVD T-VVD
+ethel T-NN T-NN
+on T-IN T-IN
+i T-NP T-NP
+love T-NN T-NN
+lucy T-NN T-NN
+
+who T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+cast T-NN T-NN
+members T-NNS T-NNS
+in T-IN T-IN
+lord T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+rings T-VVZ T-NNS
+the T-DT T-DT
+two T-CD T-CD
+<unk> T-NNS T-NN
+
+who T-WP T-WP
+played T-VVD T-VVD
+<unk> T-NN T-NN
+in T-IN T-IN
+<unk> T-NN T-NN
+
+who T-WP T-WP
+played T-VVD T-VVD
+mother T-NN T-NN
+in T-IN T-IN
+tarkovsky T-NP T-NP
+'s T-POS T-POS
+mirror T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+actor T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+<unk> T-NN T-IN
+<unk> T-NN T-NN
+
+who T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+<unk> T-NNS T-NN
+in T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+episode T-NN T-NN
+four T-CD T-CD
+
+who T-WP T-WP
+was T-VBD T-VBD
+that T-DT T-DT
+guy T-NN T-NN
+<unk> T-RB T-IN
+who T-WP T-WP
+was T-VBD T-VBD
+in T-IN T-IN
+the T-DT T-DT
+avengers T-NNS T-NNS
+
+which T-WDT T-WDT
+actor T-NN T-NN
+played T-VVD T-VVD
+<unk> T-NN T-NN
+in T-IN T-IN
+lord T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+rings T-NNS T-NNS
+
+find T-VV T-VV
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+actress T-NN T-NN
+who T-WP T-WP
+played T-VVD T-VVD
+mother T-NN T-NN
+in T-IN T-IN
+mirror T-NN T-NN
+by T-IN T-IN
+<unk> T-NN T-NP
+tarkovsky T-NN T-NP
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+actress T-NN T-NN
+who T-WP T-WP
+played T-VVD T-VVD
+mother T-NN T-NN
+in T-IN T-IN
+tarkovsky T-NP T-NP
+'s T-POS T-POS
+mirror T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+actor T-NN T-NN
+who T-WP T-WP
+played T-VVD T-VVD
+todd T-NNS T-NNS
+in T-IN T-IN
+the T-DT T-DT
+tv T-NN T-NN
+show T-VVP T-NN
+one T-CD T-CD
+life T-NN T-NN
+to T-TO T-TO
+live T-VV T-VV
+
+give T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+main T-JJ T-JJ
+actress T-NN T-NN
+in T-IN T-IN
+platoon T-NN T-NN
+
+what T-WP T-WP
+'s T-VBZ T-VBZ
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+mom T-NN T-NN
+on T-IN T-IN
+seinfeld T-NP T-NP
+
+name T-VV T-VV
+the T-DT T-DT
+co-star T-NN T-NN
+in T-IN T-IN
+shoot T-NN T-NN
+to T-TO T-TO
+kill T-VV T-VV
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+actor T-NN T-NN
+who T-WP T-WP
+played T-VVD T-VVD
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+in T-IN T-IN
+to T-TO T-TO
+kill T-VV T-VV
+a T-DT T-DT
+mockingbird T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+guy T-NN T-NN
+who T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+father T-NN T-NN
+and T-CC T-CC
+a T-DT T-DT
+<unk> T-NN T-NN
+in T-IN T-IN
+to T-TO T-TO
+kill T-VV T-VV
+a T-DT T-DT
+mockingbird T-NN T-NN
+
+please T-UH T-UH
+provide T-VV T-VV
+the T-DT T-DT
+cost T-NN T-NN
+for T-IN T-IN
+producing T-VVG T-VVG
+the T-DT T-DT
+deer T-NN T-NN
+hunter T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+epic T-NN T-NN
+
+search T-NN T-NN
+budget T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+epic T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+1st T-JJ T-JJ
+harry T-VVP T-VVP
+potter T-NN T-NN
+movie T-NN T-NN
+
+how T-WRB T-WRB
+much T-RB T-RB
+was T-VBD T-VBD
+spent T-VVN T-VVN
+on T-IN T-IN
+<unk> T-VVG T-NN
+the T-DT T-DT
+last T-JJ T-JJ
+harry T-VV T-VVP
+potter T-NN T-NN
+film T-NN T-NN
+
+how T-WRB T-WRB
+much T-RB T-RB
+does T-VVZ T-VVZ
+it T-PP T-PP
+cost T-VVD T-VV
+to T-TO T-TO
+produce T-VV T-VV
+looper T-NN T-NN
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+it T-PP T-PP
+cost T-VVD T-VV
+to T-TO T-TO
+produce T-VV T-VV
+looper T-NN T-NN
+
+how T-WRB T-WRB
+much T-JJ T-JJ
+money T-NN T-NN
+was T-VBD T-VBD
+spent T-VVN T-VVN
+to T-TO T-TO
+produce T-VV T-VV
+looper T-NN T-NN
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+men T-NNS T-NNS
+in T-IN T-IN
+black T-JJ T-JJ
+3 T-CD T-CD
+cost T-NN T-NN
+
+how T-WRB T-WRB
+much T-RB T-RB
+was T-VBD T-VBD
+it T-PP T-PP
+to T-TO T-TO
+make T-VV T-VV
+paranorman T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+budget T-NN T-NN
+to T-TO T-TO
+rebel T-JJ T-NN
+movie T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+2 T-CD T-CD
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+it T-PP T-PP
+cost T-VVD T-VV
+to T-TO T-TO
+<unk> T-VV T-VV
+the T-DT T-DT
+<unk> T-NN T-NN
+<unk> T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+expendables T-NNS T-NNS
+1 T-CD T-CD
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+budget T-NN T-NN
+for T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+in T-IN T-IN
+3d T-JJ T-JJ
+
+liongate T-NNS T-NNS
+
+which T-WDT T-WDT
+country T-NN T-NN
+made T-VVD T-VVD
+<unk> T-NN T-NN
+
+what T-WP T-WP
+country T-NN T-NN
+<unk> T-VVD T-VBD
+les T-FW T-FW
+mes T-FW T-FW
+
+what T-WP T-WP
+country T-NN T-NN
+is T-VBZ T-VBZ
+les T-FW T-FW
+mes T-FW T-FW
+from T-IN T-IN
+
+where T-WRB T-WRB
+was T-VBD T-VBD
+the T-DT T-DT
+<unk> T-NN T-NN
+of T-IN T-IN
+<unk> T-NN T-NNS
+made T-VVD T-VVN
+
+what T-WP T-WP
+country T-NN T-NN
+is T-VBZ T-VBZ
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+
+what T-WP T-WP
+country T-NN T-NN
+does T-VVZ T-VVZ
+the T-DT T-DT
+movie T-NN T-NN
+thoda T-NN T-NN
+pyaar T-NN T-NN
+thoda T-NN T-NN
+magic T-NN T-NN
+comes T-VVZ T-VVZ
+from T-IN T-IN
+
+tell T-VV T-VV
+me T-PP T-PP
+where T-WRB T-WRB
+the T-DT T-DT
+white T-JJ T-NN
+<unk> T-NN T-NN
+came T-VVD T-VVD
+from T-IN T-IN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+the T-DT T-DT
+movie T-NN T-NN
+barfi T-NN T-NNS
+! T-SENT T-SENT
+released T-VVN T-VVN
+
+what T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+dates T-NNS T-NNS
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+barfi T-NN T-NNS
+! T-SENT T-SENT
+
+release T-NN T-NN
+date T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+new T-JJ T-JJ
+<unk> T-NNS T-NN
+<unk> T-NN T-IN
+film T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+release T-NN T-NN
+date T-NN T-NN
+of T-IN T-IN
+evil T-NN T-NN
+goes T-VVZ T-VVZ
+global T-JJ T-JJ
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+release T-NN T-NN
+date T-NN T-NN
+for T-IN T-IN
+jaws T-NNS T-NN
+17 T-CD T-CD
+in T-IN T-IN
+the T-DT T-DT
+theaters T-NNS T-NNS
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+release T-NN T-NN
+date T-NN T-NN
+for T-IN T-IN
+jurassic T-JJ T-JJ
+park T-NN T-NN
+4 T-CD T-CD
+
+list T-NN T-NN
+release T-NN T-NN
+dates T-NNS T-NNS
+for T-IN T-IN
+the T-DT T-DT
+jurassic T-JJ T-JJ
+park T-NN T-NN
+movies T-NNS T-NNS
+
+when T-WRB T-WRB
+will T-MD T-MD
+the T-DT T-DT
+movie T-NN T-NN
+omg T-JJ T-JJ
+oh T-UH T-UH
+my T-PP$ T-PP$
+god T-NN T-NN
+be T-VB T-VB
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+the T-DT T-DT
+lord T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+rings T-NNS T-NNS
+movie T-NN T-NN
+released T-VVD T-VVN
+
+whats T-NNS T-VVZ
+paranormal T-JJ T-JJ
+<unk> T-NNS T-NN
+release T-NN T-NN
+date T-NN T-NN
+
+when T-WRB T-WRB
+will T-MD T-MD
+<unk> T-RB T-VB
+come T-VV T-VVN
+out T-RP T-RP
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+<unk> T-NN T-VVN
+be T-VB T-VB
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+the T-DT T-DT
+sound T-NN T-NN
+of T-IN T-IN
+music T-NN T-NN
+released T-VVN T-VVN
+
+when T-WRB T-WRB
+will T-MD T-MD
+twilight T-NN T-NN
+breaking T-VVG T-VVG
+dawn T-NN T-NN
+part T-NN T-NN
+2 T-CD T-CD
+be T-VB T-VB
+released T-VVN T-VVN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+<unk> T-VVP T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+downton T-NN T-NN
+abbey T-NN T-NN
+
+who T-WP T-WP
+directed T-VVD T-VVD
+good T-JJ T-JJ
+bad T-JJ T-JJ
+and T-CC T-CC
+ugly T-JJ T-JJ
+
+i T-NP T-NP
+can T-MD T-MD
+'t T-NP T-NP
+remember T-VV T-VV
+who T-WP T-WP
+directed T-VVD T-VVD
+star T-NN T-NN
+wars T-NNS T-NNS
+
+find T-VV T-VV
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+to T-TO T-TO
+kill T-VV T-VV
+a T-DT T-DT
+mockingbird T-NN T-NN
+
+is T-VBZ T-VBZ
+amelie T-NN T-NN
+in T-IN T-IN
+a T-DT T-DT
+different T-JJ T-JJ
+language T-NN T-NN
+
+what T-WP T-WP
+language T-NN T-NN
+was T-VBD T-VBD
+amelie T-NN T-NN
+filmed T-VVN T-VVN
+in T-IN T-IN
+
+what T-WP T-WP
+language T-NN T-NN
+is T-VBZ T-VBZ
+the T-DT T-DT
+full T-JJ T-JJ
+<unk> T-NN T-NN
+in T-IN T-IN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+ju T-NN T-NN
+on T-RB T-IN
+'s T-POS T-POS
+original T-JJ T-JJ
+language T-NN T-NN
+
+what T-WP T-WP
+language T-NN T-NN
+is T-VBZ T-VBZ
+secrets T-NNS T-NNS
+and T-CC T-CC
+lies T-VVZ T-VVZ
+in T-IN T-IN
+
+give T-VV T-VV
+me T-PP T-PP
+names T-NNS T-NNS
+of T-IN T-IN
+some T-DT T-DT
+action T-NN T-NN
+movies T-NNS T-NNS
+with T-IN T-IN
+a T-DT T-DT
+pg T-NN T-NN
+thirteen T-CD T-CD
+rating T-NN T-NN
+
+show T-VV T-VV
+all T-DT T-DT
+comedy T-NN T-NN
+musicals T-NNS T-NNS
+for T-IN T-IN
+twenty T-CD T-CD
+twelve T-NN T-NN
+
+are T-VBP T-VBP
+there T-RB T-RB
+any T-DT T-DT
+documentaries T-NNS T-NNS
+on T-IN T-IN
+classic T-JJ T-JJ
+cars T-NNS T-NNS
+
+show T-VV T-VV
+all T-DT T-DT
+dramas T-NN T-NN
+produced T-VVN T-VVN
+in T-IN T-IN
+2010 T-CD T-CD
+
+find T-VV T-VV
+some T-DT T-DT
+<unk> T-NNS T-NN
+
+search T-NN T-VV
+romantic T-JJ T-JJ
+<unk> T-NNS T-NN
+
+<unk> T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+westerns T-NNS T-NNS
+
+show T-NN T-VV
+car T-NN T-NN
+documentaries T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+katie T-NP T-NP
+holmes T-NP T-NP
+<unk> T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+videos T-NNS T-NNS
+of T-IN T-IN
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+videos T-NNS T-NNS
+related T-VVN T-VVN
+to T-TO T-TO
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+new T-JJ T-JJ
+released T-VVN T-VVN
+videos T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+<unk> T-NN T-PP
+movies T-NNS T-NNS
+
+show T-VV T-VV
+all T-DT T-DT
+<unk> T-JJ T-NN
+movies T-NNS T-NNS
+for T-IN T-IN
+nineteen T-CD T-CD
+eighty T-CD T-CD
+
+what T-WP T-WP
+movies T-NNS T-NNS
+were T-VBD T-VBD
+made T-VVN T-VVN
+in T-IN T-IN
+ireland T-NN T-NN
+this T-DT T-DT
+year T-NN T-NN
+
+find T-VV T-VV
+<unk> T-NN T-PP
+movies T-NNS T-NNS
+in T-IN T-IN
+english T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+highest-grossing T-JJ T-JJ
+movies T-NNS T-NNS
+from T-IN T-IN
+<unk> T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+in T-IN T-IN
+america T-NN T-NN
+about T-IN T-IN
+<unk> T-NN T-NN
+
+i T-NP T-NP
+'d T-MD T-MD
+love T-VV T-VV
+to T-TO T-TO
+watch T-VV T-VV
+an T-DT T-DT
+albert T-NN T-NN
+ruddy T-JJ T-JJ
+movie T-NN T-NN
+
+what T-WP T-WP
+other T-JJ T-JJ
+films T-NNS T-NNS
+has T-VHZ T-VHZ
+<unk> T-NN T-NN
+ruddy T-JJ T-JJ
+done T-VVN T-VVN
+
+bring T-VV T-VV
+up T-RP T-RP
+all T-DT T-DT
+movies T-NNS T-NNS
+brad T-NN T-NN
+pitt T-NN T-NN
+directed T-VVD T-VVD
+
+what T-WP T-WP
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+brad T-NN T-NN
+pitt T-NN T-NN
+directed T-VVD T-VVD
+
+movies T-NNS T-NNS
+by T-IN T-IN
+<unk> T-JJ T-DT
+<unk> T-NN T-NN
+
+did T-VVD T-VVD
+<unk> T-NN T-DT
+hunter T-NN T-NN
+direct T-VV T-VV
+any T-DT T-DT
+movies T-NNS T-NNS
+
+what T-WP T-WP
+movies T-NNS T-NNS
+did T-VVD T-VVD
+<unk> T-NN T-DT
+<unk> T-NNS T-NNS
+do T-VVP T-VVP
+
+movies T-NNS T-NNS
+by T-IN T-IN
+john T-NN T-NN
+paul T-NNS T-NNS
+as T-IN T-IN
+a T-DT T-DT
+director T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+john T-NN T-NN
+paul T-NNS T-NNS
+
+tom T-NN T-NN
+cruise T-NN T-NN
+has T-VHZ T-VHZ
+directed T-VVN T-VVN
+what T-WP T-WP
+movies T-NNS T-NNS
+
+please T-UH T-UH
+list T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+tom T-NN T-NN
+cruise T-NN T-NN
+
+<unk> T-NN T-WRB
+<unk> T-NNS T-RB
+directed T-VVD T-VVD
+what T-WP T-WP
+movie T-NN T-NN
+
+find T-VV T-VV
+action T-NN T-NN
+movies T-NNS T-NNS
+with T-IN T-IN
+john T-NN T-NN
+travolta T-NN T-NN
+
+show T-VV T-VV
+all T-DT T-DT
+<unk> T-NN T-NN
+films T-NNS T-NNS
+for T-IN T-IN
+twenty T-CD T-CD
+twelve T-NN T-NN
+
+animated T-JJ T-JJ
+pg T-NN T-NN
+thirteen T-CD T-CD
+movies T-NNS T-NNS
+
+<unk> T-NN T-VV
+movies T-NNS T-NNS
+
+i T-NP T-NNS
+like T-IN T-IN
+<unk> T-NN T-DT
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+films T-NNS T-NNS
+released T-VVN T-VVN
+in T-IN T-IN
+september T-NN T-NN
+
+show T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+released T-VVN T-VVN
+in T-IN T-IN
+september T-NN T-NN
+
+look T-VV T-VV
+up T-RP T-RP
+all T-DT T-DT
+movies T-NNS T-NNS
+coming T-VVG T-VVG
+in T-IN T-IN
+september T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+for T-IN T-IN
+twenty T-CD T-CD
+ten T-CD T-CD
+
+most T-RBS T-RBS
+recent T-JJ T-JJ
+zombie T-NN T-NN
+movies T-NNS T-NNS
+
+search T-NN T-NN
+for T-IN T-IN
+movies T-NNS T-NNS
+in T-IN T-IN
+chinese T-NN T-NN
+
+find T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+that T-WDT T-WDT
+are T-VBP T-VBP
+in T-IN T-IN
+chinese T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+all T-DT T-DT
+movies T-NNS T-NNS
+shown T-VVN T-VVN
+in T-IN T-IN
+english T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+in T-IN T-IN
+<unk> T-NNS T-NN
+
+send T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+that T-WDT T-WDT
+are T-VBP T-VBP
+in T-IN T-IN
+french T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+in T-IN T-IN
+french T-NNS T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+movies T-NNS T-NNS
+in T-IN T-IN
+french T-NNS T-NN
+
+movies T-NNS T-NNS
+in T-IN T-IN
+french T-NNS T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+find T-VV T-VV
+movies T-NNS T-NNS
+<unk> T-VVG T-IN
+the T-DT T-DT
+french T-JJ T-NN
+<unk> T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+movies T-NNS T-NNS
+in T-IN T-IN
+french T-NNS T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+in T-IN T-IN
+german T-NN T-NN
+before T-IN T-IN
+2000 T-CD T-CD
+
+give T-VV T-VV
+me T-PP T-PP
+some T-DT T-DT
+movies T-NNS T-NNS
+which T-WDT T-WDT
+were T-VBD T-VBD
+filmed T-VVN T-VVN
+in T-IN T-IN
+polish T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+in T-IN T-IN
+portugese T-NN T-JJ
+
+show T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+in T-IN T-IN
+spanish T-NN T-NN
+
+list T-NN T-NN
+of T-IN T-IN
+movies T-NNS T-NNS
+in T-IN T-IN
+the T-DT T-DT
+spanish T-JJ T-JJ
+language T-NN T-NN
+
+movies T-NNS T-NNS
+in T-IN T-IN
+spanish T-NN T-NN
+
+i T-NNS T-NNS
+am T-VBP T-VBP
+searching T-VVG T-VVG
+for T-IN T-IN
+movies T-NNS T-NNS
+in T-IN T-IN
+spanish T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+look T-VV T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+in T-IN T-IN
+spanish T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+in T-IN T-IN
+<unk> T-NNS T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+all T-DT T-DT
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+alfred T-NNS T-NN
+ruddy T-JJ T-JJ
+
+what T-WP T-WP
+other T-JJ T-JJ
+movies T-NNS T-NNS
+charles T-NNS T-NNS
+vidor T-NN T-VVP
+produce T-NN T-NN
+
+has T-VHZ T-VHZ
+jennifer T-NN T-NN
+<unk> T-NN T-NNS
+produced T-VVD T-VVN
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+movies T-NNS T-NNS
+produced T-VVN T-VVN
+by T-IN T-IN
+<unk> T-NN T-NN
+s T-NN T-VVZ
+<unk> T-NN T-NN
+
+list T-VV T-VV
+the T-DT T-DT
+movies T-NNS T-NNS
+created T-VVN T-VVN
+by T-IN T-IN
+7 T-CD T-CD
+arts T-NNS T-NNS
+
+lionsgate T-NN T-NNS
+<unk> T-SYM T-IN
+i T-FW T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+get T-VV T-VV
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+your T-PP$ T-PP$
+movies T-NNS T-NNS
+from T-IN T-IN
+two T-CD T-CD
+thousand T-CD T-CD
+and T-CC T-CC
+nine T-CD T-CD
+to T-TO T-TO
+two T-CD T-CD
+thousand T-CD T-CD
+and T-CC T-CC
+twelve T-NN T-NN
+
+twentieth T-JJ T-JJ
+century T-NN T-NN
+fox T-NN T-NN
+movies T-NNS T-NNS
+2012 T-CD T-CD
+
+show T-VV T-VV
+me T-PP T-PP
+nc T-NN T-NN
+<unk> T-CC T-IN
+seventeen T-CD T-CD
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+with T-IN T-IN
+not T-RB T-RB
+rated T-VVN T-VVN
+rating T-NN T-NN
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+nr T-NN T-NN
+movies T-NNS T-NNS
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+pg T-NN T-NN
+thirteen T-CD T-CD
+action T-NN T-NN
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+a T-DT T-DT
+pg T-NN T-NN
+thirteen T-CD T-CD
+movie T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+complete T-JJ T-JJ
+list T-NN T-NN
+of T-IN T-IN
+r T-NN T-NN
+rated T-VVN T-VVN
+movies T-NNS T-NNS
+that T-WDT T-WDT
+came T-VVD T-VVD
+out T-RP T-RP
+in T-IN T-IN
+the T-DT T-DT
+last T-JJ T-JJ
+<unk> T-CD T-NN
+days T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+all T-DT T-DT
+rated T-VVN T-VVN
+r T-NN T-NN
+movies T-NNS T-NNS
+by T-IN T-IN
+paramount T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+that T-WDT T-WDT
+are T-VBP T-VBP
+<unk> T-JJ T-RB
+
+list T-NN T-NN
+movies T-NNS T-NNS
+from T-IN T-IN
+1995 T-CD T-CD
+with T-IN T-IN
+adam T-NN T-NN
+sandler T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+movies T-NNS T-NNS
+with T-IN T-IN
+alan T-JJ T-JJ
+<unk> T-NN T-NN
+
+which T-WDT T-WDT
+movies T-NNS T-NNS
+has T-VHZ T-VHZ
+angelina T-NN T-NN
+jolie T-NN T-NN
+starred T-VVD T-VVD
+this T-DT T-DT
+season T-NN T-NN
+
+what T-WP T-WP
+movie T-NN T-NN
+was T-VBD T-VBD
+angelina T-VVG T-NN
+a T-DT T-DT
+main T-JJ T-JJ
+actress T-NN T-NN
+
+look T-VV T-VV
+up T-RP T-RP
+movies T-NNS T-NNS
+starring T-VVG T-VVG
+the T-DT T-DT
+singer T-NN T-NN
+mario T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+find T-VV T-VV
+movies T-NNS T-NNS
+starring T-VVG T-VVG
+the T-DT T-DT
+singer T-NN T-NN
+mario T-NN T-NN
+
+look T-NN T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+with T-IN T-IN
+<unk> T-NP T-NP
+von T-NP T-NP
+sudow T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+that T-WDT T-WDT
+have T-VHP T-VHP
+patrick T-JJ T-NN
+swayze T-NNS T-NNS
+and T-CC T-CC
+jennifer T-NN T-NN
+grey T-NN T-NN
+in T-IN T-IN
+them T-PP T-PP
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+that T-IN/that T-WDT
+star T-JJ T-NN
+patrick T-NN T-NN
+swayze T-NNS T-NNS
+starred T-VVN T-VVN
+in T-IN T-IN
+from T-IN T-IN
+nineteen T-CD T-CD
+eighty T-CD T-CD
+seven T-CD T-CD
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+that T-DT T-DT
+dancing T-VVG T-NN
+movie T-NN T-NN
+with T-IN T-IN
+patrick T-NN T-NN
+swayze T-NNS T-NNS
+
+movies T-NNS T-NNS
+of T-IN T-IN
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+
+movie T-NN T-NN
+that T-IN/that T-WDT
+tom T-NN T-NN
+hanks T-NNS T-NNS
+and T-CC T-CC
+kevin T-NN T-NN
+<unk> T-NN T-NNS
+played T-VVN T-VVN
+in T-IN T-IN
+together T-RB T-RB
+
+movies T-NNS T-NNS
+about T-IN T-IN
+<unk> T-NNS T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+about T-IN T-IN
+<unk> T-NN T-NN
+
+chess T-NN T-NN
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+on T-IN T-IN
+chess T-NN T-NN
+
+what T-WP T-WP
+are T-VBP T-VBP
+some T-DT T-DT
+movies T-NNS T-NNS
+about T-IN T-IN
+<unk> T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+can T-MD T-MD
+<unk> T-VV T-PP
+tips T-NNS T-NNS
+on T-IN T-IN
+gardening T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+look T-VV T-VV
+up T-RP T-RP
+movies T-NNS T-NNS
+about T-IN T-IN
+hair T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+about T-IN T-IN
+libraries T-NNS T-NNS
+
+find T-VV T-VV
+some T-DT T-DT
+movies T-NNS T-NNS
+about T-IN T-IN
+<unk> T-NNS T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+find T-VV T-VV
+movies T-NNS T-NNS
+about T-IN T-IN
+preschool T-JJ T-JJ
+boys T-NNS T-NNS
+
+look T-NN T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+about T-IN T-IN
+preschool T-JJ T-JJ
+boys T-NNS T-NNS
+
+what T-WP T-WP
+films T-NNS T-NNS
+<unk> T-VVP T-VVN
+on T-IN T-IN
+<unk> T-NN T-NN
+and T-CC T-CC
+<unk> T-NN T-NN
+'s T-POS T-POS
+<unk> T-NNS T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+names T-NNS T-NNS
+of T-IN T-IN
+some T-DT T-DT
+movies T-NNS T-NNS
+on T-IN T-IN
+religious T-JJ T-JJ
+issues T-NNS T-NNS
+
+give T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+some T-DT T-DT
+movies T-NNS T-NNS
+on T-IN T-IN
+religious T-JJ T-JJ
+issues T-NNS T-NNS
+
+look T-NN T-VV
+for T-IN T-IN
+movies T-NNS T-NNS
+about T-IN T-IN
+school T-NN T-NN
+
+tell T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+names T-NNS T-NNS
+of T-IN T-IN
+some T-DT T-DT
+<unk> T-NN T-NN
+movies T-NNS T-NNS
+
+what T-WP T-WP
+are T-VBP T-VBP
+some T-DT T-DT
+time T-NN T-NN
+travel T-NN T-NN
+movies T-NNS T-NNS
+i T-NP T-NP
+can T-MD T-MD
+watch T-VV T-VV
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+involving T-VVG T-VVG
+time T-NN T-NN
+travel T-NN T-NN
+
+<unk> T-NN T-VV
+movies T-NNS T-NNS
+please T-VVP T-VVP
+
+list T-NN T-NN
+movies T-NNS T-NNS
+with T-IN T-IN
+a T-DT T-DT
+<unk> T-NN T-NN
+of T-IN T-IN
+war T-NN T-NN
+in T-IN T-IN
+them T-PP T-PP
+
+show T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+with T-IN T-IN
+the T-DT T-DT
+<unk> T-NN T-NN
+of T-IN T-IN
+war T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+find T-VV T-VV
+me T-PP T-PP
+some T-DT T-DT
+movies T-NNS T-NNS
+about T-IN T-IN
+war T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+movies T-NNS T-NNS
+about T-IN T-IN
+war T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+movies T-NNS T-NNS
+about T-IN T-IN
+war T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+about T-IN T-IN
+world T-NN T-NN
+war T-NN T-NN
+two T-CD T-CD
+
+what T-WP T-WP
+are T-VBP T-VBP
+some T-DT T-DT
+zombie T-NN T-NN
+<unk> T-NN T-IN
+movies T-NNS T-NNS
+
+search T-NN T-NN
+for T-IN T-IN
+zombie T-NN T-NN
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+belle T-NN T-NN
+in T-IN T-IN
+spanish T-NN T-NN
+
+is T-VBZ T-VBZ
+dredd T-RB T-RB
+rated T-VVN T-VVN
+r T-NN T-NN
+
+take T-VV T-VV
+me T-PP T-PP
+to T-TO T-TO
+the T-DT T-DT
+french T-JJ T-NN
+version T-NN T-NN
+of T-IN T-IN
+et T-FW T-NP
+
+find T-VV T-VV
+et T-NP T-NP
+in T-IN T-IN
+french T-NN T-NN
+
+find T-VV T-VV
+fast T-JJ T-JJ
+and T-CC T-CC
+furious T-JJ T-JJ
+in T-IN T-IN
+japanese T-NN T-JJ
+
+hard T-JJ T-JJ
+day T-NN T-NN
+'s T-POS T-POS
+night T-NN T-NN
+richard T-NN T-NN
+lester T-NN T-NN
+
+information T-NN T-NN
+about T-IN T-IN
+movie T-NN T-NN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+movie T-NN T-NN
+information T-NN T-NN
+for T-IN T-IN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+will T-MD T-MD
+you T-PP T-PP
+please T-VV T-UH
+show T-VV T-VV
+me T-PP T-PP
+info T-NN T-NN
+on T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+can T-MD T-MD
+you T-PP T-PP
+please T-VV T-UH
+show T-VV T-VV
+me T-PP T-PP
+info T-NN T-NN
+on T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+show T-VV T-VV
+me T-PP T-PP
+details T-NNS T-NNS
+to T-TO T-TO
+the T-DT T-DT
+movie T-NN T-NN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+show T-VV T-VV
+me T-PP T-PP
+info T-NN T-NN
+on T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+please T-RB T-UH
+
+open T-VV T-VV
+a T-DT T-DT
+page T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+is T-VBZ T-VBZ
+nine T-CD T-CD
+fourteen T-NN T-NN
+the T-DT T-DT
+<unk> T-JJ T-NN
+date T-NN T-NN
+for T-IN T-IN
+resident T-JJ T-JJ
+evil T-NN T-NN
+
+select T-JJ T-VV
+<unk> T-NN T-NNS
+in T-IN T-IN
+chinese T-NN T-NN
+
+find T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+first T-JJ T-JJ
+star T-NN T-NN
+wars T-NNS T-NNS
+movie T-NN T-NN
+info T-NN T-NN
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+details T-NNS T-NNS
+about T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+star T-NN T-NN
+wars T-NNS T-NNS
+: T-: T-:
+episode T-NN T-NN
+four T-CD T-CD
+- T-: T-:
+a T-DT T-DT
+new T-JJ T-JJ
+hope T-NN T-NN
+
+did T-VVD T-VVD
+ray T-NN T-NN
+stark T-JJ T-RB
+produce T-NN T-VV
+steel T-NN T-NN
+magnolias T-NNS T-NNS
+
+is T-VBZ T-VBZ
+the T-DT T-DT
+movie T-NN T-NN
+toy T-NN T-JJ
+story T-NN T-NN
+4 T-CD T-CD
+<unk> T-VBG T-NN
+released T-VVN T-VVD
+next T-JJ T-JJ
+<unk> T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+look T-VV T-VV
+up T-RP T-RP
+information T-NN T-NN
+about T-IN T-IN
+american T-JJ T-JJ
+movies T-NNS T-NNS
+
+chinese T-JJ T-JJ
+foreign T-JJ T-JJ
+film T-NN T-NN
+with T-IN T-IN
+<unk> T-NN T-NN
+
+french T-NN T-NN
+movies T-NNS T-NNS
+for T-IN T-IN
+twenty T-CD T-CD
+twelve T-NN T-NN
+
+look T-NN T-VV
+for T-IN T-IN
+russian T-JJ T-JJ
+movies T-NNS T-NNS
+by T-IN T-IN
+mosfilm T-NN T-NN
+
+show T-NN T-VV
+production T-NN T-NN
+company T-NN T-NN
+lionsgate T-NNS T-NNS
+
+paramount T-JJ T-JJ
+film T-NN T-NN
+studios T-NNS T-NNS
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+have T-VH T-VHP
+more T-JJR T-JJR
+information T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+producer T-NN T-NN
+ray T-NN T-NN
+stark T-JJ T-RB
+
+show T-VV T-VV
+me T-PP T-PP
+details T-NNS T-NNS
+for T-IN T-IN
+the T-DT T-DT
+director T-NN T-NN
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+that T-IN/that T-WDT
+actor T-NN T-NN
+tom T-NN T-NN
+cruise T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+information T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+actor T-NN T-NN
+will T-MD T-NN
+ferrell T-VV T-NN
+
+who T-WP T-WP
+produced T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+great T-JJ T-JJ
+debaters T-NNS T-NNS
+
+king T-NN T-NN
+'s T-POS T-POS
+<unk> T-NN T-NN
+production T-NN T-NN
+company T-NN T-NN
+
+i T-NP T-NNS
+wonder T-NN T-VVP
+who T-WP T-WP
+produced T-VVD T-VVD
+star T-NN T-NN
+wars T-NNS T-NNS
+
+i T-NP T-NP
+can T-MD T-MD
+'t T-NP T-NP
+remember T-VV T-VV
+who T-WP T-WP
+produced T-VVD T-VVD
+star T-NN T-NN
+wars T-NNS T-NNS
+
+who T-WP T-WP
+produced T-VVD T-VVD
+star T-NN T-NN
+wars T-NNS T-NNS
+
+movie T-NN T-NN
+producers T-NNS T-NNS
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+end T-NN T-NN
+of T-IN T-IN
+watch T-NN T-NN
+gross T-JJ T-JJ
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+movie T-NN T-NN
+earn T-VV T-VVP
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+earnings T-NNS T-NNS
+for T-IN T-IN
+hotel T-NN T-NN
+transylvania T-NN T-NN
+
+what T-WP T-WP
+did T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+the T-DT T-DT
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+<unk> T-NN T-NN
+gross T-JJ T-JJ
+
+revenue T-NN T-NN
+for T-IN T-IN
+iron T-NN T-NN
+man T-NN T-NN
+2 T-CD T-CD
+
+what T-WP T-WP
+amount T-NN T-NN
+of T-IN T-IN
+revenue T-NN T-NN
+did T-VVD T-VVD
+iron T-NN T-NN
+man T-NN T-NN
+make T-VV T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+gross T-JJ T-JJ
+revenue T-NN T-NN
+of T-IN T-IN
+iron T-NN T-NN
+man T-NN T-NN
+
+kahani T-NP T-NNS
+'s T-POS T-POS
+revenue T-NN T-NN
+
+get T-VV T-VV
+the T-DT T-DT
+revenue T-NN T-NN
+of T-IN T-IN
+kahani T-NNS T-NNS
+
+revenue T-NN T-NN
+looper T-NN T-NN
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+looper T-NN T-NN
+gross T-JJ T-NN
+in T-IN T-IN
+sales T-NNS T-NNS
+
+how T-WRB T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+looper T-NN T-NN
+gross T-JJ T-JJ
+
+<unk> T-NP T-WRB
+much T-RB T-RB
+did T-VVD T-VVD
+looper T-NN T-NN
+make T-VV T-NN
+
+how T-WRB T-WRB
+much T-JJ T-JJ
+money T-NN T-NN
+did T-VVD T-VVD
+mr T-NN T-NN
+and T-CC T-CC
+mrs T-NN T-NN
+smith T-NN T-NN
+make T-VV T-NN
+
+how T-WRB T-WRB
+much T-JJ T-JJ
+money T-NN T-NN
+did T-VVD T-VVD
+the T-DT T-DT
+movie T-NN T-NN
+mr T-NN T-NN
+and T-CC T-CC
+mrs T-NN T-NN
+smith T-NN T-NN
+make T-VV T-NN
+
+in T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+mr T-NN T-NN
+and T-CC T-CC
+mrs T-NN T-NN
+smith T-NN T-NN
+how T-WRB T-WRB
+much T-JJ T-JJ
+money T-NN T-NN
+did T-VVD T-VVD
+the T-DT T-DT
+box T-NN T-NN
+<unk> T-NN T-IN
+<unk> T-NN T-NN
+
+how T-WRB T-WRB
+much T-JJ T-JJ
+money T-NN T-NN
+did T-VVD T-VVD
+<unk> T-NN T-TO
+make T-VV T-VV
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+know T-VV T-VV
+what T-WP T-WP
+the T-DT T-DT
+revenue T-NN T-NN
+for T-IN T-IN
+pirates T-NNS T-NNS
+was T-VBD T-VBD
+
+how T-WRB T-WRB
+much T-RB T-RB
+was T-VBD T-VBD
+made T-VVN T-VVN
+from T-IN T-IN
+platoon T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+gross T-JJ T-JJ
+revenue T-NN T-NN
+<unk> T-VVD T-NN
+by T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+in T-IN T-IN
+<unk> T-PP$ T-DT
+original T-JJ T-JJ
+release T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+total T-JJ T-JJ
+gross T-JJ T-JJ
+receipts T-NNS T-NNS
+at T-IN T-IN
+the T-DT T-DT
+box T-NN T-NN
+office T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+star T-NN T-NN
+wars T-NNS T-NNS
+
+what T-WP T-WP
+were T-VBD T-VBD
+the T-DT T-DT
+gross T-JJ T-JJ
+receipts T-NNS T-NNS
+for T-IN T-IN
+hunger T-NN T-NN
+games T-NNS T-NNS
+
+tell T-VV T-VV
+me T-PP T-PP
+how T-WRB T-WRB
+much T-JJ T-JJ
+money T-NN T-NN
+<unk> T-NN T-IN
+boy T-NN T-NN
+made T-VVD T-VVN
+
+how T-WRB T-WRB
+much T-JJ T-JJ
+revenue T-NN T-NN
+did T-VVD T-VVD
+top T-JJ T-JJ
+gun T-NN T-NN
+make T-VV T-NN
+
+tell T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+revenue T-NN T-NN
+of T-IN T-IN
+<unk> T-NN T-DT
+day T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+about T-RB T-IN
+
+show T-VV T-VV
+me T-PP T-PP
+a T-DT T-DT
+list T-NN T-NN
+of T-IN T-IN
+production T-NN T-NN
+companies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+viewer T-NN T-NN
+ratings T-NNS T-NNS
+in T-IN T-IN
+orange T-NN T-NN
+
+is T-VBZ T-VBZ
+in T-RB T-IN
+july T-RB T-NN
+on T-IN T-IN
+netflix T-NN T-NN
+
+rate T-NN T-NN
+movies T-NNS T-NNS
+
+find T-VV T-VV
+the T-DT T-DT
+actor T-NN T-NN
+that T-WDT T-WDT
+sings T-VVZ T-VVZ
+let T-VV T-VV
+me T-PP T-PP
+love T-VV T-VV
+you T-PP T-PP
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+up T-RB T-RB
+to T-TO T-TO
+
+<unk> T-NP T-WP
+are T-VBP T-VBP
+all T-PDT T-RB
+your T-PP$ T-PP$
+movies T-NNS T-NNS
+in T-IN T-IN
+your T-PP$ T-PP$
+<unk> T-JJ T-JJ
+language T-NN T-NN
+or T-CC T-CC
+in T-IN T-IN
+english T-NN T-NN
+
+what T-WP T-WP
+'s T-VBZ T-VBZ
+playing T-VVG T-VVG
+tonight T-RB T-NN
+
+where T-WRB T-WRB
+can T-MD T-MD
+i T-NNS T-NNS
+buy T-VV T-VV
+this T-DT T-DT
+movie T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+if T-IN T-IN
+this T-DT T-DT
+is T-VBZ T-VBZ
+a T-DT T-DT
+<unk> T-RB T-NN
+scary T-JJ T-JJ
+
+how T-WRB T-WRB
+to T-TO T-TO
+rent T-VV T-VV
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+can T-MD T-MD
+i T-NP T-NP
+rent T-NN T-NN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+on T-IN T-IN
+netflix T-NN T-NN
+
+hotel T-NN T-NN
+rwanda T-NN T-NN
+is T-VBZ T-VBZ
+based T-VVN T-VVN
+on T-IN T-IN
+what T-WP T-WP
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+to T-TO T-TO
+know T-VV T-VV
+where T-WRB T-WRB
+you T-PP T-PP
+keep T-VVP T-VV
+resident T-JJ T-JJ
+evil T-NN T-NN
+
+in T-IN T-IN
+september T-NN T-NN
+
+<unk> T-NNS T-VV
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+find T-VV T-VV
+movie T-NN T-NN
+from T-IN T-IN
+criteria T-NNS T-NNS
+
+find T-VV T-VV
+a T-DT T-DT
+movie T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+tell T-VV T-VV
+me T-PP T-PP
+which T-WDT T-WDT
+movie T-NN T-NN
+made T-VVD T-VVD
+the T-DT T-DT
+most T-JJS T-RBS
+at T-IN T-IN
+the T-DT T-DT
+box T-NN T-NN
+office T-NN T-NN
+in T-IN T-IN
+the T-DT T-DT
+weekend T-NN T-NN
+of T-IN T-IN
+september T-NN T-NN
+twenty T-CD T-CD
+<unk> T-NN T-NN
+
+find T-VV T-VV
+movies T-NNS T-NNS
+selected T-VVN T-VVD
+on T-IN T-IN
+all T-DT T-DT
+criteria T-NNS T-NNS
+
+options T-NNS T-NNS
+available T-JJ T-JJ
+for T-IN T-IN
+movies T-NNS T-NNS
+today T-NN T-NN
+
+find T-VV T-VV
+all T-DT T-DT
+selected T-JJ T-JJ
+criteria T-NNS T-NNS
+
+search T-NN T-NN
+highlighted T-VVD T-VVN
+information T-NN T-NN
+
+bring T-VV T-VV
+up T-RP T-RP
+movie T-NN T-NN
+request T-NN T-NN
+
+find T-VV T-VV
+selected T-JJ T-JJ
+information T-NN T-NN
+
+find T-VV T-VV
+selected T-JJ T-JJ
+criteria T-NNS T-NNS
+
+where T-WRB T-WRB
+can T-MD T-MD
+i T-NP T-NP
+watch T-NN T-NN
+movie T-NN T-NN
+
+search T-VV T-VV
+all T-DT T-DT
+databases T-NNS T-NNS
+
+search T-NN T-NN
+databases T-NNS T-NNS
+
+where T-WRB T-WRB
+can T-MD T-MD
+i T-NNS T-NNS
+see T-VV T-VV
+movie T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+age T-NN T-NN
+<unk> T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+pg T-NN T-NN
+rating T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+hotel T-NN T-NN
+transylvania T-NN T-NN
+
+what T-WP T-WP
+does T-VVZ T-VVZ
+the T-DT T-DT
+rating T-NN T-NN
+r T-SYM T-NN
+mean T-JJ T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+<unk> T-VVD T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+<unk> T-NNS T-NN
+or T-CC T-CC
+<unk> T-NNS T-VVP
+to T-TO T-TO
+this T-DT T-DT
+movie T-NN T-NN
+
+how T-WRB T-WRB
+long T-RB T-RB
+did T-VVD T-VVD
+it T-PP T-PP
+take T-VV T-VV
+james T-NNS T-NNS
+cameron T-NN T-NN
+to T-TO T-TO
+produce T-VV T-VV
+avatar T-NN T-NN
+
+is T-VBZ T-VBZ
+this T-DT T-DT
+film T-NN T-NN
+<unk> T-VVN T-NN
+in T-IN T-IN
+english T-NN T-NN
+
+apollo T-NN T-NN
+thirteen T-CD T-CD
+cast T-NN T-NN
+was T-VBD T-VBD
+<unk> T-VVN T-VVN
+how T-WRB T-WRB
+
+what T-WP T-WP
+other T-JJ T-JJ
+<unk> T-NNS T-NN
+is T-VBZ T-VBZ
+finding T-VVG T-VVG
+nemo T-NN T-NN
+in T-IN T-IN
+
+in T-IN T-IN
+how T-WRB T-WRB
+many T-JJ T-JJ
+days T-NNS T-NNS
+did T-VVD T-VVD
+it T-PP T-PP
+take T-VVP T-VVP
+to T-TO T-TO
+make T-VV T-VV
+twenty T-CD T-CD
+one T-CD T-CD
+point T-NN T-NN
+two T-CD T-CD
+for T-IN T-IN
+looper T-NN T-NN
+
+what T-WP T-WP
+age T-NN T-NN
+group T-NN T-NN
+is T-VBZ T-VBZ
+for T-IN T-IN
+rated T-VVN T-VVN
+r T-NN T-NN
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+behind T-IN T-IN
+scenes T-NNS T-NNS
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+in T-IN T-IN
+orange T-NN T-NN
+
+how T-WRB T-WRB
+long T-RB T-RB
+do T-VVP T-VV
+you T-PP T-PP
+<unk> T-VVP T-NNS
+that T-IN/that T-WDT
+wb T-NN T-NN
+will T-MD T-MD
+<unk> T-VV T-VV
+to T-TO T-TO
+<unk> T-VV T-VV
+in T-IN T-IN
+today T-NN T-NN
+'s T-POS T-POS
+<unk> T-NN T-NN
+
+the T-DT T-DT
+<unk> T-NN T-NN
+
+who T-WP T-WP
+<unk> T-VVZ T-VBD
+the T-DT T-DT
+ratings T-NNS T-NNS
+on T-IN T-IN
+movies T-NNS T-NNS
+
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+should T-MD T-MD
+of T-IN T-IN
+made T-VVD T-VVD
+more T-JJR T-JJR
+money T-NN T-NN
+
+find T-VV T-VV
+me T-PP T-PP
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+news T-NN T-NN
+
+who T-WP T-WP
+else T-RB T-RB
+could T-MD T-MD
+have T-VH T-VH
+<unk> T-VVN T-IN
+your T-PP$ T-PP$
+job T-NN T-NN
+
+twenty T-CD T-CD
+one T-CD T-CD
+point T-NN T-NN
+two T-CD T-CD
+was T-VBD T-VBD
+<unk> T-VVN T-VVN
+out T-RP T-RP
+
+find T-VV T-VV
+some T-DT T-DT
+<unk> T-NNS T-NN
+on T-IN T-IN
+parental T-JJ T-JJ
+guidance T-NN T-NN
+please T-VV T-RB
+
+who T-WP T-WP
+came T-VVD T-VVD
+up T-RP T-RP
+for T-IN T-IN
+the T-DT T-DT
+main T-JJ T-JJ
+plot T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+standard T-NN T-JJ
+to T-TO T-TO
+be T-VB T-VB
+rated T-VVN T-VVN
+g T-NN T-NN
+
+i T-NP T-NP
+love T-NN T-NN
+taye T-NN T-NN
+diggs T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+movie T-NN T-NN
+reviews T-VVZ T-NNS
+in T-IN T-IN
+orange T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+<unk> T-NNS T-NNS
+
+how T-WRB T-WRB
+old T-JJ T-JJ
+do T-VVP T-VVP
+you T-PP T-PP
+have T-VHP T-VHP
+to T-TO T-TO
+be T-VB T-VB
+to T-TO T-TO
+see T-VV T-VV
+an T-DT T-DT
+r-rated T-JJ T-JJ
+movie T-NN T-NN
+
+does T-VVZ T-VVZ
+ireland T-NP T-NP
+have T-VHP T-VHP
+an T-DT T-DT
+<unk> T-NN T-NN
+to T-TO T-TO
+th T-NN T-NN
+us T-PP T-PP
+oscar T-NN T-NN
+awards T-NNS T-NNS
+
+click T-NN T-NN
+on T-IN T-IN
+the T-DT T-DT
+most T-RBS T-RBS
+popular T-JJ T-JJ
+movie T-NN T-NN
+in T-IN T-IN
+orange T-NN T-NN
+
+brazil T-NN T-NN
+movie T-NN T-NN
+<unk> T-NNS T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+history T-NN T-NN
+behind T-IN T-IN
+lionsgate T-NNS T-NNS
+
+what T-WP T-WP
+does T-VVZ T-VVZ
+an T-DT T-DT
+r T-NN T-NN
+rating T-NN T-NN
+mean T-VVP T-NN
+on T-IN T-IN
+a T-DT T-DT
+movie T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+give T-VV T-VV
+me T-PP T-PP
+more T-JJR T-JJR
+information T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+text T-NN T-NN
+highlighted T-VVN T-VVN
+in T-IN T-IN
+orange T-NN T-NN
+
+what T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+recommended T-JJ T-JJ
+ages T-NNS T-NNS
+for T-IN T-IN
+a T-DT T-DT
+pg T-NN T-NN
+movie T-NN T-NN
+
+send T-VV T-VV
+dredd T-NN T-JJ
+movie T-NN T-NN
+
+jenn T-NP T-NP
+ann T-NP T-NP
+<unk> T-NN T-NN
+
+did T-VVD T-VVD
+kristen T-NP T-NP
+stewart T-NP T-NP
+have T-VHP T-VHP
+an T-DT T-DT
+<unk> T-NN T-NN
+with T-IN T-IN
+the T-DT T-DT
+director T-NN T-NN
+of T-IN T-IN
+snow T-NN T-NN
+white T-NN T-NN
+and T-CC T-CC
+the T-DT T-DT
+huntsman T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movie T-NN T-NN
+highlights T-NNS T-NNS
+in T-IN T-IN
+orange T-NN T-NN
+
+need T-NN T-VVP
+to T-TO T-TO
+rate T-NN T-NN
+movie T-NN T-NN
+
+how T-WRB T-WRB
+old T-JJ T-JJ
+do T-VVP T-VVP
+you T-PP T-PP
+have T-VHP T-VHP
+to T-TO T-TO
+be T-VB T-VB
+to T-TO T-TO
+see T-VV T-VV
+a T-DT T-DT
+rated T-VVN T-VVN
+r T-NN T-NN
+movie T-NN T-NN
+
+what T-WP T-WP
+does T-VVZ T-VVZ
+a T-DT T-DT
+pg T-NN T-NN
+thirteen T-CD T-CD
+rating T-NN T-NN
+mean T-NN T-NN
+
+twenty T-CD T-CD
+one T-CD T-CD
+point T-NN T-NN
+two T-CD T-CD
+is T-VBZ T-VBZ
+the T-DT T-DT
+first T-JJ T-JJ
+week T-NN T-NN
+gross T-JJ T-JJ
+
+r T-SYM T-SYM
+rating T-NN T-NN
+what T-WP T-WP
+does T-VVZ T-VVZ
+that T-RB T-DT
+<unk> T-VV T-NN
+
+in T-IN T-IN
+julie T-NN T-NN
+
+wb T-NN T-NN
+- T-: T-:
+what T-WP T-WP
+does T-VVZ T-VVZ
+it T-PP T-PP
+take T-VV T-VVP
+to T-TO T-TO
+become T-VV T-VVP
+a T-DT T-DT
+movie T-NN T-NN
+producer T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+hollywood T-NN T-NN
+<unk> T-NNS T-NN
+
+how T-WRB T-WRB
+does T-VVZ T-VVZ
+a T-DT T-DT
+movie T-NN T-NN
+receive T-VV T-VV
+an T-DT T-DT
+r T-NN T-NN
+rating T-NN T-NN
+
+did T-VVD T-VVD
+you T-PP T-PP
+have T-VHP T-VHP
+fun T-NN T-NN
+on T-IN T-IN
+the T-DT T-DT
+set T-NN T-NN
+
+what T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+rating T-NN T-NN
+<unk> T-NNS T-NN
+for T-IN T-IN
+movies T-NNS T-NNS
+
+sb T-NN T-NN
+news T-NN T-NN
+on T-IN T-IN
+life T-NN T-NN
+
+i T-NNS T-NP
+have T-VHP T-VHP
+a T-DT T-DT
+thirteen T-CD T-CD
+year T-NN T-NN
+old T-JJ T-NN
+
+end T-NN T-NN
+of T-IN T-IN
+watch T-NN T-NN
+<unk> T-NN T-NN
+of T-IN T-IN
+made T-VVD T-VVN
+<unk> T-JJR T-IN
+money T-NN T-NN
+
+when T-WRB T-WRB
+the T-DT T-DT
+movie T-NN T-NN
+comes T-VVZ T-VVZ
+out T-RB T-RB
+do T-VV T-VV
+you T-PP T-PP
+think T-VVP T-VV
+it T-PP T-PP
+will T-MD T-MD
+<unk> T-VV T-NNS
+in T-IN T-IN
+the T-DT T-DT
+box T-NN T-NN
+office T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+movie T-NN T-NN
+list T-NN T-NN
+in T-IN T-IN
+orange T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+story T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+armstrong T-NN T-NN
+<unk> T-NN T-NN
+
+classic T-JJ T-JJ
+cars T-NNS T-NNS
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+learn T-VV T-VV
+about T-IN T-IN
+flowers T-NNS T-NNS
+
+out T-IN T-IN
+camping T-NN T-NN
+
+happy T-JJ T-JJ
+
+<unk> T-JJ T-NN
+
+sort T-NN T-NN
+by T-IN T-IN
+spanish T-NN T-NN
+
+where T-WRB T-WRB
+is T-VBZ T-VBZ
+punjabi T-NN T-NP
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+robert T-NN T-JJ
+wise T-NN T-NN
+'s T-POS T-POS
+middle T-JJ T-JJ
+name T-NN T-NN
+
+<unk> T-NN T-NN
+
+forty T-NN T-NN
+three T-CD T-CD
+million T-CD T-CD
+what T-WP T-WP
+
+twenty T-CD T-CD
+one T-CD T-CD
+point T-NN T-NN
+two T-CD T-CD
+million T-CD T-CD
+dollars T-NNS T-NNS
+was T-VBD T-VBD
+<unk> T-VVN T-VVN
+between T-IN T-IN
+who T-WP T-WP
+
+do T-VV T-VV
+movie T-NN T-NN
+<unk> T-NNS T-IN
+<unk> T-VVP T-DT
+<unk> T-JJ T-NN
+countries T-NNS T-NNS
+
+on T-IN T-RB
+lies T-NNS T-VVZ
+
+the T-DT T-DT
+movie T-NN T-NN
+a T-DT T-DT
+<unk> T-NN T-NN
+is T-VBZ T-VBZ
+from T-IN T-IN
+hungary T-NN T-NN
+<unk> T-: T-IN
+where T-WRB T-WRB
+is T-VBZ T-VBZ
+the T-DT T-DT
+country T-NN T-NN
+hungary T-NN T-NN
+
+how T-WRB T-WRB
+fun T-NN T-NN
+is T-VBZ T-VBZ
+it T-PP T-PP
+to T-TO T-TO
+produce T-VV T-VV
+a T-DT T-DT
+movie T-NN T-NN
+
+did T-VVD T-VVD
+you T-PP T-PP
+like T-IN T-VV
+<unk> T-VVG T-NNS
+with T-IN T-IN
+who T-WP T-WP
+you T-PP T-PP
+did T-VVD T-VVD
+
+can T-MD T-MD
+i T-NNS T-NNS
+see T-VV T-VV
+a T-DT T-DT
+map T-NN T-NN
+of T-IN T-IN
+canada T-NP T-NN
+
+was T-VBD T-VBD
+your T-PP$ T-PP$
+<unk> T-NN T-NNS
+<unk> T-NN T-VV
+it T-PP T-PP
+
+south T-JJ T-JJ
+american T-JJ T-NN
+country T-NN T-NN
+flags T-NNS T-NNS
+
+need T-VV T-VVP
+more T-JJR T-JJR
+info T-NN T-NN
+that T-WDT T-WDT
+<unk> T-VVZ T-VVP
+to T-TO T-TO
+china T-NN T-NN
+
+flags T-NNS T-NNS
+of T-IN T-IN
+<unk> T-NN T-DT
+<unk> T-NN T-NN
+
+best T-JJS T-JJS
+writers T-NNS T-NNS
+in T-IN T-IN
+the T-DT T-DT
+field T-NN T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+male T-JJ T-JJ
+actor T-NN T-NN
+from T-IN T-IN
+<unk> T-JJ T-DT
+<unk> T-NN T-NN
+
+who T-WP T-WP
+played T-VVD T-VVD
+the T-DT T-DT
+female T-JJ T-JJ
+lead T-NN T-NN
+in T-IN T-IN
+hitch T-NN T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+female T-JJ T-JJ
+actress T-NN T-NN
+from T-IN T-IN
+<unk> T-JJ T-DT
+<unk> T-NNS T-NN
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+in T-IN T-IN
+picture T-NN T-NN
+three T-CD T-CD
+
+who T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+lead T-JJ T-JJ
+actors T-NNS T-NNS
+
+how T-WRB T-WRB
+old T-NN T-JJ
+is T-VBZ T-VBZ
+jennifer T-NN T-NN
+aniston T-NN T-NN
+
+when T-WRB T-WRB
+was T-VBD T-VBD
+will T-NN T-NN
+ferrell T-NN T-NN
+born T-VVN T-VVN
+
+where T-WRB T-WRB
+was T-VBD T-VBD
+black T-JJ T-JJ
+swan T-NN T-NN
+directed T-VVD T-VVD
+
+where T-WRB T-WRB
+was T-VBD T-VBD
+<unk> T-NP T-NP
+'s T-POS T-POS
+wedding T-NN T-NN
+shot T-NN T-VVN
+
+show T-NN T-VV
+release T-NN T-NN
+date T-NN T-NN
+in T-IN T-IN
+the T-DT T-DT
+usa T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+little T-JJ T-JJ
+women T-NNS T-NNS
+
+show T-NN T-VV
+movie T-NN T-NN
+<unk> T-NN T-NN
+
+i T-NP T-NP
+'d T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+see T-VV T-VV
+popular T-JJ T-JJ
+film T-NN T-NN
+directors T-NNS T-NNS
+from T-IN T-IN
+the T-DT T-DT
+nineteen T-CD T-CD
+<unk> T-CD T-NN
+'s T-VBZ T-POS
+<unk> T-IN T-NN
+today T-NN T-NN
+
+best T-JJS T-JJS
+director T-NN T-NN
+
+best T-JJS T-JJS
+directors T-NNS T-NNS
+of T-IN T-IN
+all T-DT T-DT
+time T-NN T-NN
+
+please T-UH T-UH
+show T-VV T-VV
+me T-PP T-PP
+famous T-JJ T-JJ
+film T-NN T-NN
+directors T-NNS T-NNS
+
+greatest T-JJS T-JJS
+directors T-NNS T-NNS
+
+who T-WP T-WP
+produced T-VVD T-VVD
+some T-DT T-DT
+of T-IN T-IN
+the T-DT T-DT
+most T-RBS T-RBS
+popular T-JJ T-JJ
+movies T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+<unk> T-JJ T-DT
+movie T-NN T-NN
+directors T-NNS T-NNS
+
+who T-WP T-WP
+produced T-VVD T-VVD
+hotel T-NN T-NN
+rwanda T-NNS T-NN
+<unk> T-VVP T-IN
+art T-NN T-NN
+
+who T-WP T-WP
+'s T-VBZ T-VBZ
+the T-DT T-DT
+director T-NN T-NN
+
+director T-NN T-NN
+'s T-POS T-POS
+name T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+a T-DT T-DT
+turkish T-JJ T-JJ
+director T-NN T-NN
+that T-WDT T-WDT
+produced T-VVD T-VVD
+a T-DT T-DT
+drama T-NN T-NN
+film T-NN T-NN
+
+watch T-NN T-VV
+dredd T-NN T-JJ
+movie T-NN T-NN
+
+see T-VV T-VV
+dredd T-NN T-JJ
+movie T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+the T-DT T-DT
+name T-NN T-NN
+of T-IN T-IN
+an T-DT T-DT
+academy T-NN T-NN
+award T-NN T-NN
+winning T-VVG T-VVG
+russian T-JJ T-JJ
+documentary T-NN T-NN
+
+what T-WP T-WP
+movie T-NN T-NN
+titles T-NNS T-NNS
+starring T-VVG T-VVG
+meryl T-NN T-NN
+streep T-NNS T-NNS
+<unk> T-VVD T-IN
+oscar T-NN T-NN
+<unk> T-NNS T-NN
+
+in T-IN T-IN
+search T-NN T-NN
+for T-IN T-IN
+names T-NNS T-NNS
+of T-IN T-IN
+crew T-NN T-NN
+members T-NNS T-NNS
+please T-VVP T-VVP
+
+get T-VV T-VV
+me T-PP T-PP
+reviews T-NNS T-NNS
+and T-CC T-CC
+info T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+campaign T-NN T-NN
+movie T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+reviews T-NNS T-NNS
+and T-CC T-CC
+info T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+campaign T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+that T-DT T-WDT
+clint T-NN T-NN
+eastwood T-NN T-NN
+direct T-JJ T-VVP
+that T-IN/that T-IN/that
+he T-PP T-PP
+won T-VVD T-VVD
+the T-DT T-DT
+best T-JJS T-JJS
+director T-NN T-NN
+oscar T-NN T-NN
+for T-IN T-IN
+
+what T-WP T-WP
+'s T-VBZ T-VBZ
+hitchcock T-NN T-NN
+'s T-POS T-POS
+most T-RBS T-RBS
+famous T-JJ T-JJ
+movie T-NN T-NN
+
+tell T-VV T-VV
+me T-PP T-PP
+some T-DT T-DT
+of T-IN T-IN
+<unk> T-NP T-DT
+<unk> T-SYM T-NN
+<unk> T-VVZ T-POS
+best T-JJS T-JJS
+movies T-NNS T-NNS
+
+looking T-VVG T-VVG
+for T-IN T-IN
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+actor T-NN T-NN
+number T-NN T-NN
+one T-CD T-CD
+
+list T-NN T-NN
+of T-IN T-IN
+movies T-NNS T-NNS
+directed T-VVN T-VVN
+by T-IN T-IN
+director T-NN T-NN
+three T-CD T-CD
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+film T-NN T-NN
+that T-WDT T-WDT
+grossed T-VVD T-VVD
+seven T-CD T-CD
+point T-NN T-NN
+two T-CD T-CD
+million T-CD T-CD
+at T-IN T-IN
+the T-DT T-DT
+box T-NN T-NN
+office T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+that T-WDT T-IN/that
+made T-VVD T-VVN
+over T-IN T-IN
+seven T-CD T-CD
+million T-CD T-CD
+dollars T-NNS T-NNS
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+that T-IN/that T-IN/that
+<unk> T-NN T-NP
+'t T-NN T-NP
+gross T-JJ T-JJ
+much T-RB T-RB
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+movies T-NNS T-NNS
+from T-IN T-IN
+<unk> T-RB T-NN
+two T-CD T-CD
+<unk> T-NNS T-NN
+
+show T-VV T-VV
+last T-JJ T-JJ
+years T-NNS T-NNS
+films T-NNS T-NNS
+by T-IN T-IN
+7 T-CD T-CD
+arts T-NNS T-NNS
+
+show T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+that T-WDT T-WDT
+came T-VVD T-VVD
+out T-RP T-RP
+nine T-CD T-CD
+fourteen T-NN T-NN
+twenty T-CD T-CD
+twelve T-NN T-NN
+
+were T-VBD T-VBD
+there T-RB T-RB
+any T-DT T-DT
+movies T-NNS T-NNS
+released T-VVD T-VVN
+nine T-CD T-CD
+fourteen T-NN T-NN
+twenty T-CD T-CD
+twelve T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+movies T-NNS T-NNS
+from T-IN T-IN
+the T-DT T-DT
+nineteen T-CD T-CD
+seventies T-NNS T-NNS
+
+can T-MD T-MD
+you T-PP T-PP
+list T-VV T-VV
+all T-DT T-DT
+movies T-NNS T-NNS
+from T-IN T-IN
+twenty T-CD T-CD
+twelve T-NN T-NN
+with T-IN T-IN
+a T-DT T-DT
+rating T-NN T-NN
+of T-IN T-IN
+three T-CD T-CD
+stars T-NNS T-NNS
+and T-CC T-CC
+up T-RB T-RP
+
+academy T-NN T-NN
+award T-NN T-NN
+lionsgate T-NN T-NN
+movies T-NNS T-NNS
+
+show T-NN T-VV
+oscar T-NN T-NN
+winning T-VVG T-VVG
+movies T-NNS T-NNS
+by T-IN T-IN
+warner T-NN T-NN
+brothers T-NNS T-NNS
+
+what T-WP T-WP
+movie T-NN T-NN
+<unk> T-NN T-NN
+did T-VVD T-VVD
+meryl T-NN T-NN
+streep T-NNS T-NNS
+win T-VVP T-VVP
+her T-PP$ T-PP$
+best T-JJS T-JJS
+<unk> T-JJ T-NN
+oscar T-NN T-NN
+
+have T-VHP T-VHP
+any T-DT T-DT
+us T-PP T-PP
+released T-VVN T-VVN
+movies T-NNS T-NNS
+been T-VBN T-VBN
+filmed T-VVN T-VVN
+on T-IN T-IN
+<unk> T-NN T-NN
+in T-IN T-IN
+the T-DT T-DT
+czech T-NN T-NN
+republic T-NN T-NN
+
+what T-WP T-WP
+us T-PP T-PP
+release T-VVP T-NN
+movies T-NNS T-NNS
+have T-VHP T-VHP
+been T-VBN T-VBN
+filmed T-VVN T-VVN
+in T-IN T-IN
+the T-DT T-DT
+czech T-NN T-NN
+republic T-NN T-NN
+
+list T-NN T-NN
+movies T-NNS T-NNS
+set T-VVN T-VVN
+in T-IN T-IN
+ireland T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+movies T-NNS T-NNS
+released T-VVN T-VVN
+in T-IN T-IN
+england T-NN T-NN
+
+what T-WP T-WP
+movies T-NNS T-NNS
+are T-VBP T-VBP
+coming T-VVG T-VVG
+out T-RP T-RP
+this T-DT T-DT
+week T-NN T-NN
+in T-IN T-IN
+great T-JJ T-JJ
+britain T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+movies T-NNS T-NNS
+released T-VVN T-VVN
+in T-IN T-IN
+<unk> T-NN T-NN
+
+what T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+top T-JJ T-JJ
+five T-CD T-CD
+french T-NN T-NN
+movies T-NNS T-NNS
+of T-IN T-IN
+all T-DT T-DT
+time T-NN T-NN
+
+what T-WP T-WP
+top T-JJ T-JJ
+films T-NNS T-NNS
+have T-VHP T-VHP
+come T-VVN T-VVN
+out T-RP T-RP
+of T-IN T-IN
+russia T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+top T-JJ T-JJ
+movies T-NNS T-NNS
+from T-IN T-IN
+spain T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+highest T-JJS T-JJS
+rated T-VVN T-VVN
+zombie T-NN T-NN
+movie T-NN T-NN
+
+what T-WP T-WP
+are T-VBP T-VBP
+<unk> T-RB T-RB
+rated T-VVN T-VVN
+zombie T-NN T-NN
+movies T-NNS T-NNS
+i T-NP T-NP
+can T-MD T-MD
+watch T-VV T-VV
+
+look T-NN T-VV
+for T-IN T-IN
+popular T-JJ T-JJ
+movies T-NNS T-NNS
+
+search T-NN T-NN
+for T-IN T-IN
+foreign T-JJ T-JJ
+language T-NN T-NN
+films T-NNS T-NNS
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+will T-NN T-NN
+ferrell T-NN T-NN
+famous T-JJ T-JJ
+for T-IN T-IN
+
+is T-VBZ T-VBZ
+this T-DT T-DT
+a T-DT T-DT
+musical T-NN T-JJ
+
+hope T-VVP T-NN
+that T-IN/that T-WDT
+the T-DT T-DT
+movie T-NN T-NN
+is T-VBZ T-VBZ
+in T-IN T-IN
+english T-NN T-NN
+
+is T-VBZ T-VBZ
+this T-DT T-DT
+movie T-NN T-NN
+in T-IN T-IN
+english T-NN T-NN
+
+do T-VV T-VV
+they T-PP T-PP
+speak T-VV T-VVP
+german T-JJ T-NN
+in T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+
+is T-VBZ T-VBZ
+this T-DT T-DT
+movie T-NN T-NN
+filmed T-VVN T-VVN
+in T-IN T-IN
+india T-NN T-NN
+
+show T-VV T-VV
+all T-DT T-DT
+dawn T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+dead T-JJ T-JJ
+movies T-NNS T-NNS
+
+all T-DT T-RB
+of T-IN T-IN
+kung T-NP T-NP
+<unk> T-NP T-POS
+panda T-NN T-NN
+movies T-NNS T-NNS
+
+list T-NN T-NN
+movies T-NNS T-NNS
+that T-WDT T-WDT
+have T-VHP T-VHP
+time T-NN T-NN
+travel T-NN T-NN
+in T-IN T-IN
+their T-PP$ T-PP$
+title T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+nine T-CD T-CD
+twenty T-CD T-CD
+eight T-CD T-CD
+release T-NN T-NN
+date T-NN T-NN
+films T-NNS T-NNS
+from T-IN T-IN
+twenty T-CD T-CD
+twelve T-NN T-NN
+
+find T-VV T-VV
+information T-NN T-NN
+about T-IN T-IN
+french T-JJ T-JJ
+movies T-NNS T-NNS
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+to T-TO T-TO
+know T-VV T-VV
+more T-JJR T-JJR
+about T-IN T-IN
+the T-DT T-DT
+life T-NN T-NN
+and T-CC T-CC
+movies T-NNS T-NNS
+of T-IN T-IN
+indian T-JJ T-JJ
+actor T-NN T-NN
+dilip T-NN T-NN
+kumar T-NN T-NN
+
+what T-WP T-WP
+does T-VVZ T-VVZ
+the T-DT T-DT
+miramax T-NN T-NN
+logo T-NN T-NN
+look T-VVP T-NN
+like T-IN T-IN
+
+show T-VV T-VV
+me T-PP T-PP
+pictures T-NNS T-NNS
+of T-IN T-IN
+martin T-NN T-NN
+scorsese T-NN T-NN
+
+photos T-NNS T-NNS
+of T-IN T-IN
+steven T-JJ T-JJ
+spielberg T-NN T-NN
+
+i T-NNS T-NNS
+want T-VVP T-VVP
+to T-TO T-TO
+see T-VV T-VV
+images T-NNS T-NNS
+of T-IN T-IN
+will T-NN T-NN
+ferrell T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+pictures T-NNS T-NNS
+of T-IN T-IN
+woody T-JJ T-JJ
+allen T-NN T-NN
+
+what T-WP T-WP
+are T-VBP T-VBP
+popular T-JJ T-JJ
+movie T-NN T-NN
+producers T-NNS T-NNS
+
+can T-MD T-MD
+you T-PP T-PP
+give T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+producer T-NN T-NN
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+the T-DT T-DT
+rating T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+avatar T-NN T-NN
+
+what T-WP T-WP
+rating T-NN T-NN
+is T-VBZ T-VBZ
+the T-DT T-DT
+movie T-NN T-NN
+barfi T-NN T-NNS
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+finding T-VVG T-VVG
+nemo T-NN T-NN
+rated T-VVN T-VVN
+
+i T-NNS T-NNS
+need T-VVP T-VVP
+to T-TO T-TO
+know T-VV T-VV
+the T-DT T-DT
+rating T-NN T-NN
+of T-IN T-IN
+grease T-NN T-NN
+
+can T-MD T-MD
+you T-PP T-PP
+find T-VV T-VV
+out T-RP T-RP
+what T-WP T-WP
+rating T-NN T-NN
+the T-DT T-DT
+movie T-NN T-NN
+grease T-NN T-NN
+is T-VBZ T-VBZ
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+kids T-NNS T-NNS
+by T-IN T-IN
+<unk> T-NN T-DT
+clark T-NN T-NN
+rated T-VVN T-VVN
+
+what T-WP T-WP
+rating T-NN T-NN
+did T-VVD T-VVD
+marley T-NN T-NN
+and T-CC T-CC
+me T-PP T-PP
+receive T-VVP T-VV
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+rating T-NN T-NN
+for T-IN T-IN
+mr T-NN T-NN
+and T-CC T-CC
+mrs T-NN T-NN
+smith T-NN T-NN
+
+what T-WP T-WP
+rating T-NN T-NN
+did T-VVD T-VVD
+resident T-JJ T-JJ
+evil T-NN T-NN
+receive T-VV T-VVP
+
+rating T-NN T-NN
+for T-IN T-IN
+snow T-NN T-NN
+white T-NN T-NN
+and T-CC T-CC
+the T-DT T-DT
+huntsman T-NN T-NN
+
+what T-WP T-WP
+rating T-NN T-NN
+is T-VBZ T-VBZ
+step T-NN T-VV
+up T-RB T-RP
+
+look T-VV T-VV
+up T-RP T-RP
+the T-DT T-DT
+rating T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+step T-NN T-NN
+up T-RB T-RB
+
+what T-WP T-WP
+rating T-NN T-NN
+did T-VVD T-VVD
+the T-DT T-DT
+campaign T-NN T-NN
+movie T-NN T-NN
+get T-VV T-VV
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+rating T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+the T-DT T-DT
+expendables T-NNS T-NNS
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+rating T-NN T-NN
+for T-IN T-IN
+toy T-JJ T-JJ
+story T-NN T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+rating T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+toy T-NN T-JJ
+story T-NN T-NN
+
+rating T-NN T-NN
+for T-IN T-IN
+twilight T-NN T-NN
+breaking T-VVG T-VVG
+dawn T-NN T-NN
+
+what T-WP T-WP
+was T-VBD T-VBD
+gross T-JJ T-JJ
+revenue T-NN T-NN
+for T-IN T-IN
+batman T-NN T-NN
+begins T-VVZ T-VVZ
+
+how T-WRB T-WRB
+much T-RB T-RB
+has T-VHZ T-VHZ
+black T-JJ T-JJ
+swan T-NN T-NN
+<unk> T-VVN T-NN
+in T-IN T-IN
+
+find T-VV T-VV
+the T-DT T-DT
+revenue T-NN T-NN
+for T-IN T-IN
+downton T-NN T-NN
+abbey T-NN T-NN
+
+find T-VV T-VV
+the T-DT T-DT
+revenue T-NN T-NN
+of T-IN T-IN
+<unk> T-NN T-DT
+<unk> T-VVP T-NN
+<unk> T-NNS T-NN
+
+what T-WP T-WP
+is T-VBZ T-VBZ
+the T-DT T-DT
+most T-JJS T-RBS
+a T-DT T-DT
+movie T-NN T-NN
+made T-VVD T-VVN
+
+reviews T-NNS T-NNS
+for T-IN T-IN
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+find T-VV T-VV
+reviews T-NNS T-NNS
+for T-IN T-IN
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+
+what T-WP T-WP
+are T-VBP T-VBP
+reviews T-NNS T-NNS
+for T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+what T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+ratings T-NNS T-NNS
+and T-CC T-CC
+review T-NN T-NN
+on T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+reviews T-NNS T-NNS
+for T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+reviews T-NNS T-NNS
+for T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+reviews T-NNS T-NNS
+for T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+reviews T-NNS T-NNS
+for T-IN T-IN
+movie T-NN T-NN
+
+reviews T-NNS T-NNS
+for T-IN T-IN
+in T-IN T-IN
+july T-NN T-RB
+
+what T-WP T-WP
+are T-VBP T-VBP
+the T-DT T-DT
+<unk> T-NNS T-NN
+<unk> T-VVG T-NN
+about T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+episode T-NN T-NN
+four T-CD T-CD
+
+how T-WRB T-WRB
+long T-RB T-RB
+is T-VBZ T-VBZ
+life T-NN T-NN
+is T-VBZ T-VBZ
+beautiful T-JJ T-JJ
+
+synopsis T-NN T-NN
+for T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+synopsis T-NN T-NN
+for T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+four T-CD T-CD
+
+summary T-NN T-NN
+of T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+four T-CD T-CD
+
+finding T-VVG T-VVG
+nemo T-NN T-NN
+movie T-NN T-NN
+shortcut T-NN T-NN
+
+show T-VV T-VV
+me T-PP T-PP
+the T-DT T-DT
+trailer T-NN T-NN
+for T-IN T-IN
+house T-NN T-NN
+at T-IN T-IN
+the T-DT T-DT
+end T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+street T-NN T-NN
+
+life T-NN T-NN
+is T-VBZ T-VBZ
+beatiful T-JJ T-JJ
+shortcut T-NN T-NN
+
+trailer T-NN T-NN
+for T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+a T-DT T-DT
+new T-JJ T-JJ
+hope T-NN T-NN
+
+show T-VV T-VV
+resident T-JJ T-JJ
+evil T-JJ T-NN
+movies T-NNS T-NNS
+with T-IN T-IN
+trailers T-NNS T-NNS
+
+can T-MD T-MD
+i T-NNS T-NNS
+see T-VV T-VV
+<unk> T-NNS T-NNS
+for T-IN T-IN
+upcoming T-JJ T-JJ
+warner T-NN T-NN
+brothers T-NNS T-NNS
+movies T-NNS T-NNS
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+woody T-JJ T-JJ
+allen T-NN T-NN
+movies T-NNS T-NNS
+are T-VBP T-VBP
+set T-VVN T-VVN
+in T-IN T-IN
+new T-JJ T-JJ
+<unk> T-VVP T-NN
+city T-NN T-NN
+
+how T-WRB T-WRB
+many T-JJ T-JJ
+scorsese T-JJ T-NN
+films T-NNS T-NNS
+were T-VBD T-VBD
+filmed T-VVN T-VVN
+in T-IN T-IN
+france T-NN T-NN
 

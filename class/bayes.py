@@ -301,7 +301,16 @@ def main(argv):
 
 		l = featurExtract(sent,tags)
 
-		print("a " + "\tL-" + labels.split()[0] + "\tL-" + predict(probs,l,total,wordForLabels)[0] + "\n")
+		p = predict(probs,l,total,wordForLabels)[0]
+
+		lable_from_test = labels.split()[0]
+
+		#considering that test have 2 lables
+		if len(labels.split()) > 1:
+			if labels.split()[1] == p : 
+				lable_from_test = p
+
+		print("a " + "\tL-" + lable_from_test + "\tL-" + p + "\n")
 				
 
 if __name__ == "__main__":

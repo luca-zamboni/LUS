@@ -34,7 +34,7 @@ compilefst-image (){
 
 train-lm-tag (){
 	farcompilestrings $FLAG_SYM --unknown_symbol=$UNK_SYMB $1.txt > $1.far
-	ngramcount --order=3 --require_symbols=false $1.far > $1.cnt
+	ngramcount --order=2 --require_symbols=false $1.far > $1.cnt
 	ngrammake --method=witten_bell $1.cnt > $1.lm
 }
 
