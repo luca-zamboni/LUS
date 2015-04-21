@@ -112,30 +112,3 @@ movie	NN	movie
 apollo	NN	apollo
 thirteen	CD	thirteen
 
-who	WP	who
-starred	VVD	star
-in	IN	in
-the	DT	the
-avengers	NNS	avenger
-
-cast	VVN	cast
-for	IN	for
-finding	VVG	find
-nemo	NN	nemo
-
-actor	NN	actor
-from	IN	from
-lassie	NN	lassie
-
-list	NN	list
-actors	NNS	actor
-in	IN	in
-the	DT	the
-movie	NN	movie
-midnight	NN	midnight
-cowboy	NN	cowboy
-
-dirty	JJ	dirty
-dancing	NN	dancing
-actors	NNS	actor
-

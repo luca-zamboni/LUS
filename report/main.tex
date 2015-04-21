@@ -2,6 +2,7 @@
 
 \usepackage{pgfplots}
 \usepackage{amsmath}
+\usepackage{xcolor,colortbl}
 
 % \titleformat{\section}{\normalfont\fontsize{10}{10}\bfseries}{\thesection}{1em}{}
 
@@ -25,7 +26,7 @@
 \newpage
 \section{Sequence lebeling}
 
-	In this section will be analyzed and discussed the performance 2 different methods for the sequence lebeling task. Final state transducer (FST) based on POS-Tagging and Conditional random fields (CRF) based on IOB notation.
+	In this section will be analyzed and discussed the performance of 2 different methods for the sequence lebeling task. Final state transducer (FST) based on POS-Tagging and Conditional random fields (CRF) based on IOB notation.
 
 	\subsection{FST}
 		\subsubsection{Data analysis}
@@ -41,7 +42,7 @@
 			The tools used for the train and test:
 			\begin{itemize}
 				\item OpenFst used to create and compose fsts for unigram
-				\item OpenNgr used to automatically train models with n-grams
+				\item OpenGrm used to automatically train models with n-grams
 			\end{itemize}
 		\subsubsection{Training}
 			First of all i created a file with the following structure
@@ -54,13 +55,12 @@
 					... \\
 					0 \qquad 0 \qquad word \qquad tag \qquad -log(P(w_i|t_i)) \\
 			\end{gather*}
-			This transducer is our model based on unigrams. Now we want consider also the probability of a tag given the predecessor. To do this i used the Opne-ngr tool that automatically creates the model of n-grams of token. The command that i used are the following:\\ \\
+			At the end it has been added also the probability of an unknown word is present. This probability is equal for every tag. This transducer is our model based on unigrams. Now we want consider also the probability of a tag given the predecessor. To do this i used the Open-grm tool that automatically creates the model of n-grams of token. The command that i used are the following:\\ \\
 
 			\textbf{farcompilestrings} --unknown\_symbol='$<$unk$>$' input.txt $>$ far.far \\
 			\textbf{ngramcount} --order=N --require\_symbols=false far.far $>$ input.cnt \\
 			\textbf{ngrammake} --method=witten\_bell input.cnt $>$ ngrammodel.lm \\ \\
 
-			Where the paramether of the 
 			The final output is a fst that rappresent out model of 3-gram POS-tag.
 			Now that i trained my model i can test it.
 
@@ -72,12 +72,13 @@
 					... \\
 					(N-1) \quad N \quad wordN \quad wordN	
 			\end{gather*}
+			If a word is not present in the train file it is substituted with '<unk>'.
 			Now this fst is composed with the fst that represent our unigram-tag model. \\ \\
 			\textbf{fstcompose} input-sentence.fst unigram-model.fst $>$ word-tagged-unigram.fst \\ \\
 			Now we have a simple tagger based on unigrams. To use also the model based on n-gram of tags we just compose the previous tagger with this. \\ \\
 			\textbf{fstcompose} simple-tagger.fst n-gram-model.fst $>$ word-tagged-n-gram.fst \\ \\
 			And after to get the best tagger we just run the command fstshortestpath. We can use the command shortest path because is not the real probability but the minus log o probability and in this way with this command we get the most probable sequence of tag. All command togheter in order to get a sequance of POS-tag of a sentence: \\ \\
-			\textbf{fstcompose} input-sentence.fst unigram-model.fst $>$ word-tagged-unigram.fst \\
+			\textbf{fstcompose} input-sentence.fst unigram-model.fst $>$ simple-tagger.fst \\
 			\textbf{fstcompose} simple-tagger.fst n-gram-model.fst $>$ word-tagged-n-gram.fst \\
 			\textbf{fstrmepsilon} word-tagged-n-gram.fst $|$ fstshortestpath $>$ final-tag.fst \\ \\
 
@@ -100,9 +101,8 @@
 				\end{tabular}
 				\caption{Result of test}
 			\end{table}
-			accuracy:  94.13%; precision:  92.87%; recall:  93.29%; FB1:  93.08
 
-			The best result is in the model based on 3-gram. As we can see in the table, the simple POS-tagger is less precise of the tagger based on n-gram. This because using we do not consider only probability as word but also the previous word and the previous tag. As we can se from the table if we train our model considering also the lemma accuracy goes down a lot this because maybe inenghlish lemma doesn't cont too much.Perhaps they can be useful in other language like Italian where the grammar is more complex. We can conclude that the model based on 3-gram is the best for accuracy. The model based on 4-gram is too complex and it risk to fit also the rumor of data do i decided to do not consider that.
+			The best result is in the model based on 3-gram. As we can see in the table, the simple POS-tagger is less precise of the tagger based on n-gram. This because using we do not consider only probability as word but also the previous word and the previous tag. As we can se from the table if we train our model considering also the lemma accuracy goes down a lot this because maybe in enghlish lemma doesn't count too much.Perhaps they can be useful in other language like Italian where the grammar is more complex. We can conclude that the model based on 3-gram is the best for accuracy. The model based on 4-gram is too complex and it risk to fit also the rumor and i decided to do not consider that.
 
 	\subsection{CRF}
 		\subsubsection{Data analysis}
@@ -134,7 +134,7 @@
 				\begin{tabular}{ccccc}
 					& \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall}  & \textbf{F1 Score} \\
 					\textbf{Template 1} & 87.59\%  & 44.99\%   & 60.49\% & 51.60    \\
-					\textbf{Template 2} & 92.38\%  & 65.98\%   & 67.55\% & 66.7     \\
+					\textbf{Template 2} & 93.59\%  & 74.74\%   & 73.24\% & 73.98     \\
 					\textbf{Template 3} & 93.76\%  & 76.97\%   & 74.43\% & 75.68    \\
 					\textbf{Template 4} & 94.23\%  & 86.35\%   & 78.28\% & 82.12    \\
 				\end{tabular}
@@ -154,7 +154,7 @@
 			Train a model with sentences and relative tag in order to output a tag given a sentence.
 		\subsubsection{Data analysis}
 			The training set is composed by sencences with relative tag. Sencences are 3338.
-			The distribution of tags is described in Figure \ref{bayes-dist}. As we can see movie is the tags with more probability.
+			The distribution of tags is described in Figure \ref{bayes-dist}. As we can see "movie is the tags with more probability.
 			\begin{figure}[h!]
 			  \centering
 			    \includegraphics[width=1.0\textwidth]{img/bayes-tag}
@@ -172,13 +172,13 @@
 			\end{gather*}
 			Where $P(w_i | tag)$ is the probability that the $word_i$ have that particular tag. To compute this probability we use the following formula $\frac{C(w_i | tag)}{C(w_i)}$. Where $C(w_i | tag)$ is the count of the word that appers with a particular tag and $C(w_i)$ is the count of that word in the dataset.
 		\subsubsection{Testing}
-			I did some test. The first with a simple naive classifier. After considering also bigrams of words as unigrams like $word_i\_word_i+1$. In this way the phrase "star of thor" becomes the set $\{star,of,thor,start\_of,of_thor\}$. This way also for the trigrams. It has been considered also POS-tag and removing english stop word. For the smoothing for a unknown word i used simple +1 on every count.
+			I did some test. First one with a simple naive classifier. After considering also bigrams of words as unigrams like $word_i\_word_i+1$. In this way the phrase "star of thor" becomes the set $\{star,of,thor,start\_of,of_thor\}$. This way also for the trigrams. It has been considered also POS-tag and removing english stop word. For the smoothing for a unknown word i used simple +1 on every count.
 			The result are described in the table \ref{bayes}.
 			\begin{table}[h]
 			\begin{tabular}{lcccccc}
 			                              & \textbf{Stop word} & \textbf{POS-Tag} & \textbf{Accuracy} & \textbf{Precision} & \textbf{Recall} & \textbf{F1} \\
 			\textbf{S}               & Yes                & No               & 66.51\%           & 66.51\%            & 66.51\%         & 66.51             \\
-			\textbf{S B}  & Yes                & No               & 79.52\%           & 79.52\%            & 79.52\%         & 79.52             \\
+			\cellcolor[HTML]{34FF34}\textbf{S B}  & \cellcolor[HTML]{34FF34}Yes                & \cellcolor[HTML]{34FF34}No               & \cellcolor[HTML]{34FF34}79.52\%           & \cellcolor[HTML]{34FF34}79.52\%            & \cellcolor[HTML]{34FF34}79.52\%         & \cellcolor[HTML]{34FF34}79.52             \\
 			\textbf{S T} & Yes                & No               & 78.69\%           & 79.13\%            & 78.69\%         & 78.91             \\
 			\textbf{S}               & No                 & No               & 67.34\%           & 67.34\%            & 67.34\%         & 67.34             \\
 			\textbf{S B}  & No                 & No               & 71.86\%           & 71.86\%            & 71.86\%         & 71.86             \\

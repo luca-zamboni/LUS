@@ -24,3 +24,118 @@ was T-VBD T-VBD
 in T-IN T-IN
 twilight T-NN T-NN
 
+who T-WP T-WP
+is T-VBZ T-VBZ
+in T-IN T-IN
+<unk> T-NN T-NN
+
+actor T-NN T-NN
+from T-IN T-IN
+lost T-VVN T-VVN
+
+who T-WP T-WP
+played T-VVD T-VVD
+in T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+rocky T-JJ T-JJ
+
+who T-WP T-WP
+played T-VVD T-VVD
+in T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+captain T-NN T-NN
+america T-NN T-NN
+
+cast T-NN T-NN
+and T-CC T-CC
+crew T-NN T-NN
+for T-IN T-IN
+in T-IN T-IN
+july T-NN T-NN
+
+who T-WP T-WP
+is T-VBZ T-VBZ
+in T-IN T-IN
+movie T-NN T-NN
+in T-IN T-IN
+july T-RB T-RB
+
+who T-WP T-WP
+'s T-VBZ T-VBZ
+in T-IN T-IN
+star T-NN T-NN
+wars T-NNS T-NNS
+episode T-NN T-NN
+four T-CD T-CD
+
+who T-WP T-WP
+was T-VBD T-VBD
+in T-IN T-IN
+apollo T-NN T-NN
+thirteen T-CD T-CD
+
+who T-WP T-WP
+was T-VBD T-VBD
+apollo T-NN T-NN
+thirteen T-CD T-CD
+'s T-VBZ T-POS
+cast T-VVN T-NN
+
+search T-NN T-NN
+for T-IN T-IN
+information T-NN T-NN
+about T-IN T-IN
+the T-DT T-DT
+cast T-NN T-NN
+and T-CC T-CC
+crew T-NN T-NN
+of T-IN T-IN
+appolo T-NP T-NP
+thirteen T-CD T-CD
+
+i T-NP T-NP
+would T-MD T-MD
+like T-VV T-VV
+to T-TO T-TO
+know T-VV T-VV
+more T-JJR T-JJR
+about T-IN T-IN
+the T-DT T-DT
+cast T-NN T-NN
+and T-CC T-CC
+crew T-NN T-NN
+of T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+apollo T-NN T-NN
+thirteen T-CD T-CD
+
+who T-WP T-WP
+starred T-VVD T-VVD
+in T-IN T-IN
+the T-DT T-DT
+avengers T-NNS T-NNS
+
+cast T-VVN T-NN
+for T-IN T-IN
+finding T-VVG T-VVG
+nemo T-NN T-NN
+
+actor T-NN T-NN
+from T-IN T-IN
+<unk> T-NN T-NN
+
+list T-NN T-VV
+actors T-NNS T-NNS
+in T-IN T-IN
+the T-DT T-DT
+movie T-NN T-NN
+<unk> T-NN T-IN
+<unk> T-NN T-NN
+
+dirty T-JJ T-JJ
+dancing T-NN T-NN
+actors T-NNS T-NNS
+

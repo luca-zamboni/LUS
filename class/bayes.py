@@ -134,9 +134,9 @@ def nGramList(words):
   		ret = ret + [w + "_" +x]
 
 
-  	word = zip(words,words[1:],words[2:])
-  	for w,x,z in word:
-  		ret = ret + [w + "_" +x+ "_"+z]
+  	#word = zip(words,words[1:],words[2:])
+  	#for w,x,z in word:
+  	#	ret = ret + [w + "_" +x+ "_"+z]
   	
   	return ret
 
@@ -149,7 +149,7 @@ def mergeList(l1,l2):
 
 #Given text and tags retrun unigram of combined features
 def featurExtract(text,tags):
-	text,tags = removeStopTags(text,tags)
+	#text,tags = removeStopTags(text,tags)
 	ret = []
 	ret += text.split()
 	nG = text.split()
@@ -169,7 +169,7 @@ def featurExtract(text,tags):
 
   	#ret += mergeList(text.split()[1:],tagBi)
 
-	ret += mergeList(text.split(),tags.split())
+	#ret += mergeList(text.split(),tags.split())
 
   	#print(ret)
 

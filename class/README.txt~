@@ -1,0 +1,3 @@
+
+Train and test
+./train_eval.sh -t
