@@ -1,0 +1,13 @@
+
+old="$(cat main.tex | md5sum)"
+
+while [ "true" ]
+do
+	new="$(cat main.tex | md5sum)"
+	if [ "$new" != "$old" ]; then
+		make
+		old=$new
+	fi
+	sleep 5
+
+done
